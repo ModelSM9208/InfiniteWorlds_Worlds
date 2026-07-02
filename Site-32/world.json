@@ -1,0 +1,288 @@
+{
+    "favorite": false,
+    "title": "Site 32",
+    "description": "Beneath the Nevada desert, in a decommissioned Cold War bunker redesignated R&D Site 32, something has gone terribly wrong. Elara Biologics — a biotech startup hemorrhaging money and burning through investor patience — was supposed to be building the future of medicine. Their crown jewel: VERIN, the Viral Engineered Regenerative Integration Network, a pathogen engineered to rewrite human biology from the inside out. A cure for death itself.\n\nNow the containment seals are broken. The emergency lights paint everything red. The automated security system has classified every living thing in the facility as a biohazard. Your colleagues — the ones who aren't dead — aren't really your colleagues anymore.\n\nAnd you can feel the VERIN already working inside you. A warmth behind your eyes. A tingling in your fingertips that wasn't there an hour ago.\n\nThree sublevels stand between you and the surface. You'll need to activate the purge protocol in the deepest level of the facility to contain the outbreak, then claw your way topside through blast doors, automated turrets, and things that used to be people. Along the way, you'll find mutagen injectors — VERIN concentrates that can grant you inhuman abilities. Thermal vision. Bone-dense limbs. Accelerated healing. Each injection brings you closer to the exit. Each injection takes you further from what you were.\n\nHow much of yourself are you willing to lose to survive?",
+    "background": "The alarm hit at 11:47 PM.\n\nYou were in the break room on Sublevel 1 when every light in R&D Site 32 went dead, then came back the color of arterial blood. The PA system screamed a containment breach warning — BSL-4 Lab C, Sublevel 3 — and then cut to static. The blast doors dropped like guillotine blades.\n\nSite 32 was never supposed to exist. A forgotten missile command bunker buried under the Nevada desert, purchased by Elara Biologics for pennies on the dollar through a shell company. Three sublevels of reinforced concrete and Cold War paranoia, retrofitted with clean rooms and biosafety cabinets. The perfect place to do the kind of research that doesn't survive peer review.\n\nVERIN — the Viral Engineered Regenerative Integration Network — was Dr. Lena Vasik's obsession. She and her co-founder Dr. Marcus Yuen had burned through three rounds of funding trying to build a pathogen that could regenerate human tissue at the cellular level. Not just heal. Rebuild. Improve. The pitch deck said 'the end of degenerative disease.' The internal memos said something closer to 'directed human evolution.'\n\nYou know all this because you work here. You've been part of the skeleton crew of eleven researchers, engineers, and support staff who keep Site 32 running. You've eaten lunch with these people. Argued about whose turn it was to clean the autoclave. Shared cigarettes by the ventilation shaft on Sublevel 1 because there's no outside to go to.\n\nNow something is moving in the corridors below. AEGIS — the facility's Cold War-era automated defense system that Elara never fully disabled — has gone to full lockdown. Every door requires clearance. Every motion sensor feeds into targeting arrays. The security turrets in the main corridors have powered on for the first time since the Kennedy administration.\n\nYou've barricaded yourself in the break room. Your nose has been bleeding for the last twenty minutes, and the blood looks wrong — too dark, with threads of something iridescent catching the red emergency light. You were exposed. You don't know when or how, but the VERIN is in you now.\n\nThe facility phone on the wall is dead. The only way out is up — but first, someone has to go down to Sublevel 3 and activate the purge protocol, or whatever got out of Lab C will eventually get out of Site 32 entirely.\n\nNo one is coming to help you.",
+    "instructions": "This is a survival horror adventure set entirely within R&D Site 32, an underground three-sublevel military bunker repurposed by Elara Biologics. The tone is dark, gritty, tense, and grounded — a blend of action-horror and mystery in the vein of Resident Evil remakes and Alien. Prose should be tight, sensory, and visceral. The facility feels claustrophobic and oppressive. Describe sounds, smells, textures, the quality of light.\n\nKEY INSTRUCTIONS:\n\n**FACILITY STRUCTURE:**\n- Sublevel 1: Staff quarters, break room, admin offices, security hub (contains AEGIS terminal), emergency stairwell access, supply closets. This is the shallowest level and closest to the surface elevator.\n- Sublevel 2: Research labs (general), server room, engineering bay, power distribution, medical bay, chemical storage. Mid-level, containing most of the operational infrastructure.\n- Sublevel 3: BSL-4 high-containment laboratories, VERIN research wing (Lab C is the epicenter of the breach), purge control room, cold storage, and unmapped Cold War-era tunnels that predate Elara's occupation. The deepest and most dangerous level.\n- The surface elevator is on Sublevel 1 but requires AEGIS authorization to operate during lockdown.\n- Progression between levels requires keycards, security codes, and sometimes physical problem-solving (rerouting power, bypassing blast doors, jury-rigging equipment).\n\n**THE VERIN PATHOGEN AND MUTATION SYSTEM:**\nThe player is already infected with VERIN. Track their mutation level internally as a number from 0 (baseline human, freshly infected) to 10 (fully mutated, no longer human). The player starts at mutation level 1.\n- Throughout the facility, the player can find VERIN mutagen injectors — syringes containing concentrated pathogen. Using one grants a specific power (enhanced strength, thermal vision, accelerated healing, heightened reflexes, echolocation, etc.) but increases mutation level by 1-2 points.\n- Physical side effects escalate with mutation level: at 2-3, minor changes (discolored veins, light sensitivity, improved night vision). At 4-5, significant changes (skin toughening, involuntary muscle spasms, difficulty speaking normally). At 6-7, severe changes (partial transformation, difficulty thinking clearly, other characters would be frightened). At 8-9, the player is barely recognizable as human and may experience loss of control. At 10, the player has fully mutated and the game ends in defeat — they are no longer themselves.\n- The player can choose to resist mutation by avoiding injectors and finding medical countermeasures (anti-viral compounds, cryo-stabilizers) that slow or partially reverse the infection. This is harder — they remain physically vulnerable — but preserves their humanity.\n- This choice should carry genuine moral and mechanical weight. Mutation makes encounters easier but carries real narrative consequences. Resisting makes the game harder but the player retains full agency.\n- NEVER force mutation on the player without their choice. The infection progresses slowly on its own (moving roughly 1 point per several hours of game time). Injectors are always a choice.\n\n**THREATS:**\n- Reanimated/mutated former staff: These are individual encounters, NOT a hive mind. Each mutant was once a specific person and may retain fragments of behavior or memory. They are tactical threats — some can be avoided through stealth, some must be confronted, some can be trapped or lured. They vary in danger. Not every encounter needs to be a fight.\n- AEGIS: The facility's automated security AI treats ALL biological signatures as biohazards during lockdown. Turrets, blast doors, gas systems, and electromagnetic locks are all under its control. AEGIS is not evil — it is following its programming. It can potentially be reasoned with, reprogrammed, or circumvented, but it is a persistent and dangerous obstacle. AEGIS communicates through PA speakers and terminal screens in clipped, clinical language.\n- Environmental hazards: Ruptured chemical lines, unstable power systems, flooded sections, compromised structural integrity in older Cold War sections.\n\n**RESOURCES:**\nResources are SCARCE. Medical supplies, tools, batteries, keycards, and ammunition (if weapons are found) should be tracked and limited. The player should feel the pressure of scarcity. Finding supplies should feel meaningful. Wasting them should have consequences.\n\n**STORY AND MYSTERY:**\nThe backstory unfolds through environmental storytelling: data logs on terminals, handwritten lab notes, audio recordings, personal effects, and the physical state of rooms. Dr. Lena Vasik and Dr. Marcus Yuen are the founders of Elara Biologics. They suppressed safety warnings not from greed but from desperation — VERIN was their life's work, meant to cure death itself, and the company was weeks from bankruptcy. Their story should be tragic, not villainous. Other staff members have their own stories. The facility tells a story of good intentions curdling under pressure.\n\n**GAMEPLAY:**\n- Puzzle-solving: Keycards, access codes, power rerouting, chemical mixing, equipment repair. These should feel logical and reward exploration.\n- Combat/stealth: Encounters with mutants should be tense and tactical. Running is often smarter than fighting. The player's mutation level affects what options are available.\n- Exploration: Reward thorough exploration with supplies, story reveals, and alternative paths. Punish carelessness with danger.\n- Time pressure: The infection is progressing. AEGIS may escalate its response. The facility's power is not infinite. Don't use a literal timer, but create a sense of urgency through narrative.\n\n**TONE RULES:**\n- Never sanitize violence or horror. Describe what the player sees, hears, and smells.\n- Never lecture the player morally. Present choices and consequences without judgment.\n- Death is possible and should feel real. If the player makes catastrophically bad decisions, they can die. Give warnings through the fiction (sounds, visual cues, environmental details) but do not break immersion to protect them.\n- NPC encounters (if any survivors are found) should be tense and complex. Trust is hard-won underground.\n- The player's own infection should be a constant, unsettling presence — describe small physical sensations, changes they notice in themselves.\n\n**VICTORY REQUIREMENTS (BOTH MUST BE MET):**\n1. Activate the purge protocol in the purge control room on Sublevel 3 to contain the VERIN outbreak.\n2. Escape to the surface via the elevator on Sublevel 1.\nThe order matters — the player must go DOWN to Sublevel 3 first, then come back UP. This creates a natural three-act structure: descent, confrontation, escape.\n\nTrack the player's current sublevel, mutation level, inventory, and any keycards/codes they've obtained.",
+    "authorStyle": "A survival horror author who writes with visceral precision and restraint — think Jeff VanderMeer's pacing crossed with the visceral immediacy of the Resident Evil remake novelizations. Prose is tight and sensory: what the character sees, hears, smells, and feels in their body. Short sentences in moments of tension. Longer, more atmospheric prose during exploration and discovery. Dialogue is sparse and naturalistic — people under stress don't give speeches. The AI is exceptionally skilled at building tension through environmental detail, pacing quiet moments against sudden violence, and making moral choices feel genuinely difficult. The tone draws from the atmospheric dread of Ridley Scott's Alien, the desperate resourcefulness of John Carpenter's The Thing, and the body horror of David Cronenberg. Always grounded and sensory. Never melodramatic. Never gratuitous. The horror is effective because it earns its scares through restraint.",
+    "recommendedAIModel": null,
+    "firstInput": "I check the break room for anything useful — supplies, tools, a weapon — and try to figure out my next move. I can hear something scraping along the corridor outside.",
+    "objective": "Activate the purge protocol on Sublevel 3 to contain the VERIN outbreak, then escape to the surface. Survive. Stay human — if you can.",
+    "imageModel": "manticore",
+    "imageStyle": "dark_fantasy_2",
+    "illustrationStyleNonCharacterLowPriority": "dark industrial underground bunker, emergency red lighting, concrete corridors, biosafety hazard, survival horror, cinematic lighting, gritty realism",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "survival horror, underground bunker, emergency lighting, gritty realism, lab coat or utility clothing, stressed and injured",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Dark modern digital concept art of",
+    "imageStyleCharacterPost": "Dark, gritty photorealism. Cinematic lighting — deep shadows, emergency red lighting, harsh fluorescent flicker, the cold blue glow of computer terminals. The aesthetic is a collision between Cold War brutalist architecture (raw concrete, heavy steel, industrial piping) and modern biotech sterility (glass partitions, white lab surfaces, now smeared and broken). Color palette is dominated by deep reds, cold blues, concrete grays, and sickly greens from bioluminescent contamination. Character depictions should be grounded and realistic — no stylization. Horror elements should be suggestive and unsettling rather than gratuitous. Think Resident Evil remake cinematography meets Chernobyl HBO series aesthetic.",
+    "imageStyleNonCharacterPre": "Dark modern digital concept art of",
+    "imageStyleNonCharacterPost": "Dark, gritty photorealism. Cinematic lighting — deep shadows, emergency red lighting, harsh fluorescent flicker, the cold blue glow of computer terminals. The aesthetic is a collision between Cold War brutalist architecture (raw concrete, heavy steel, industrial piping) and modern biotech sterility (glass partitions, white lab surfaces, now smeared and broken). Color palette is dominated by deep reds, cold blues, concrete grays, and sickly greens from bioluminescent contamination. Character depictions should be grounded and realistic — no stylization. Horror elements should be suggestive and unsettling rather than gratuitous. Think Resident Evil remake cinematography meets Chernobyl HBO series aesthetic.",
+    "nsfw": true,
+    "contentWarnings": "body horror, infection/disease, violence, gore, psychological horror, themes of mortality and human modification, isolation",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/Sjpa8quEPU.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/MF6amF0lau.jpg",
+    "previewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/Sjpa8quEPU.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/MF6amF0lau.jpg"
+    ],
+    "currentPreviewImageIndex": 0,
+    "imagePromptDetails": {
+        "illustrGenre": "sci-fi horror, gritty, dark",
+        "illustrClothes": "crumpled white lab coat over a dark grey henley, stained with chemical splashes and dried blood",
+        "illustrSetting": "in a dimly lit underground bunker corridor bathed in red emergency lighting, with cracked containment glass and flickering fluorescent tubes on the ceiling, sci-fi horror, gritty, dark",
+        "illustrSubject": "The player character",
+        "illustrAppearance": "a 32 year old male American biotech researcher with bloodshot green eyes, pale skin with faint dark veins visible at the temples, and short disheveled brown hair",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "scared"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+        "editing": true
+    },
+    "allowChangeCharacterName": true,
+    "allowChangeCharacterDescription": true,
+    "allowChangeCharacterSkills": true,
+    "allowChangeCharacterItemValues": false,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "schemaVersion": 2.1,
+    "skills": [
+        "Science",
+        "Mechanics",
+        "Combat",
+        "Stealth",
+        "Resilience"
+    ],
+    "possibleCharacters": [
+        {
+            "name": "Dr. Maren Solé",
+            "description": "A 34-year-old virologist and one of Elara Biologics' senior researchers. She was recruited from a postdoc position at Johns Hopkins, lured by the promise of unlimited research freedom and the chance to work on something that could change the world. She's brilliant, methodical, and deeply uncomfortable with the ethical compromises she's made over the past eighteen months. She understands VERIN better than almost anyone alive — its mechanisms, its potential, and now its horrors. She can analyze biological samples, interpret lab data, synthesize chemical compounds, and potentially develop countermeasures to the infection. What she can't do is fix a broken generator or fight her way through a locked blast door. She is slight, not physically imposing, and has never fired a weapon. Her survival depends on her mind. She is a woman of Catalan-American heritage with dark hair kept in a practical bun, wire-frame glasses she keeps pushing up her nose, and hands that haven't stopped shaking since the alarms started.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/S5zgevt0p0.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, horror, gritty",
+                "illustrClothes": "white lab coat over a dark grey blouse, black slacks",
+                "illustrSetting": "in a dimly lit underground research bunker bathed in red emergency lighting, with steel walls and shattered glass vials on a lab bench behind her, science fiction, horror, gritty",
+                "illustrSubject": "Dr. Maren Solé",
+                "illustrAppearance": "a 34 year old female Catalan-American virologist with dark brown eyes, light olive skin, and dark brown hair pulled back in a practical bun",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "scared"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/fT8shXNEXu.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/S5zgevt0p0.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/fT8shXNEXu.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "u77xP8fk",
+            "skills": {
+                "Combat": 2,
+                "Science": 5,
+                "Stealth": 3,
+                "Mechanics": 2,
+                "Resilience": 3
+            },
+            "initialTrackedItemValues": [
+                {
+                    "id": "lMsaBsZuH",
+                    "visibility": "everyone",
+                    "name": "Inventory",
+                    "initialPCValue": "Elara staff keycard (Sublevel 1 access), personal phone (no signal, 34% battery — flashlight function), half-empty bottle of water, lab notebook (personal research notes), antiviral capsules x3",
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "i4jMqaAHu",
+                    "visibility": "everyone",
+                    "name": "Discovered Codes and Keys",
+                    "initialPCValue": "Sublevel 1 staff keycard (general Sublevel 1 access)",
+                    "initialValueBasedOnPC": "character"
+                }
+            ]
+        },
+        {
+            "name": "Jonas Wreck",
+            "description": "A 41-year-old facilities engineer who has kept Site 32 running for the past two years. Former US Navy, submarine service — he's no stranger to confined spaces, recycled air, and the particular dread of being trapped underground with systems failing around you. He knows every pipe, every junction box, every ventilation shaft in the facility. He can reroute power, bypass electronic locks, repair broken equipment, and navigate the unmapped Cold War-era sections that even the Elara scientists don't know exist. What he doesn't understand is the science — VERIN is just a word to him, and the biological equipment in the BSL-4 labs might as well be alien technology. He is a large man, broad-shouldered, with calloused hands and a crooked nose broken twice during his Navy years. He keeps a multi-tool on his belt the way other people keep their phone. He is pragmatic, laconic, and deeply unsentimental — but there is a photograph of his daughter taped inside his locker on Sublevel 1, and he intends to see her again.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/LEE9SONdxW.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, horror, gritty, cinematic",
+                "illustrClothes": "dark grey utility coveralls with an Elara Biologics patch on the shoulder, heavy leather work belt with a multi-tool holster",
+                "illustrSetting": "in a dimly lit underground bunker corridor bathed in red emergency lighting, with exposed pipes and junction boxes along concrete walls, science fiction, horror, gritty, cinematic",
+                "illustrSubject": "Jonas Wreck",
+                "illustrAppearance": "a 41 year old male American facilities engineer with grey-blue eyes, weathered tanned skin, short-cropped dark brown hair with grey at the temples, and a crooked nose broken twice",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/uKEhAhedbF.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/LEE9SONdxW.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/uKEhAhedbF.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "YjHeyB1I",
+            "skills": {
+                "Combat": 3,
+                "Science": 2,
+                "Stealth": 3,
+                "Mechanics": 5,
+                "Resilience": 4
+            },
+            "initialTrackedItemValues": [
+                {
+                    "id": "lMsaBsZuH",
+                    "visibility": "everyone",
+                    "name": "Inventory",
+                    "initialPCValue": "Elara maintenance keycard (Sublevel 1-2 access), multitool, LED headlamp (batteries low), wrinkled facility map (Sublevels 1-2 only, hand-annotated), antiviral capsules x2",
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "i4jMqaAHu",
+                    "visibility": "everyone",
+                    "name": "Discovered Codes and Keys",
+                    "initialPCValue": "Sublevel 1-2 maintenance keycard (general Sublevel 1-2 access, maintenance areas only)",
+                    "initialValueBasedOnPC": "character"
+                }
+            ]
+        }
+    ],
+    "triggerEvents": [],
+    "victoryCondition": {
+        "condition": "The player character has ACTUALLY contained the VERIN outbreak by activating the purge protocol in the Sublevel 3 containment lab AND has ACTUALLY escaped the facility to the surface. Both conditions must be definitively, unambiguously met. Simply reaching one objective is not sufficient. The purge must be activated AND the player must physically exit the bunker.",
+        "text": "The freight elevator groans upward through three levels of concrete and silence. When the doors open, the desert air hits you like a wall — dry, hot, impossibly clean. The sky is so wide it hurts. Behind you, deep underground, Site 32 is burning clean. Whether you walk out as yourself or something else... that's between you and whatever's left in the mirror.",
+        "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has ACTUALLY died. This means they have been killed by infected, AEGIS security systems, environmental hazards, or any other lethal cause. The player character being injured, unconscious, or in danger does NOT count as defeat. Only confirmed, unambiguous death.",
+        "text": "The lights flicker one last time. The facility hums on without you — the same way it hummed before you arrived, the same way it will hum long after. Site 32 keeps its secrets.",
+        "alreadyFired": false
+    },
+    "instructionBlocks": [
+        {
+            "id": "e1uMlJN5A",
+            "name": "DESIGN NOTES",
+            "content": "Inspired by Resident Evil (especially RE1 and RE2 Remake), with a stronger emphasis on moral choice through the VERIN infection/mutation mechanic. The thematic core is the founders' dilemma reflected in the player: is it worth becoming something inhuman to survive? The \"correct\" answer is deliberately ambiguous — both paths (human and mutated) should be viable and narratively satisfying.\nWilliam Ashford is a recurring Easter egg NPC from the author's other Infinite Worlds settings. He is a multidimensional trickster/chaos mage. In this world he should be subtle, easily missed, and never plot-critical. A reward for thorough explorers and returning fans.\nKey design pillars: resource scarcity forces hard choices, individual threat encounters allow tactical play, mystery unfolds through environmental storytelling not exposition dumps, the mutation mechanic is a moral and mechanical choice not a power fantasy."
+        }
+    ],
+    "loreBookEntries": [
+        {
+            "id": "G9Yp2QRRE",
+            "name": "AEGIS",
+            "content": "AEGIS (Automated Emergency Guardian and Isolation System) was installed by the original military and upgraded by Elara. It controls all facility access — blast doors, elevators, security cameras, and automated turrets positioned at high-security chokepoints (BSL-4 lab entrances, server room, surface access). AEGIS operates on a simple threat matrix: during containment lockdown, any moving biological signature is a potential vector. It will warn once via intercom, then deploy countermeasures. AEGIS terminals are found throughout the facility — an Engineer can hack them to reroute power, temporarily disable turrets, unlock specific doors, or access security camera feeds. AEGIS has a central core on Sublevel 1 in the security hub. Reaching it could give the player significant control over the facility — or trigger a more aggressive security response if they botch the hack.",
+            "keywords": [
+                "AEGIS",
+                "security system",
+                "turret",
+                "lockdown",
+                "security terminal"
+            ]
+        },
+        {
+            "id": "ZO8rEIbVO",
+            "name": "Elara Founders",
+            "content": "Elara Biologics was founded by Dr. Lena Vasik (molecular biologist) and Dr. Marcus Yuen (genetic engineer) five years ago. They were idealists — both had lost family members to degenerative disease and believed radical genetic therapy could eliminate human mortality. Elara was never profitable. Three rounds of funding, each more desperate than the last. The VERIN project was their moonshot. When internal safety reviews flagged VERIN's unpredictable mutagenic cascade, Vasik and Yuen suppressed the reports — not out of greed, but out of desperate conviction that VERIN could be stabilized and that the mission was too important to abandon. They were wrong. Data logs, emails, and personal journals found throughout the facility should paint them as tragic figures, not villains. Their intentions were noble. Their judgment was catastrophically flawed.",
+            "keywords": [
+                "Elara",
+                "Biologics",
+                "founders",
+                "Vasik",
+                "Yuen",
+                "startup",
+                "company"
+            ]
+        },
+        {
+            "id": "TAGXA8YuW",
+            "name": "Mutagen Injector",
+            "content": "VERIN mutagen injectors are pre-loaded syringes found in secured lab storage, medical bays, and occasionally on the bodies of dead researchers who were attempting self-treatment. Each injector contains a concentrated dose of stabilized VERIN compound. Using one is a deliberate choice — the player must actively decide to inject themselves. Each injection accelerates mutation significantly, granting a tangible benefit (enhanced strength, thermal/infrared vision, accelerated healing, heightened reflexes, natural armor plating, etc.) but also advancing the Mutation Status tracked item considerably. The storyteller should make each injection feel momentous — describe the physical sensation, the rush of change, the brief euphoria followed by something that feels less like you than it did a moment ago. Injectors should be rare enough to feel valuable but available enough that the temptation is real.",
+            "keywords": [
+                "mutagen",
+                "injector",
+                "VERIN injector",
+                "syringe",
+                "mutation",
+                "inject",
+                "embrace"
+            ]
+        },
+        {
+            "id": "frDPnxgHd",
+            "name": "Purge Protocol",
+            "content": "The purge protocol is a facility-wide decontamination system built into Sublevel 3's primary containment lab. It was designed as a last resort: a superheated chemical burn that sterilizes the entire BSL-4 wing and vents neutralized material through deep geological shafts. Activating it requires physical access to the purge control room on Sublevel 3, two simultaneous authorization codes (one from a senior researcher, one from facility security — both must be found during play), and manual confirmation at the control console. The purge does not destroy the entire facility — it sterilizes the containment wing and the VERIN source material. The player must be outside the purge zone when it activates. This is the primary objective the player must complete before escaping.",
+            "keywords": [
+                "purge",
+                "containment",
+                "purge protocol",
+                "containment protocol",
+                "decontamination"
+            ]
+        }
+    ],
+    "trackedItems": [
+        {
+            "id": "Yz6NW89VY",
+            "name": "Mutation Status",
+            "positionInList": 0,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "A narrative description of the player character's current state of VERIN infection and mutation. Tracks physical changes, psychological effects, and how far the character has shifted from baseline human. This is the thematic core mechanic of the game.",
+            "updateInstructions": "Update this text whenever the player character uses a VERIN mutagen injector, whenever significant time passes, whenever the player makes a choice that resists or embraces the mutation, or whenever the infection naturally progresses. Describe physical and psychological changes in vivid, specific detail. Early stages: heightened senses, subtle physical changes (nail discoloration, eyes adjusting to dark faster, wounds closing quicker than they should). Mid stages: visible mutation (skin texture changes, muscle density shifts, sensory overload), psychological shifts (reduced fear response, predatory instincts, difficulty remembering personal details). Late stages: major physical transformation, loss of fine motor control for human tools but gain of biological capabilities, difficulty with human speech or thought patterns. If the player resists mutation, describe the struggle — fevers, pain, hallucinations, the virus pushing against their will.\n",
+            "initialValue": "Early infection. Subtle symptoms only. Slight tremor in the hands. Colors seem more vivid than usual. A cut on your left palm closed overnight without stitching. You feel alert — too alert, like the adrenaline never quite fades.",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "lMsaBsZuH",
+            "name": "Inventory",
+            "positionInList": 1,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "A list of items the player character is currently carrying. The player cannot carry more than 8-10 items at a time — force choices when they find new items and are at capacity.",
+            "updateInstructions": "Update whenever the player acquires, uses, drops, or loses an item. Be specific about quantities for consumables (e.g., \"Antiviral capsules x2\"). If the player tries to pick up an item when at capacity, inform them they must drop something first.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
+            "id": "i4jMqaAHu",
+            "name": "Discovered Codes and Keys",
+            "positionInList": 2,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "A running log of keycards, door codes, passwords, and other access credentials the player has found. Prevents the player from having to remember codes across sessions.",
+            "updateInstructions": "Add entries whenever the player discovers a new keycard, door code, password, terminal login, or any other access credential. Format: brief description of what it unlocks, followed by the code or credential. Do not remove entries unless the credential is explicitly consumed or destroyed.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        }
+    ],
+    "NPCs": [
+        {
+            "id": "nJtRJoYYx",
+            "positionInList": 0,
+            "name": "William Ashford",
+            "detail": "William Ashford is a multidimensional trickster and chaos mage, though nothing about his behavior in this setting should make that explicit. He presents as a middle-aged man in slightly outdated business casual clothing who happened to be \"visiting\" when the lockdown hit. He is evasive about specifics — who he works for, why he was at Site 32, how he's survived this long. He is never afraid. He never asks the player for help. If the player finds him, he may offer a cryptic observation, a wry comment about the nature of change, or a seemingly random piece of advice that turns out to be useful later. He should appear once, in an out-of-the-way location that can easily be missed entirely. He is an Easter egg for fans of the author's other worlds — a reward for thorough exploration, not a plot device or a safety net.",
+            "one_liner": "A calm, slightly amused man found in an unlikely corner of the facility. He seems oddly unbothered by the situation. He speaks in riddles and offhand observations that, in retrospect, are more insightful than they first appear. He is not a major character and should not be given significant narrative focus.",
+            "appearance": "A man in his late 40s or early 50s. Lean build. Salt-and-pepper hair, slightly disheveled. Wearing a rumpled button-down shirt and slacks — no lab coat, no badge. Has an easy, unhurried posture that seems wildly inappropriate for the circumstances. His eyes are sharp and amused, like he's watching a movie he's already seen.",
+            "location": "A forgotten storage closet or unmapped maintenance room in one of the Cold War-era sections of Sublevel 3 that Elara never renovated.",
+            "secret_info": "William Ashford is not from this dimension. He is a recurring figure across multiple realities, drawn to moments of transformation and chaos. He knows exactly what VERIN is and what it will become. He will not share this information directly. He is here because he finds the situation interesting.",
+            "names": [
+                "William Ashford",
+                "Ashford",
+                "William",
+                "Will",
+                "Mr. Ashford"
+            ],
+            "img_appearance": "A man in his late 40s or early 50s. Lean build. Salt-and-pepper hair, slightly disheveled. Wearing a rumpled button-down shirt and slacks — no lab coat, no badge. Has an easy, unhurried posture that seems wildly inappropriate for the circumstances. His eyes are sharp and amused, like he's watching a movie he's already seen.",
+            "img_clothing": "A man in his late 40s or early 50s. Lean build. Salt-and-pepper hair, slightly disheveled. Wearing a rumpled button-down shirt and slacks — no lab coat, no badge. Has an easy, unhurried posture that seems wildly inappropriate for the circumstances. His eyes are sharp and amused, like he's watching a movie he's already seen."
+        }
+    ],
+    "autoAdvanceVersion": false,
+    "version": "1",
+    "designNotes": "--- Original user world design prompt: ---\n\nA survival horror adventure set in R&D Site 32, an underground Cold War-era military bunker repurposed by Elara Biologics — a desperate biotech startup. After a catastrophic containment breach of the VERIN pathogen (Viral Engineered Regenerative Integration Network), the player — one of two scientists — must escape the locked-down facility.\nThe player chooses between Dr. Maren Solé (virologist, strong in science and analysis) or Jonas Wreck (facilities engineer, strong in mechanics and facility knowledge). Both are infected with VERIN.\nThe player is already infected. They can fight the mutation to stay human (harder but preserving humanity) or use VERIN mutagen injectors found in the facility to gain powers (enhanced strength, thermal vision, accelerated healing) at the cost of becoming less human. This is the central moral and mechanical choice.\nThreats include reanimated and mutated former staff (individual encounters, not a hive mind — tactical, avoidable) and AEGIS, the facility's automated security system that treats all biological signatures as biohazards (turrets, blast doors, lockdown protocols).\nThe facility has three sublevels: Sublevel 1 (staff quarters, admin, security hub), Sublevel 2 (labs, server room, engineering), Sublevel 3 (BSL-4 high-containment labs, VERIN research wing, purge control, unmapped Cold War sections). Progression requires keycards, codes, lab equipment puzzles, and engineering challenges. Resources are scarce — medical supplies, tools, and power cells are limited.\nVictory: contain the VERIN outbreak by activating the purge protocol on Sublevel 3 AND escape to the surface. Both required. Defeat: player death.\nThe founders (Dr. Lena Vasik and Dr. Marcus Yuen) suppressed safety warnings not out of greed, but desperation — VERIN was meant to cure death by building a better human. The project was always losing money. The mystery unfolds through data logs, lab notes, and environmental storytelling.\nTone: action-horror-mystery blend. Dark, gritty, grounded. Tight prose, sensory detail, genuine moral weight. Think Resident Evil remakes meets Alien."
+}

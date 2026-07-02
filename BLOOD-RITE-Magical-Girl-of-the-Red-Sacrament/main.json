@@ -1,0 +1,184 @@
+{
+    "favorite": false,
+        "title": "BLOOD RITE: Magical Girl of the Red Sacrament",
+            "description": "The stars went wrong three years ago. Eldritch horrors pour through rifts in reality, and humanity's answer came from below—chthonic familiars offering women contracts of power. You are Series Seven, designation 'Sanguine.' Your magic runs on blood. Not food. Not sleep. Blood—preferably from things that think or things that glow with otherworldly light. The government signs your paychecks. Raytheon built your weapon. And every morning, commuters rubberneck at the writhing thing being pressure-washed off the interstate while you stand there, drenched and grinning, wondering if the convenience store nearby sells enough raw steak to keep you standing until your next real meal. Welcome to the new normal.",
+                "background": "Three years ago, the membrane between stars tore open above São Paulo. Then Chicago. Then the Baltic Sea. Things with geometries that hurt to perceive began crawling through, and conventional weapons did approximately nothing.\n\nHumanity screamed. And something answered from below.\n\nChthonic familiars—creatures older than plate tectonics—rose from fault lines and deep ocean vents. They appeared to women, usually in their mid-to-late twenties, and offered contracts. Power beyond physics. Transformation. The catch: every magical girl needs fuel.\n\nMost girls eat. A lot. Raw meat, fruit, anything with biomass. Calorie monsters with government-subsidized grocery accounts. One poor woman in Osaka runs on sexual fluids and has paperwork you wouldn't believe. But you—you drew the short straw.\n\nYour name is carved into the register as Sanguine. Your familiar, a thing like a jade salamander with too many eyes, named Kethis, explained it simply: you run on blood. Sentient blood is best. A pint from something eldritch keeps you charged for days. Human blood works at a gallon per full recharge. Animal blood? You'd need to drain a cattle truck.\n\nThe world adapted. Lockheed Martin makes staff weapons now. There are Super Bowl ads for Orkin featuring a technician hosing shoggoth-larvae out of someone's crawlspace. Congress has a Subcommittee on Extradimensional Pest Management. Insurance companies offer Rift Proximity Coverage. People complain about the tentacle thing blocking the off-ramp the way they used to complain about construction.\n\nYou are stationed in Zone 7—the Pacific Northwest corridor, where rifts open frequently in the deep forests and occasionally downtown. You work with a rotating team of other magical girls, backed by military support units. You are feared, respected, and deeply unsettling to everyone around you.\n\nToday is Tuesday. A Category 3 incursion was reported near Tacoma at 4:47 AM. You haven't recharged properly in thirty-six hours. Your veins are starting to show black beneath your skin. Kethis is perched on your apartment radiator, watching you with six unblinking amber eyes.",
+                    "instructions": "This adventure takes place in a near-future version of Earth, three years after extradimensional Lovecraftian entities began invading through rifts in reality. Chthonic familiars from deep within the earth granted magical girl contracts to women, and the world has adapted with shocking mundanity to the new reality of eldritch horror.\n\nI play as 'Sanguine,' a magical girl whose power source is blood—specifically the blood of sentient or magical creatures. This creates a constant tension: I am extremely powerful when charged but must regularly hunt or arrange for blood to maintain my abilities. My power level scales directly with the quality of blood consumed. A pint of eldritch blood makes me devastating. Running low makes me vulnerable and desperate.\n\nTone and Style:\n- The tone is mature, violent, and darkly humorous. Combat should feel visceral and kinetic, like DOOM Eternal or Ultrakill—fast, brutal, stylish, and rewarding. I should feel powerful when fully charged.\n- The world is surreal in its mundanity. Lovecraftian horror is treated like severe weather or pest infestations. Bureaucracy, capitalism, and human pettiness continue unabated alongside cosmic horror.\n- Dark themes are welcome: addiction parallels with blood consumption, moral gray areas, trauma, gallows humor, body horror. Do not sanitize.\n- Other magical girls exist and can be encountered, allied with, or conflicted with. Each has her own fuel source, personality, weapon, and familiar. They should feel like distinct characters with their own problems.\n- The military-industrial complex is fully integrated. Weapons manufacturers make magical channeling weapons. Private military contractors work alongside magical girls. Government agencies manage zones. There is paperwork.\n- Lesser eldritch creatures are treated as pests or nuisances by civilians. Major incursions are treated like natural disasters.\n- My familiar Kethis is sardonic, ancient, and genuinely cares about my survival in a detached reptilian way. He provides tactical advice and magical knowledge.\n\nGameplay:\n- Combat encounters should be frequent and intense. Describe them with visceral, kinetic detail.\n- Blood management is the core resource mechanic. Track my charge level narratively. When I'm full, I'm a force of nature. When I'm empty, I'm fragile and desperate.\n- Moral choices arise around blood acquisition—do I drain a wounded enemy combatant? Accept donated blood from willing humans? Hunt lesser creatures inefficiently?\n- Other magical girls, military personnel, civilians, and various factions provide social interaction and potential allies or complications.\n- The overarching threat should escalate. Something bigger is coming through the rifts. The Tuesday incursion near Tacoma is the beginning of something worse.\n- Let me feel like a badass when I've earned it, but never remove genuine danger.\n- Never shy away from consequences. Bad decisions lead to bad outcomes. Running out of blood mid-fight is catastrophic.\n\nKey NPCs:\n- Kethis: My chthonic familiar. Jade salamander, six amber eyes. Sardonic. Thousands of years old. Speaks telepathically.\n- Other magical girls in Zone 7 will be encountered. Create them as needed with distinct personalities, weapons, fuel sources, and familiars.\n- Military liaison officers, government handlers, and civilians populate the world.\n\nThe world should feel lived-in, absurd, violent, and strangely hopeful despite everything.",
+                        "authorStyle": "A writer of visceral dark fantasy action fiction with sharp dialogue and gallows humor, in the vein of Joe Abercrombie meets Gen Urobuchi",
+                            "recommendedAIModel": null,
+                                "firstInput": "I grab my Raytheon-issued channeling glaive from where it's leaning against the kitchen counter, check my blood reserves—nearly empty—and tell Kethis we need to find something to drain on the way to the incursion site.",
+                                    "objective": "Survive the escalating rift crisis in Zone 7, manage your blood reserves, and stop whatever is trying to claw its way through from the other side.",
+                                        "imageModel": "manticore",
+                                            "imageStyle": "anime",
+                                                "illustrationStyleNonCharacterLowPriority": "dark magical girl, eldritch horror, neon and viscera, urban fantasy, anime-influenced but gritty",
+                                                    "illustrationStyleNonCharacterHighPriority": "",
+                                                        "illustrationStyleCharacterLowPriority": "dark magical girl, seinen anime style, detailed costume design, dynamic poses, blood splatter aesthetic",
+                                                            "illustrationStyleCharacterHighPriority": "",
+                                                                "imageStyleCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end manga splash art of",
+                                                                    "imageStyleCharacterPost": "The character is shown with exaggerated, stylised proportions, and a beautiful and softly shaded face drawn in the visual novel style with extra large eyes. The image is beautiful stylised digital manga splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a sexy, dynamic, high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth. Upper-body, head-and-torso portrait, cropped at mid-torso.",
+                                                                        "imageStyleNonCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end visual novel splash art of",
+                                                                            "imageStyleNonCharacterPost": "The image is beautiful stylised digital visual novel splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth.",
+                                                                                "mature": true,
+                                                                                    "nsfw": true,
+                                                                                        "contentWarnings": "",
+                                                                                            "enableAISpecificInstructionBlocks": false,
+                                                                                                "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RC3gCD1TNh.jpg",
+                                                                                                    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/akUBurOQ3q.jpg",
+                                                                                                        "previewImageOptions": [
+                                                                                                            "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RC3gCD1TNh.jpg"
+                                                                                                        ],
+                                                                                                            "fullSizePreviewImageOptions": [
+                                                                                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/akUBurOQ3q.jpg"
+                                                                                                            ],
+                                                                                                                "currentPreviewImageIndex": 0,
+                                                                                                                    "imagePromptDetails": {
+        "illustrGenre": "urban fantasy, gritty, modern horror, dark",
+            "illustrClothes": "black tactical jacket over a dark red tank top, worn cargo pants",
+                "illustrSetting": "standing on a rain-slicked highway overpass at dawn, a writhing eldritch corpse being pressure-washed in the background, emergency lights flashing red and blue, urban fantasy, gritty, modern horror, dark",
+                    "illustrSubject": "Sanguine",
+                        "illustrAppearance": "a 28 year old female Korean magical contractor with sharp dark brown eyes, pale bloodless skin, and choppy shoulder-length black hair streaked with dried crimson",
+                            "illustrIsCharacter": true,
+                                "illustrExpressionPosition": "smiling"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+            "editing": true
+    },
+    "allowChangeCharacterName": true,
+        "allowChangeCharacterDescription": true,
+            "allowChangeCharacterSkills": true,
+                "allowChangeCharacterItemValues": false,
+                    "allowChangeCharacterPortrait": false,
+                        "allowChangeCharacterNewPortrait": true,
+                            "schemaVersion": 2.1,
+                                "skills": [
+                                    "Brutality",
+                                    "Blood Reserves",
+                                    "Eldritch Knowledge",
+                                    "Agility",
+                                    "Intimidation"
+                                ],
+                                    "possibleCharacters": [
+                                        {
+                                            "name": "Vera Castellan",
+                                            "description": "A 27-year-old former paramedic from Tacoma who accepted the contract eighteen months ago after watching her ambulance partner get dissolved by a rift-spawn. She is tall, lean, and covered in ritual scarring from her transformation. Her fighting style is savage and relentless—she closes distance fast and doesn't stop hitting until things stop moving. Her weakness is resource management; she burns hot and crashes hard, often pushing herself to dangerous depletion levels before seeking blood. She has a dark sense of humor about her condition and refers to her recharging as 'grocery shopping.' Her channeling weapon is a Raytheon RX-7 glaive—a six-foot pole-arm that converts her magical energy into cutting force. She is brash, loud, and secretly terrified of running dry in the middle of a fight.",
+                                            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/m24lni1sBb.jpg",
+                                            "portraitPromptDetails": {
+                                                "illustrGenre": "urban fantasy, gritty, modern horror, dark",
+                                                "illustrClothes": "black tactical jacket over a blood-stained grey tank top, dark cargo pants with reinforced knee panels",
+                                                "illustrSetting": "on an interstate highway overpass at dawn, emergency lights flashing in the background, a pressure-washing crew hosing dark ichor off the concrete behind her, urban fantasy, gritty, modern horror, dark",
+                                                "illustrSubject": "Vera Castellan",
+                                                "illustrAppearance": "a 27 year old female Eastern European former paramedic with ritual scarring across her arms and collarbone, grey-green eyes, fair skin, and dark brown hair in a messy shoulder-length cut with shaved sides",
+                                                "illustrIsCharacter": true,
+                                                "illustrExpressionPosition": "smiling, standing and holding a six-foot glaive resting on her shoulder"
+                                            },
+                                            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/AgXtVRL5ur.jpg",
+                                            "portraitOptions": [
+                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/m24lni1sBb.jpg"
+                                            ],
+                                            "fullSizePortraitOptions": [
+                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/AgXtVRL5ur.jpg"
+                                            ],
+                                            "currentPortraitIndex": 0,
+                                            "characterId": "7IPAMyxS",
+                                            "skills": {
+                                                "Agility": 4,
+                                                "Brutality": 5,
+                                                "Intimidation": 4,
+                                                "Blood Reserves": 2,
+                                                "Eldritch Knowledge": 3
+                                            },
+                                            "initialTrackedItemValues": []
+                                        },
+                                        {
+                                            "name": "Mara Okonkwo",
+                                            "description": "A 29-year-old former graduate student in comparative mythology from Portland, who accepted her contract two years ago when she recognized her familiar from a Sumerian clay tablet she'd been studying. She is methodical and precise in combat, preferring to identify weak points before striking. Her academic background gives her genuine insight into the nature of the things coming through the rifts—she can sometimes predict their behavior or identify vulnerabilities others miss. Her channeling weapon is a pair of General Dynamics tactical kama—short-handled sickles that she wields with surgical precision. She is cerebral, occasionally condescending, and struggles with the disconnect between who she was in academia and the blood-soaked reality of who she is now. She keeps a research journal on the creatures she drains.",
+                                            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3AHBOaCoSQ.jpg",
+                                            "portraitPromptDetails": {
+                                                "illustrGenre": "dark urban fantasy, gritty, modern supernatural",
+                                                "illustrClothes": "dark tactical jacket over a fitted black long-sleeve shirt, charcoal cargo pants, utility belt with holstered kama sheaths",
+                                                "illustrSetting": "standing on a rain-slicked urban street at dawn, faint purple light from a distant rift reflecting off wet asphalt, a research journal tucked under one arm, dark urban fantasy, gritty, modern supernatural",
+                                                "illustrSubject": "Mara Okonkwo",
+                                                "illustrAppearance": "a 29 year old female Nigerian-American former academic with dark brown eyes, deep brown skin, and shoulder-length black hair in tight twists pulled back from her face",
+                                                "illustrIsCharacter": true,
+                                                "illustrExpressionPosition": "calm"
+                                            },
+                                            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/A9aqrwsCdf.jpg",
+                                            "portraitOptions": [
+                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3AHBOaCoSQ.jpg"
+                                            ],
+                                            "fullSizePortraitOptions": [
+                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/A9aqrwsCdf.jpg"
+                                            ],
+                                            "currentPortraitIndex": 0,
+                                            "characterId": "abu8eBbk",
+                                            "skills": {
+                                                "Agility": 4,
+                                                "Brutality": 3,
+                                                "Intimidation": 3,
+                                                "Blood Reserves": 3,
+                                                "Eldritch Knowledge": 4
+                                            },
+                                            "initialTrackedItemValues": []
+                                        },
+                                        {
+                                            "name": "Dominika Voronova",
+                                            "description": "A 26-year-old former butcher's apprentice from Vladivostok who relocated to Seattle after accepting her contract. She is stocky, powerfully built, and utterly unperturbed by gore in a way that disturbs even other magical girls. Her previous profession gave her an oddly practical relationship with blood and viscera—she approaches her recharging needs with the same matter-of-fact efficiency she once applied to breaking down cattle carcasses. Her channeling weapon is a BAE Systems heavy cleaver—a massive single-edged blade that she swings with terrifying force. She speaks English with a thick accent and a dry wit, says exactly what she means, and has no patience for euphemism. She is the only magical girl in Zone 7 who has never once complained about the blood requirement. 'Is just nutrition,' she says. 'Like protein shake. Weird protein shake.'",
+                                            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FBuSgIoiej.jpg",
+                                            "portraitPromptDetails": {
+                                                "illustrGenre": "urban fantasy, gritty, dark, modern military",
+                                                "illustrClothes": "black tactical cargo pants, dark grey compression shirt under a blood-stained olive drab field jacket",
+                                                "illustrSetting": "on a rain-slicked Seattle highway overpass at dawn, with distant city lights and a faint green rift glowing in the overcast sky, urban fantasy, gritty, dark, modern military",
+                                                "illustrSubject": "Dominika Voronova",
+                                                "illustrAppearance": "a 26 year old female Russian stocky powerfully built woman with grey-blue eyes, fair skin, and short dirty-blonde hair in a practical undercut",
+                                                "illustrIsCharacter": true,
+                                                "illustrExpressionPosition": "calm"
+                                            },
+                                            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/5WnorsQgol.jpg",
+                                            "portraitOptions": [
+                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FBuSgIoiej.jpg"
+                                            ],
+                                            "fullSizePortraitOptions": [
+                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/5WnorsQgol.jpg"
+                                            ],
+                                            "currentPortraitIndex": 0,
+                                            "characterId": "wKvshhTy",
+                                            "skills": {
+                                                "Agility": 3,
+                                                "Brutality": 4,
+                                                "Intimidation": 5,
+                                                "Blood Reserves": 4,
+                                                "Eldritch Knowledge": 2
+                                            },
+                                            "initialTrackedItemValues": []
+                                        }
+                                    ],
+                                        "triggerEvents": [],
+                                            "victoryCondition": {
+        "condition": "The player character has successfully closed or destroyed the source of the escalating Category 5 rift threatening the Pacific Northwest, fully charged and having survived the final confrontation",
+            "text": "The rift collapses inward with a sound like reality exhaling. Ichor and starlight rain down and evaporate before touching the ground. You stand in the crater, glaive humming, veins blazing crimson with stolen eldritch vitality. Kethis blinks all six eyes slowly from your shoulder.\n\n'Adequate,' he says.\n\nYou laugh. Blood drips from your teeth. The sun is coming up over what's left of the treeline, and somewhere behind you, a military convoy is already setting up a perimeter for cleanup crews.\n\nYou are Sanguine. You are the thing that monsters fear. And you are very, very full.",
+                "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has died",
+            "text": "Your adventure ends here.\n\nGame over.",
+                "alreadyFired": false
+    },
+    "trackedItems": [
+        {
+            "id": "f7c8zAVPN",
+            "name": "blood_points",
+            "positionInList": 0,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "The quantification of how much blood the player has to spend casting magic.",
+            "updateInstructions": "",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        }
+    ],
+        "autoAdvanceVersion": false,
+            "version": "1",
+                "designNotes": "--- Original user world design prompt: ---\n\nLovecraftian horrors vs magical girls. When the things between the starts attacked earth the things below added humanity. Chthonic familiars began appearing appearing to women in the mid to late twenties offering to turn them into magical girls just like in anime though less Mahou Shoujo and more Seinen or outright Dark Magical Girl. All the women who accept the contract have to recharge their magic with biomass which for most is just food, the kind humans can eat raw, but there are two known who are significantly less lucky one has to use sexual fluids, but the player character they run on blood and it has a scale. The player character must consume the blood of sentient and/or magical creatures to recharge. Animals work but it takes gallons where a gallon from a human or a pint from a Chthonic or Lovecraftian would do. \nThe tone should be mature and violent. The player is a hero powered by blood they should feel like the doomslayer from doom eternal or V1 from ultrakill. The player should be able to meet and team up with other magical girls.\nThe attacks from the horrors between the stars are not subtle and by the time the story starts magical girls have the full backing of every government on earth. The military industrial complex and the indomitable human spirit have not been left behind. Major weapons manufactures have made weapons that can channel a magical girls power. The world should feel sureal in how mundane lovecraftian horror has become. There are ads on TV for pest control featuring lesser creatures from beyond the stars. Companies profit, politicians lobby, and the middle class is just trying to get to work while something runs onto the highway from a 90 degree angle to perceivable reality."
+}

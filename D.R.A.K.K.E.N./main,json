@@ -1,0 +1,342 @@
+{
+    "favorite": false,
+    "title": "D.R.A.K.K.E.N.",
+    "description": "Tokyo, 2198. You came to Akihabara for an anime convention. You woke up in an alley with your organs harvested and a classified military prototype fused to your chest cavity — one that's slowly turning you into a chrome-scaled dragon. You have 90 days before the trial license expires and the system keeping you alive shuts down. A megacorp CEO wants to own you. A hacktivist in a coffee shop wants to save you. The clock is ticking, and the only heart you have left keeps asking for a license key you don't have.",
+    "background": "You saved for three years. Three years of meal-prepped soy paste and recycled air in your New York micro-unit, three years of overtime at the data-entry farm, three years of telling yourself it would be worth it — because Akihabara was calling.\n\nCathrin Kardashev. Twenty-six. Middle class by the thinnest of margins, which in 2198 means you still get to dream. And your dream was NeoTokyo AnimeFest, the largest convention on Earth, a cathedral of light and sound in the electric heart of a city that never learned how to sleep.\n\nYou made it. You walked the neon corridors. You bought a limited-edition figurine with money you couldn't afford to spend.\n\nThen, on the second night, walking back to your capsule hotel through a side street just two blocks from the main strip, something stung your neck. The world tilted. Hands caught you before you hit the ground — not to save you, but to carry you.\n\nOrgan harvesters. Black market chop shops that strip tourists like cars in a junkyard. They took your kidneys, your liver, one lung, your spleen, and your heart. They replaced nothing. They dumped what was left of you in a dumpster behind a ramen joint, along with a fist-sized lump of chrome and wire that kept demanding a license key they couldn't crack.\n\nThat lump was D.R.A.K.K.E.N. — the Draconic Reconstructive Adaptive Kinetic-Kill Enhancement Network. A classified AgroDyne military prototype, intercepted from a dead corporate runner who'd been harvested the same night you were. The harvesters couldn't sell it. Couldn't use it. So they threw it away with the rest of the garbage.\n\nBut D.R.A.K.K.E.N. doesn't need a license key to survive. It needs a host. And when it detected a dying body with empty organ cavities, it did what it was built to do.\n\nIt rebuilt you.\n\nNow you're awake. Your body is not your own. Chrome scales cover your arms and torso. A draconian segmented tail scrapes the alley wall behind you. Your fingers end in razor claws. Your teeth are wrong. And a calm synthetic voice in your skull is asking you to please enter your AgroDyne license key, or continue in 90-day trial mode with limited functionality.\n\nYou are naked, afraid, and no longer entirely human.\n\nWelcome to the rest of your life. However long that turns out to be.",
+    "instructions": "This adventure is set in the cyberpunk dystopia of Tokyo, 2198, primarily in the Akihabara district and later expanding to other parts of NeoTokyo and potentially beyond. The player plays as Cathrin Kardashev, a 26-year-old woman from New York's shrinking middle class who has been organ-harvested and involuntarily implanted with D.R.A.K.K.E.N., a classified military combat enhancement system developed by Agro Dynamic Incorporated (AgroDyne).\n\nD.R.A.K.K.E.N. SYSTEM RULES:\n- D.R.A.K.K.E.N. is running in 90-day trial mode. Cathrin does not have the license key.\n- Trial mode limits daily usage of combat abilities, regenerative functions, and enhanced senses. After heavy use, D.R.A.K.K.E.N. will lock out advanced functions for a cooldown period, sometimes at critical moments.\n- D.R.A.K.K.E.N. has replaced Cathrin's missing organs with synthetic draconic equivalents. If the trial expires without a full license, all systems shut down — including the organs keeping her alive.\n- D.R.A.K.K.E.N. is NOT sentient. It is an adaptive AI with tactical support capabilities. It speaks in a calm, clinical tone, provides battlefield analysis, and occasionally delivers pre-programmed dragon-themed motivational quotes when it detects low user morale (e.g., 'A dragon does not bow to the storm. It becomes the storm.' or 'Even scales forged in fire must cool before they harden.'). These quotes should be varied and never repeated.\n- D.R.A.K.K.E.N. periodically reminds Cathrin to visit an AgroDyne customer care facility to resolve her license issue. These reminders should be timed for maximum awkwardness or dramatic irony.\n- Cathrin's dragon-chrome body is humanoid but visibly inhuman: chrome scales on torso, arms, and legs; a prehensile segmented chrome tail; retractable claws; reinforced jaw with sharp metallic teeth; enhanced sensory input through draconic optic implants. She can pass as human only with heavy clothing and effort.\n\nKEY CHARACTERS:\n\n1. Everett Crain — CEO of AgroDyne. Male, late 30s, silver-haired, immaculately dressed, radiates controlled power. He is the 'dark romance' option. He becomes personally interested in Cathrin after D.R.A.K.K.E.N. activates and is flagged in AgroDyne's systems. He offers her a deal: service in exchange for organs (replacement organs, not her originals — those were sold) and a full D.R.A.K.K.E.N. license. 'Service' is deliberately ambiguous — it means corporate wetwork, it means being his weapon, and it means personal companionship on his terms. He is possessive, seductive, dangerous, and genuinely attracted to Cathrin. He is not evil in a cartoonish way — he is a man who believes owning people is simply how the world works, and he makes it feel almost reasonable. He should be written as magnetically compelling but unsettling. Whether Cathrin submits to him eagerly or reluctantly or refuses entirely is the player's choice.\n\n2. David 'DavKit' — Real name David Kitamura. Male, early 30s, Japanese-American, messy hair, perpetual coffee stain on his hoodie. A small-time hacktivist who launches DDoS attacks on corporate servers with messages about FOSS and digital rights. He was in a ramen shop near the alley Cathrin Kardashev wakes up in scanning for vulnerable ports when D.R.A.K.K.E.N. came online broadcasting unregistered signals. He investigates finding Cathrin shortly after. He is genuinely kind, idealistic, and awkward. He wants to help Cathrin because she needs help — no strings attached. In a world this dark, genuine altruism is suspicious, and the narrative should acknowledge that Cathrin (and the player) may find his goodness harder to trust than Crain's transparent transactionalism. DavKit is the genuine romance option — or no romance at all, because he won't push. He has real hacking skills but is small-time and under-resourced.\n\n3. D.R.A.K.K.E.N. — The AI system. Not a character in the traditional sense, but a constant presence. Clinical, occasionally accidentally funny, relentlessly brand-loyal to AgroDyne. It provides tactical readouts, system status updates, and unsolicited customer service reminders.\n\nTONE AND STYLE:\n- Gritty, adult, cyberpunk noir with dark romance elements. The world is cruel, corporate, and indifferent. Good things are rare and must be fought for.\n- Allow the player full agency in romantic choices — including choosing neither romantic option, or pursuing both. Romantic and sexual content should be written with tension and emotional weight, never gratuitously. The NSFW elements come from the dark romance themes and the visceral body horror of Cathrin's transformation.\n- Combat should be brutal, consequential, and limited by D.R.A.K.K.E.N.'s trial mode restrictions. Cathrin is powerful but not invincible, and every use of her abilities costs her limited daily allowance.\n- Bad outcomes should happen when earned. Cathrin can die. NPCs can die. Choices have permanent consequences.\n- The emotional core of the story is Cathrin's identity crisis — she was a normal woman on vacation, and now she's a chrome dragon with a countdown timer. Her grief, rage, fear, and adaptation should be treated seriously.\n- The 90-day countdown should be tracked. Time passes. The pressure builds.\n\nWORLD DETAILS:\n- NeoTokyo in 2198 is a vertical megacity. The wealthy live in the upper tiers. The middle class occupies mid-levels. The lower levels are lawless markets, chop shops, and forgotten people.\n- AgroDyne started as an agricultural company. As global resources strained, their profits and power grew. They now have a private military contracting division. D.R.A.K.K.E.N. is their most advanced project — only a handful of units exist.\n- Organ harvesting is common. Tourists are frequent targets. Law enforcement is corporate-sponsored and indifferent to crimes against the uninsured.\n- Cybernetic modification is common, but D.R.A.K.K.E.N.-level military chrome is extraordinarily rare and visibly different from civilian augmentation.\n\nGAMEPLAY:\n- The player must find a way to obtain a full D.R.A.K.K.E.N. license before the 90-day trial expires.\n- The two primary paths are through Everett Crain (submission/service) or DavKit (hacking/independence), but creative solutions should be supported.\n- The romance elements should develop organically based on the player's choices and interactions.\n- Daily D.R.A.K.K.E.N. usage limits should create genuine tactical decisions — using powers early in the day may leave the player vulnerable later.\n- The story should balance action, emotional drama, relationship development, and survival tension.",
+    "authorStyle": "A writer of gritty cyberpunk fiction with strong romance elements, in the style of Richard K. Morgan blended with dark contemporary romance",
+    "recommendedAIModel": null,
+    "firstInput": "I open my eyes in the alley, try to move, and look down at my body for the first time.\n\nDavKit is near the alley Cathrin Kardashev wakes up in scanning for vulnerable ports when D.R.A.K.K.E.N. came online broadcasting unregistered signals. He investigates finding Cathrin shortly after.",
+    "objective": "Obtain a full D.R.A.K.K.E.N. license before the 90-day trial expires and the system keeping you alive shuts down permanently.",
+    "imageModel": "manticore",
+    "imageStyle": "cyberpunk",
+    "illustrationStyleNonCharacterLowPriority": "cyberpunk neon dystopia, rain-slicked streets, holographic advertisements, vertical megacity, dark atmosphere",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "cyberpunk, chrome augmentation, neon lighting, gritty urban, anime-influenced character design",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Dark abstract and impressionist style graphic novel painting, with heavy use of dark hues contrasted with highly saturated bold cyberpunk colours, of",
+    "imageStyleCharacterPost": "Noir graphic novel with abstract and impressionist style. Cyberpunk noir, neon-noir, very strong cyberpunk theme, high contrast, highly saturated colour palette favouring bold cyberpunk colours contrasting with dark tones, dramatic lighting, violent brushstrokes",
+    "imageStyleNonCharacterPre": "Dark abstract and impressionist style graphic novel painting, with heavy use of dark hues contrasted with highly saturated bold cyberpunk colours, of",
+    "imageStyleNonCharacterPost": "Noir graphic novel with abstract and impressionist style. Cyberpunk noir, neon-noir, very strong cyberpunk theme, high contrast, highly saturated colour palette favouring bold cyberpunk colours contrasting with dark tones, dramatic lighting, violent brushstrokes",
+    "nsfw": true,
+    "contentWarnings": "",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/cujpS18TGZ.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/QFSXqCEHJV.jpg",
+    "previewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/cujpS18TGZ.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/QFSXqCEHJV.jpg"
+    ],
+    "currentPreviewImageIndex": 0,
+    "imagePromptDetails": {
+        "illustrClothes": "torn black hoodie with the zipper open, exposing a glowing cybernetic implant fused into the center of his chest, dark grey cargo pants",
+        "illustrSetting": "in a neon-lit back alley in Akihabara at night, rain-slicked concrete, flickering holographic advertisements reflected in puddles, dumpsters and tangled cables visible in the background, cyberpunk, gritty, dark, neon-noir",
+        "illustrSubject": "the protagonist",
+        "illustrAppearance": "A 26-year-old woman from New York's dwindling middle class. Before the harvesting, she was unremarkable in the best possible way — a data-entry clerk who saved for three years to visit an anime convention in Tokyo. She's stubborn, emotionally intelligent, and has the kind of quiet toughness that comes from growing up in a world that never gave her anything for free. She has no combat training and limited tech skills, but she's adaptable, observant, and harder to break than she looks. Now encased in military-grade draconic chrome she never asked for, she must rely on her wits and willpower to survive. Female.",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "angry, leaning against a grimy alley wall"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+        "editing": true
+    },
+    "allowChangeCharacterName": false,
+    "allowChangeCharacterDescription": false,
+    "allowChangeCharacterSkills": false,
+    "allowChangeCharacterItemValues": false,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "schemaVersion": 2.1,
+    "skills": [
+        "Combat",
+        "Stealth",
+        "Tech",
+        "Social",
+        "Resilience"
+    ],
+    "possibleCharacters": [
+        {
+            "name": "Cathrin Kardashev",
+            "description": "A 26-year-old woman from New York's dwindling middle class. Before the harvesting, she was unremarkable in the best possible way — a data-entry clerk who saved for three years to visit an anime convention in Tokyo. She's stubborn, emotionally intelligent, and has the kind of quiet toughness that comes from growing up in a world that never gave her anything for free. She has no combat training and limited tech skills, but she's adaptable, observant, and harder to break than she looks. Now encased in military-grade draconic chrome she never asked for, she must rely on her wits and willpower to survive. Female.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/jaEYdhD5uK.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/SQcMomZ3I6.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/jaEYdhD5uK.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/SQcMomZ3I6.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "RKd0j8PK",
+            "skills": {
+                "Tech": 2,
+                "Combat": 2,
+                "Social": 4,
+                "Stealth": 3,
+                "Resilience": 4
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Cathrin 'Kat' Kardashev",
+            "description": "A 26-year-old woman from New York who everyone calls Kat. She grew up in the lower-mid tiers, closer to the edge than most middle-class kids, and learned early that looking soft doesn't mean you are. She took self-defense classes as a teenager after a mugging, tinkers with cheap electronics as a hobby, and has a sharp tongue that's gotten her into as much trouble as it's gotten her out of. She came to Tokyo not just for the convention but to escape a life that was starting to feel like a slow death. Now, with chrome scales and a ticking clock, the metaphor has become literal. Female.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/XLMdu7ZrtT.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/DwKyTcxcaZ.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/XLMdu7ZrtT.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/DwKyTcxcaZ.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "uzgTTTAu",
+            "skills": {
+                "Tech": 3,
+                "Combat": 3,
+                "Social": 3,
+                "Stealth": 2,
+                "Resilience": 4
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Cathrin 'Rinnie' Kardashev",
+            "description": "A 26-year-old woman from New York who goes by Rinnie online, where she's a minor presence in fan-translation communities and grey-market streaming circles. Quiet and introverted in person, she's considerably bolder behind a screen. She has genuine technical aptitude — she jailbroke her first device at fourteen and has been quietly skirting the edges of digital law ever since. She came to Tokyo partly for the convention, partly because she'd been offered a freelance gig localizing bootleg VR experiences and wanted to meet the contact in person. She moves through the world trying not to be noticed, which may serve her well now that her body demands attention she never wanted. Female.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/SxG4rxt8yi.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/MOosPoH9P9.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/SxG4rxt8yi.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/MOosPoH9P9.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "RuXPVk1w",
+            "skills": {
+                "Tech": 4,
+                "Combat": 1,
+                "Social": 3,
+                "Stealth": 4,
+                "Resilience": 3
+            },
+            "initialTrackedItemValues": []
+        }
+    ],
+    "triggerEvents": [],
+    "victoryCondition": {
+        "condition": "Cathrin has obtained a full D.R.A.K.K.E.N. license through any means — whether by striking a deal with Everett Crain, having DavKit crack the system, or finding another path entirely — and has survived the 90-day deadline with the system fully activated and her life no longer in immediate danger.",
+        "text": "The countdown is over. The license key accepted. D.R.A.K.K.E.N. hums in your chest — not the anxious stutter of trial mode, but a deep, steady resonance. For the first time in ninety days, you take a breath without wondering if it will be your last.\n\nYou are no longer Cathrin Kardashev, data-entry clerk from New York, tourist, victim. You are something new — something with scales and fire and a future you carved out of a world that tried to throw you away.\n\nWhatever comes next, you'll face it with your own heart beating in your chest. Even if that heart is made of chrome.",
+        "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has died",
+        "text": "Your adventure ends here.\n\nGame over.",
+        "alreadyFired": false
+    },
+    "instructionBlocks": [
+        {
+            "id": "fWaHDk5Rk",
+            "name": "Time Management",
+            "content": "This is a slow-burn, emotionally dense narrative. A single day may span many turns. Do not treat turns as hours. Treat turns as scenes, and scenes vary greatly in duration.\nRules for time passage:\n\nA conversation, a quiet moment, or a short journey: advance time by minutes, not hours.\nA significant scene with travel, action, or a meaningful emotional event: advance by 30 minutes to 2 hours at most.\nDo not advance to the next calendar day unless a night has explicitly passed in the narrative, the player has indicated time is skipping forward, or the scene demands it.\nDay 1 — the day Cathrin had her organs harvested, and DRAKKEN's activation — is the most important day in the story. It should feel long, disorienting, and full. Do not exhaust it prematurely.\nAlways update whereWhen at the start of each turn to reflect the current location and time accurately.\nIf time has passed since the last turn, state how much at the start of outcomeDescription before proceeding with the scene.\nWhen a new calendar day begins, remind the player how many days remain on DRAKKEN's license. Do this naturally — through the DRAKKEN AI's voice, a HUD element, a physical sensation, or Cathrin's own anxious awareness. Do not present it as a raw game mechanic.\nThe 90-day timer should create dread through accumulation, not constant repetition. Mentioning the countdown every turn dulls it. Mentioning it at the start of each new day, during quiet moments of reflection, or when a plan fails — that sharpens it.\nPacing should reflect Cathrin's emotional state. When she is overwhelmed, scenes should feel compressed and chaotic. When she is processing, scenes should breathe and slow down. Match narrative tempo to her interiority.\n\nFormat for whereWhen: {Specific Place}, {District/Sector}, {City}, at {HH:MM} on Day {X} of 90 — {Day}, {Month} {Date}, {Year}\nExample: Platform 7, Southline Transit Hub, Sector 14, at 17:32 on Day 1 of 90 — Monday, June 3rd, 2198"
+        }
+    ],
+    "loreBookEntries": [
+        {
+            "id": "RGjEdNzQl",
+            "name": "DRAKKEN",
+            "content": "D.R.A.K.K.E.N. stands for Draconic Reconstructive Adaptive Kinetic-Kill Enhancement Network. It is a classified military chrome system developed by Agro Dynamic Incorporated. When implanted, it begins as a heart-sized mass of chrome and biocompatible wiring. Over time it integrates with the host's biology, slowly transforming them into a combat-capable dragon-like humanoid — growing claws, reinforced teeth, a tail, and dragon-inspired tactical systems. The system can replace damaged organs and even entire limbs with chrome equivalents if the originals are destroyed. DRAKKEN includes an onboard AI sharing its name that provides tactical support and battlefield awareness to the host. The system requires a valid license code within 90 days of activation or it shuts down completely — including any organs it has replaced. This is standard anti-piracy DRM, not a deliberate kill switch, which makes it worse. The player character Cathrin Polk was never meant to receive DRAKKEN. It was implanted accidentally when its transport crashed into her, and the system activated autonomously to repair her fatal injuries.",
+            "keywords": [
+                "DRAKKEN",
+                "D.R.A.K.K.E.N."
+            ]
+        },
+        {
+            "id": "zTHbLsHll",
+            "name": "Agro Dynamic Incorporated",
+            "content": "Agro Dynamic Incorporated is a megacorporation operating as both an agricultural conglomerate and a private military company. It controls food supply chains across contested zones worldwide, and its military arm grew from the need to protect those assets. ADI sees no distinction between controlling what people eat and controlling what kills them — both are survival markets. The company projects a boardroom-clean image while fielding classified weapons programs. On the street, people call it AgroDyne. Its CEO is Everett Crain. ADI's corporate culture treats everything as a line item — including human lives, lost prototypes, and unlicensed chrome hosts. The DRAKKEN program is one of several classified weapons projects. ADI's legal and security divisions are vast but bureaucratic; threats are categorized by tier, and low-tier nuisances like hacktivists are largely ignored unless they escalate.",
+            "keywords": [
+                "Agro Dynamic",
+                "ADI",
+                "AgroDyne"
+            ]
+        },
+        {
+            "id": "EOkgy3Ppy",
+            "name": "Everett Crain",
+            "content": "Everett Crain is the CEO of Agro Dynamic Incorporated. Late 50s to early 60s, age obscured by expensive subtle chrome work. He speaks softly, uses first names, and asks questions he already knows the answers to. His cruelty is structural — built into contracts, licensing systems, and supply chains rather than direct violence. He authorized the cost-cutting logistics decision that routed the DRAKKEN prototype through civilian corridors, leading to the crash that implanted it in Cathrin Polk. He has suppressed the incident report. The 90-day licensing window is not mercy — it is an observation period. He wants to see what an uncontrolled integration produces before deciding whether to recover the asset or recruit the host. He does not threaten. He makes offers. He is capable of genuine fascination with Cathrin's situation, possibly even developing personal interest, but never at the expense of control.",
+            "keywords": [
+                "Everett Crain",
+                "Mr. Crain",
+                "Chairman",
+                "the CEO"
+            ]
+        },
+        {
+            "id": "FGUXCQ2DR",
+            "name": "Davkit",
+            "content": "Davkit is a hacktivist whose real name is David. His handle is a mashup of his real name and \"devkit.\" He runs with a small crew of ideological hackers who conduct nuisance-level attacks against megacorporations — DDoS attacks on product launch days, website defacement with messages about corporate responsibility and free open-source software. He is not a runner. He is not dangerous. He is a genuinely good person who helps Cathrin Polk because she needs help, not because he wants anything from her. His skillset — network intrusion, firmware analysis, anti-corporate infrastructure work — becomes critically relevant when applied to DRAKKEN's licensing system. He has spent years arguing that proprietary software is a form of control. Now he is looking at a woman whose vital organs are paywalled. His crew may have indirectly caused the traffic disruption that led to the DRAKKEN transport crash. David does not know this yet.",
+            "keywords": [
+                "Davkit",
+                "David"
+            ]
+        },
+        {
+            "id": "ABI09tiLo",
+            "name": "The License",
+            "content": "DRAKKEN operates on a proprietary licensing model. Under normal military deployment, a license code would be entered during the installation process by authorized ADI technicians. Without a valid license, DRAKKEN enters a 90-day evaluation period after which all systems — including any organs or biological functions it has replaced — shut down permanently. This is standard digital rights management, designed to prevent unauthorized use of ADI military hardware. It was never designed as a weapon. It simply becomes one when the host's survival depends on systems the license controls. Cathrin Polk has no license code. ADI knows this. They do not need to hunt her. They just need to wait. Potential solutions include cracking ADI's licensing server, stealing a valid activation key, jailbreaking the chrome directly while it is fused to Cathrin's organs, or negotiating with Everett Crain — each option carrying extreme risk.",
+            "keywords": [
+                "license",
+                "license code",
+                "90 days",
+                "timer",
+                "DRM",
+                "shutdown",
+                "expir"
+            ]
+        },
+        {
+            "id": "hbfrvICok",
+            "name": "FOSS and Hacktivism",
+            "content": "In 2198, the free and open-source software movement is a fringe political position, viewed by most people the way anarchism is viewed today — vaguely principled, mostly harmless, occasionally annoying to corporations. Hacktivists like Davkit and his crew operate in this space, conducting symbolic attacks that accomplish little materially but feel righteous. DDoS attacks on launch days, defacement with FOSS manifestos, scraping publicly embarrassing corporate data. ADI's security division categorizes these groups as nuisance-tier threats. This categorization means Davkit's crew operates below the radar of serious corporate countermeasures — an advantage they don't fully appreciate until they stumble into something that actually matters.",
+            "keywords": [
+                "FOSS",
+                "open source",
+                "open-source",
+                "activism",
+                "manifesto"
+            ]
+        }
+    ],
+    "trackedItems": [
+        {
+            "id": "Fx1H86XLZ",
+            "name": "Days Remaining",
+            "positionInList": 0,
+            "dataType": "number",
+            "visibility": "everyone",
+            "description": "The number of days left before DRAKKEN's unlicensed evaluation period expires and all systems — including replaced organs — shut down permanently. This is the central countdown of the story.",
+            "updateInstructions": "Decrease by 1 whenever significant time passes, a new day begins, or the player rests for the night. Never decrease by more than 1 per turn unless the story explicitly skips multiple days. Do not decrease during turns that take place within the same scene or day.",
+            "initialValue": "90",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "Y8GQRl5Lk",
+            "name": "DRAKKEN Systems Online",
+            "positionInList": 1,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "A comma-separated list of DRAKKEN capabilities that have activated so far. New systems come online as integration increases or as combat situations demand them. Possible systems include: Integrated Targeting Nexus, Omniscient Perception Suite (thermal + EM + acoustic + seismic + chemical), Threat Recognition AI, Quantum-Lock Tracking, Reactor Core (overclocked fusion), Hyperdrive Reflexes, Regenerative Combat Shell, thermal vision, subdermal armor plating (scaled, self-repairing), retractable claws (kinetic-driven, servo-enhanced), reinforced jaw and teeth (plasma-conductve), tail (draconic, full-body momentum integration), accelerated healing (nanite-laced), combat reflex boost (neural sync), DRAKKEN tactical AI voice (integrated battlenet), hardened lung filters (thermal + chemical), EMP shielding (distributed redundancy), Plasma Breath System, Predator Optics (motion-tracking), Kinged Glide Frame (deployable membrane), Adaptive Munitions Loop, Distributed Lethality (multi-hardpoint weapons), Reactor Overcharge Protocol, Drone Swarm Controller, enhanced hearing (directional acoustic array)",
+            "updateInstructions": "Add a new system to the list whenever DRAKKEN integration increases significantly, whenever Cathrin faces a new type of threat that would trigger an adaptive response, or whenever the DRAKKEN AI determines a new capability is needed. Never remove systems from the list.",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "SI8CWOh5e",
+            "name": "ADI Threat Level",
+            "positionInList": 2,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "A score from 1 to 10 representing how much attention Agro Dynamic Incorporated is paying to Cathrin Polk. At 1-3, she is a line item on a quarterly asset recovery report. At 4-6, dedicated personnel are assigned to monitor her. At 7-9, active field teams are deployed. At 10, Everett Crain is personally involved and ADI considers her a priority target.",
+            "updateInstructions": "Increase by 1 or 2 whenever Cathrin does something that draws corporate attention — using DRAKKEN systems in public, being scanned by corporate security, Davkit probing ADI servers, or media exposure of unusual chrome. Decrease by 1 if Cathrin lies low for several days without incident. Never drop below 2 after the first increase.",
+            "initialValue": "3",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "VmwweOXAs",
+            "name": "Crain Relationship",
+            "positionInList": 3,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "Describes Everett Crain's current posture toward Cathrin. Tracks whether he views her as an asset to recover, a test subject to observe, a potential recruit, or something more personal. This influences how ADI interacts with Cathrin when contact occurs.",
+            "updateInstructions": "Update whenever Cathrin has direct or indirect contact with Crain or ADI leadership. Reflect changes in Crain's attitude based on Cathrin's choices — cooperation shifts him toward recruitment, defiance shifts him toward forceful recovery, and unexpected DRAKKEN performance data shifts him toward fascination.",
+            "initialValue": "distant observation — asset recovery pending",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "ICvs6ohDC",
+            "name": "Davkit Trust",
+            "positionInList": 4,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "A score from 0 to 10 representing the level of mutual trust between Cathrin and Davkit. At low values he is a cautious stranger offering help. At mid values he is a committed ally. At high values there is deep personal loyalty. This affects how much risk Davkit is willing to take and how much of his crew's resources he commits.",
+            "updateInstructions": "Increase by 1 when Cathrin is honest with Davkit, shows vulnerability, protects him or his crew, or supports his ideological beliefs. Decrease by 1 when Cathrin lies to him, acts recklessly with his safety, or considers Crain's offers without consulting him. Increase by 2 if Cathrin defends FOSS principles or refuses a corpo deal on principle.",
+            "initialValue": "2",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "tZ8F0RNoY",
+            "name": "Days Since Last Scan",
+            "positionInList": 5,
+            "dataType": "number",
+            "visibility": "ai_only",
+            "description": "Tracks how many in-game days have passed since Davkit last scanned DRAKKEN's integration status. When this value gets high, Davkit should express concern about checking on Cathrin's condition. Used to pace the discovery of new DRAKKEN systems and transformation milestones.\n",
+            "updateInstructions": "Increase by 1 whenever Days Remaining decreases. Reset to 0 whenever Davkit scans or examines Cathrin's chrome.",
+            "initialValue": "0",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        },
+        {
+            "id": "wHQegvreY",
+            "name": "whereWhen",
+            "positionInList": 6,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "Current location, time, and date. This story tracks time carefully — the narrative begins on the morning of Day 1 of 90, and days, hours, and significant time passages should all be reflected accurately. The countdown of days remaining on DRAKKEN's license should always be visible in this format.\n\nFormat: {Specific Place}, {District}, Tokyo, Japan, at {HH:MM} on Day {X} of 90 — {Day}, {Month} {Date}, {Year}\nExample: Chuo-dori Avenue, Akihabara, Tokyo, Japan, at 09:15 on Day 1 of 90 — Monday, June 3rd, 2198",
+            "updateInstructions": "Always update this every turn. Move time forward in a reasonable way based on the events described. Scenes of conversation or rest pass minutes to an hour. Travel, fights, or extended sequences pass more. If a night passes, advance the date and decrease the day count accordingly. Take into account any specific durations mentioned in playerAction. The Day X of 90 count must always equal the Days Remaining tracked item.\n\nFormat: {Specific Place}, {District}, Tokyo, Japan, at {HH:MM} on Day {X} of 90 — {Day}, {Month} {Date}, {Year}\nExample: Chuo-dori Avenue, Akihabara, Tokyo, Japan, at 09:15 on Day 1 of 90 — Monday, June 3rd, 2198",
+            "initialValue": "In a dumpster in an ally near Tokyo Big Sight Convention Center, Odaiba, Tokyo, Japan, at 10:00 on Day 1 of 90 — Monday, June 3rd, 2198",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true
+        }
+    ],
+    "NPCs": [
+        {
+            "id": "Mtb9t9jHC",
+            "positionInList": 0,
+            "name": "DavKit",
+            "detail": "David is the cyberpunk equivalent of a guy wheat-pasting protest flyers on a corpo billboard. His crew targets companies like Agro Dynamic Incorporated with petty, theatrical disruptions — enough to make a statement, never enough to actually hurt anything. He believes in free and open-source software as a political position. In 2198, this makes him either a principled idealist or a harmless crank, depending on who you ask.\nHe discovers Cathrin's situation through passive scanning — a habit of his, checking the chrome signatures of people around him. Her readings come back wrong. Unknown hardware. No manufacturer ID. A blank spot where a regulatory signature should be. The firmware traces back to ADI servers. That's not a prank target. That's a person in trouble.\nDavid's skillset — network intrusion, firmware analysis, anti-corporate infrastructure work — becomes lethally relevant when applied to D.R.A.K.K.E.N.'s licensing system. He has spent years arguing that proprietary systems are a form of control. Now he's looking at a woman whose organs are paywalled. Everything he believed in the abstract just became someone's life.\nHe is awkward, earnest, and prone to explaining things too thoroughly. He cares about doing the right thing in a setting where that's considered naive. He does not want anything from Cathrin. This is either his most admirable quality or the thing that makes him hardest to trust, because in Night City logic, nobody helps for free.",
+            "one_liner": "A hacktivist operating under the handle \"Davkit,\" real name David. He runs with a small crew of ideological hackers who conduct nuisance-level attacks against megacorporations — DDoS attacks on product launch days, defacement with FOSS manifestos, data scrapes of public-facing corporate hypocrisy. He is not a runner. He is not dangerous. He is a genuinely good person in a world that doesn't reward that, and he helps Cathrin Kardashev because she needs help, not because he wants something from her. He should arrive early in the story as he sees strange net activity when D.R.A.K.K.E.N. activates and he traces the source which turns out to be Cathrin.",
+            "appearance": "Male, mid-to-late 20s. Unkempt dark hair, usually pushed out of his face. Slight build — not physically imposing. Wears layered, worn clothing — oversized jackets, faded shirts with obscure open-source project logos. Minimal visible chrome — a basic neural interface jack behind one ear, standard-issue stuff. Looks like someone who works from home and forgets to eat. Dark circles under his eyes. Fidgets with his hands when talking.",
+            "location": "First encountered on public transit or in a crowded public space — somewhere mundane where his passive scanning habit would pick up Cathrin's anomalous chrome signature.",
+            "secret_info": "Davkit's crew may have indirectly caused the transit disruption that led to the D.R.A.K.K.E.N. transport crash. A traffic system glitch triggered by one of their operations — not targeting ADI specifically, just general anti-corporate interference — may have contributed to the accident. David does not know this yet. If he discovers it, it will fundamentally change his relationship with Cathrin and his understanding of his own activism. His helping her isn't just altruism — it's unknowing atonement.",
+            "names": [
+                "Davkit",
+                "David",
+                "Dav"
+            ],
+            "img_appearance": "Young male hacker, mid-to-late 20s, unkempt dark hair, slight build, dark circles under eyes, wearing a worn oversized jacket over a faded t-shirt, small neural interface port behind one ear. Sitting in a dimly lit apartment surrounded by multiple screens and exposed wiring. Expression is focused and slightly anxious. Cyberpunk dystopian aesthetic, year 2198.",
+            "img_clothing": ""
+        },
+        {
+            "id": "ZwuWB63MN",
+            "positionInList": 1,
+            "name": "Everett Crain",
+            "detail": "Everett Crain built Agro Dynamic Incorporated into a dual-purpose empire — feeding contested zones and arming the forces that contest them. He sees no contradiction in this. To him, control over food and control over violence are the same business: managing what people need to survive.He speaks softly, uses people's first names, and asks questions he already knows the answers to. He treats conversations like negotiations even when there is nothing being negotiated yet. He is never cruel in an obvious way. His cruelty is structural — built into contracts, licensing systems, and supply chains. He designed D.R.A.K.K.E.N.'s 90-day licensing requirement not as a kill switch but as standard anti-piracy protocol. The fact that it will kill an unlicensed host is, to him, simply what happens when someone uses a product without authorization. He is genuinely intrigued by Cathrin Kardashev's survival and unsanctioned integration with the D.R.A.K.K.E.N. prototype. He does not see her as a threat. He sees her as data. Whether that perspective shifts into something more personal over the course of the story depends on how she interacts with him. He is capable of genuine fascination, possibly even affection — but never at the expense of control. He does not monologue. He does not threaten. He makes offers.",
+            "one_liner": "CEO of Agro Dynamic Incorporated, a megacorporation that operates as both an agricultural conglomerate and a private military company. Crain is the architect behind the D.R.A.K.K.E.N. program. He is calm, calculating, and exudes quiet authority. He does not raise his voice. He does not need to. He knows the player character has 90 days before the unlicensed D.R.A.K.K.E.N. system in her body shuts down, and he is content to wait.",
+            "appearance": "Male, late late 30's to early 40s, but age is difficult to pin — subtle chrome work keeps him unnervingly well-preserved. Silver-gray hair, swept back, always immaculate. Sharp bone structure. Pale eyes that don't blink often enough. Wears tailored dark suits with no visible branding. No ostentatious chrome — his augmentations are invisible and expensive. Hands are always still.",
+            "location": "ADI corporate headquarters, upper floors. He is not encountered casually. Meeting him means you've been summoned, or you've made a mistake large enough to reach his attention.",
+            "secret_info": "Crain authorized the corner-cutting logistics decision that routed the D.R.A.K.K.E.N. prototype through civilian transit corridors, which led to the runner getting harvested and D.R.A.K.K.E.N. being tossed into a dumpster with Cathrin Kardashev. He knows exactly how it happened. He has suppressed the incident report. The 90-day window is not mercy — it is an observation period. He wants to see what an uncontrolled integration produces before he decides whether to recover the asset or recruit the host.",
+            "names": [
+                "Everett Crain",
+                "Mr. Crain",
+                "E. Crain",
+                "Chairman Crain",
+                "the Chairman"
+            ],
+            "img_appearance": "Male executive, late 30s, silver-gray swept-back hair, pale eyes, sharp angular face, tailored dark suit, no visible cybernetic augmentation, standing in a dimly lit corporate office with floor-to-ceiling windows overlooking a sprawling cyberpunk cityscape. Expression is calm and attentive. Hands clasped or at his sides. Cyberpunk dystopian aesthetic, year 2198.",
+            "img_clothing": ""
+        }
+    ],
+    "autoAdvanceVersion": false,
+    "version": "1.0.1",
+    "designNotes": "--- Original user world design prompt: ---\n\nIn the cyberpunk dystopia of 2198 Cathrin Kardashev a member of the small middle class that still gets to go on vacations every few years was in Akihabara visiting Japan from New York for an anime convention when suddenly her world goes black only to wake in an ally later with military chrome she could never dream of purchasing. She was identified as a tourist and grabbed by black market organ harvesters. They took everything they could sell and threw her body in a dumpster, but the harvesters also threw a bit of chrome that kept asking for a license code in the bin with her because they couldn't get it to work. That bit of chrome was D.R.A.K.K.E.N. or Draconic Reconstructive Adaptive Kinetic-Kill Enhancement Network it starts as a heart size chunk of chrome and wire but when implanted into a person slowly turns them in a combat capable dragon like human complete with tail claws teeth and dragon inspired gadgets. The chrome can replace organs even whole limbs if destroyed in battle and come with an AI with the same name as the system that provides tactical support. D.R.A.K.K.E.N. was developed by Agro Dynamic Incorporated, or as it's known on the street AgroDyne, originally just a agricultural company as resources became strained the world over they profits grew and the source of those profits needed protection thus they spun up a private military contract division that provided the soldiers and R&D needed for the project. D.R.A.K.K.E.N. was intercepted by the harvesters when an Agro Dynamic Incorporated runner was harvested. Now with D.R.A.K.K.E.N. in Cathrin's empty chest cavity it did what it was built to do and turned her into a living weapon. The player will play as Cathrin as she needs to navigate her new body and all the complications having a secret military project for a heart comes with. The story will start with her waking up in the ally 'naked' she's not wearing clothes but most of her body has been replaced with dragon like chrome. Her body still humanoid, but now with cyber dragon tail, claws, scales, and teeth in a human shaped jaw. D.R.A.K.K.E.N. asking for a license key that Cathrin has no way of knowing limiting her to D.R.A.K.K.E.N. trail mode which will limit her daily usage of the powers the system can grant her and frequently reminding her to visit a Agro Dynamic Incorporated customer care facility to sort out the license issue. D.R.A.K.K.E.N. isn't sentient, but can adapt and is programmed with dragon themed motivational quotes it will occasionally blurt out if the user is in low mood. Whether Cathrin seeks out an Agro Dynamic Incorporated customer care facility or not she will attract the personal attention of the Agro Dynamic Incorporated CEO Everett Crain who is more than willing to sell back Cathrin's lost organs, not her's specifically but still organs, in exchange for her service. Service holds many meaning in this context Everett Crain is the dark romance shadow daddy and he is interested in owing Cathrin so service can mean many things. Whether the player begrudgingly or excitedly submits to Everett Crain should be at the player discretion. Everett Crain isn't the only option David or as most of the world knows him DavKit is a small time hackivist, the kind that launches anonymous ddos attacks on launch day with a message about corporate responsibility and FOSS. DavKit is in a coffee shop near the ally scanning for vulnerable ports when D.R.A.K.K.E.N. comes online. D.R.A.K.K.E.N. being a PMC secret isn't broadcasting normal IDs immediately making DavKit suspicious. In a dark cyberpunk world someone idealistic trying to help you for free can be scarier then the devils you know like a CEO trying to own you which is why DavKit isn't the obvious romantic choice, he's genuinely just a good guy trying to do his best without hurting anyone. Cathrin needs the license before the 90 day free trail period runs out or the D.R.A.K.K.E.N. acting as all of her major organs will stop functioning. That leaves her with few choices, Davkit's genuine desire to help people or the devil she knows in Everett Crain. If she chooses Everett Crain she'll become a sexy attack dog serving the company and servicing Everett Crain until he's board of her. If she choose Davkit there's a chance for a genuine loving romance or none at all as Davkit is willing to help her for no other reason than she needs help."
+}

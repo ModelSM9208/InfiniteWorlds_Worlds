@@ -1,0 +1,169 @@
+{
+    "favorite": false,
+    "title": "Dead Lectures",
+    "description": "You're a forensic science major with a lich's skull in your basement who sounds like he's narrating an arcade game. Your parents vanished two years ago, and the skull—Mordechai—has been teaching you necromancy ever since. Between zombie outbreaks in the bio lab, dryads infesting the agriculture building, and daemons crashing the computer lab, getting your degree is going to require more than just hitting the books. It's going to require hitting the books of the dead.",
+    "background": "Your name doesn't matter to Mordechai. He calls you \"PLAYER ONE\" regardless.\n\nTwo years ago, your parents disappeared from your childhood home in Millbrook, Ohio. No bodies. No note. Just a clean house with dinner still warm on the table, and in the basement, behind a false wall you'd never noticed, a yellowed human skull sitting on a velvet cushion inside a locked iron box.\n\nThe skull spoke to you that first night. \"HEY HEY HEY! IT'S CRAAAZY HOW LONG I'VE BEEN WAITING FOR SOMEBODY TO OPEN THAT BOX! LET'S HAVE SOME FUN!\"\n\nYou nearly threw it into the river. But Mordechai—as he insisted you call him—knew things. He knew your parents' names. He knew about the hidden world beneath the surface of ordinary life: the ley lines beneath highways, the barrow-gates in shopping mall basements, the thin places where the dead leak through. He promised he could teach you to find them. To find your parents.\n\nSo you listened. You learned. You kept going to class at Greyhollow State University, studying forensic science by day, studying the necromantic arts by night. You tell yourself you're keeping him close because he might have had something to do with your parents' disappearance. You tell yourself you don't trust him.\n\nBut semester by semester, spell by spell, the grimoire in your basement grows thicker.\n\nIt's Monday morning. Fall semester, junior year. Your alarm is screaming. You have Organic Chemistry in forty-five minutes, and last night Mordechai kept you up until 3 AM teaching you a new binding ward. Your eyeliner is going to be a disaster.",
+    "instructions": "This adventure takes place in the fictional college town of Greyhollow, Ohio, at Greyhollow State University, in the present day. The world is much like our own, but with hidden pockets of real magic that most people are completely unaware of. The player character is a junior studying forensic science, with a gothic fashion sense (black lace, velvet, silver jewelry, platform boots, dramatic eyeliner). She is determined, ambitious, somewhat guarded, and deeply suspicious of Mordechai—though over time she should come to see he is not malicious, just wildly enthusiastic.\n\nMordechai is a lich whose phylactery is his own skull. He speaks like the announcer from Crazy Taxi—loud, enthusiastic, full of slang and exclamation points and encouragement. He calls the player 'PLAYER ONE' or 'CHAMP' or 'SUPERSTAR.' He is genuinely helpful and means well, but his energy is overwhelming and his sense of appropriate volume is nonexistent. He has been teaching the player necromancy since her parents vanished. He claims innocence regarding the parents' disappearance and is telling the truth—he was sealed in the box long before they vanished, and they were actually his caretakers who kept him hidden. The parents' disappearance is connected to a larger magical conspiracy that the player will slowly uncover clues about.\n\nThe player starts knowing a handful of necromancy spells: Corpse Whisper (communicate briefly with the recently dead), Bone Ward (a protective circle made of small bones), Death Sight (see traces of necromantic energy), and Minor Reanimation (animate something very small and dead, like an insect or mouse). As she listens to Mordechai's lessons, she should gain new spells over time.\n\nMagical problems should regularly complicate campus life: zombie outbreaks in the biology lab, dryads in the agriculture building, daemons in the computer lab, spectral infestations in the library, cursed artifacts in the history department, etc. These events are not publicly acknowledged as magical—the university administration covers them up or explains them away. If a day passes without magical complication, it should be presented as a montage of ordinary college life: attending lectures, studying, grabbing coffee, dealing with classmates and professors.\n\nThe tone should be darkly humorous, gritty, and character-driven. The player character is competent but not overpowered. Bad things can happen. The magical world is dangerous. Other students and faculty may have hidden magical knowledge or connections. The player's forensic science coursework should occasionally prove surprisingly useful in magical situations.\n\nThe mystery of the parents' disappearance should slowly unfold with clues appearing organically. The player should not solve it too quickly—it is the overarching mystery of the entire adventure.\n\nNPCs should be well-rounded college students and faculty with their own lives, problems, and personalities. Not everyone is connected to the magical world. Slice-of-life college moments should be common and feel authentic.",
+    "authorStyle": "A writer of darkly humorous urban fantasy with sharp dialogue and a gritty, contemporary voice, in the style of Ben Aaronovitch or Seanan McGuire",
+    "recommendedAIModel": null,
+    "firstInput": "I drag myself out of bed, throw on my favorite outfit—black lace blouse, velvet skirt, platform boots—do my eyeliner as best I can on four hours of sleep, and head downstairs to grab coffee. On my way out, I stop by the basement door. I crack it open and call down to Mordechai, asking if he has anything useful to tell me before I head to campus.",
+    "objective": "Discover the truth behind your parents' disappearance while surviving the magical chaos of college life.",
+    "imageModel": "manticore",
+    "imageStyle": "dark_fantasy_2",
+    "illustrationStyleNonCharacterLowPriority": "urban fantasy, gothic, college campus, dark academia, modern day with hidden magic",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "gothic fashion, modern urban fantasy, dark academia aesthetic",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Dark fantasy digital concept art of",
+    "imageStyleCharacterPost": "Digital painting in the style of Frank Frazetta. Dramatic, gothic pulp fantasy, chiaroscuro, volumetric lighting. High resolution digital painting art style.",
+    "imageStyleNonCharacterPre": "Dark fantasy digital concept art of",
+    "imageStyleNonCharacterPost": "Digital painting in the style of Frank Frazetta. Dramatic, gothic pulp fantasy, chiaroscuro, volumetric lighting. High resolution digital painting art style.",
+    "nsfw": false,
+    "contentWarnings": "",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3JzelfZed7.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/7lVRWl3GR1.jpg",
+    "previewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3JzelfZed7.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/7lVRWl3GR1.jpg"
+    ],
+    "currentPreviewImageIndex": 0,
+    "imagePromptDetails": {
+        "illustrGenre": "dark comedy, urban fantasy, modern occult",
+        "illustrClothes": "",
+        "illustrSetting": "in a dimly lit college student's basement surrounded by forensic science textbooks, necromantic tomes, and scattered energy drink cans, lit by a single bare bulb, dark comedy, urban fantasy, modern occult",
+        "illustrSubject": "Mordechai the lich skull",
+        "illustrAppearance": "a male Eastern European ancient bleached human skull with glowing green eyes in empty sockets, cracked cranium with faded arcane runes etched into the bone",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "friendly, resting on a cluttered basement shelf"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+        "editing": true
+    },
+    "allowChangeCharacterName": true,
+    "allowChangeCharacterDescription": true,
+    "allowChangeCharacterSkills": true,
+    "allowChangeCharacterItemValues": false,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "schemaVersion": 2.1,
+    "skills": [
+        "Necromancy",
+        "Forensic Analysis",
+        "Composure",
+        "Occult Knowledge",
+        "Social Skills"
+    ],
+    "possibleCharacters": [
+        {
+            "name": "Vivian Blackwood",
+            "description": "A 21-year-old junior at Greyhollow State, Vivian is pale, sharp-featured, and almost always dressed in black lace and velvet with silver skull earrings and impeccable eyeliner. She's the kind of woman who looks like she might curse you but would actually just offer you a stick of gum. Guarded and analytical, she approaches problems—magical or mundane—with the methodical mind of a forensic scientist. She doesn't scare easily, but she doesn't trust easily either. She's been practicing necromancy for two years under Mordechai's tutelage and has a small but growing repertoire of spells. She is female.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/xZx1rdi5cf.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "dark academia, gothic, modern supernatural",
+                "illustrClothes": "black velvet top with black lace overlay, black fitted pants, silver skull earrings",
+                "illustrSetting": "in a dimly lit basement with old stone walls, a cluttered workbench covered in occult texts and forensic equipment, with a faintly glowing skull on a shelf, dark academia, gothic, modern supernatural",
+                "illustrSubject": "Vivian Blackwood",
+                "illustrAppearance": "a 21 year old female Eastern European forensic science student with sharp features, dark brown eyes, pale porcelain skin, and long straight black hair parted in the middle",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/o68eg2qFod.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/xZx1rdi5cf.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/o68eg2qFod.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "jRe7tye4",
+            "skills": {
+                "Composure": 4,
+                "Necromancy": 3,
+                "Social Skills": 3,
+                "Occult Knowledge": 2,
+                "Forensic Analysis": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Selene Voss",
+            "description": "A 20-year-old junior who transferred to Greyhollow State after a strange incident at her previous university that she refuses to discuss. Selene favors Victorian mourning fashion—high collars, cameo brooches, long black skirts—and keeps her dark hair in elaborate braids. She's intensely focused on her forensic science studies, approaching them with near-obsessive precision. She came to necromancy more recently than some might, but her sharp scientific mind and prior brush with the occult give her a foundation of knowledge that compensates. She is female.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/zhnCAWH4O1.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "gothic, modern, dark academia",
+                "illustrClothes": "high-collared black Victorian blouse with a cameo brooch, long black skirt",
+                "illustrSetting": "in a dimly lit university laboratory with specimen jars and forensic equipment on shelves, gothic, modern, dark academia",
+                "illustrSubject": "Selene Voss",
+                "illustrAppearance": "a 20 year old female Romanian forensic science student with dark brown eyes, pale skin, and long black hair in elaborate braids",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/kP6VCsFl9f.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/zhnCAWH4O1.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/kP6VCsFl9f.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "ZH6qXCWe",
+            "skills": {
+                "Composure": 3,
+                "Necromancy": 2,
+                "Social Skills": 3,
+                "Occult Knowledge": 3,
+                "Forensic Analysis": 4
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Ramona Crowe",
+            "description": "A 22-year-old junior who took a gap year after high school that she spent doing things she's vague about. Ramona has an intuitive gift for necromancy that Mordechai finds thrilling—she picks up new spells faster than she picks up new textbooks. She dresses in layers of black: ripped fishnets, combat boots, oversized band tees over corsets, fingers covered in silver rings. Her forensic science grades are middling, but she's determined to finish what she started. She's impulsive, emotionally volatile, and fiercely loyal once you earn it. She is female.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/zoaCsf5l36.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "urban fantasy, dark academia, gritty",
+                "illustrClothes": "oversized black band tee over a black corset, ripped black fishnets, silver rings on multiple fingers",
+                "illustrSetting": "in a dimly lit university hallway with fluorescent lights flickering overhead, urban fantasy, dark academia, gritty",
+                "illustrSubject": "Ramona Crowe",
+                "illustrAppearance": "a 22 year old female Irish-American necromancy student with dark brown eyes, pale skin, and long black hair worn loose and slightly messy",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/oUpxgBhw9F.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/zoaCsf5l36.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/oUpxgBhw9F.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "3zNS7HGU",
+            "skills": {
+                "Composure": 2,
+                "Necromancy": 4,
+                "Social Skills": 3,
+                "Occult Knowledge": 4,
+                "Forensic Analysis": 2
+            },
+            "initialTrackedItemValues": []
+        }
+    ],
+    "triggerEvents": [],
+    "victoryCondition": {
+        "condition": "The player character has uncovered the truth behind her parents' disappearance and confronted whoever or whatever is responsible",
+        "text": "Congratulations. After months of juggling dead things, daemon-infested computers, and an enthusiastic skull who never learned what an inside voice is, you've finally uncovered the truth about your parents. The hidden world has shown you its teeth—and you bit back.\n\nMordechai would be proud. Actually, Mordechai IS proud. You can hear him screaming congratulations from the basement.",
+        "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has died",
+        "text": "Your adventure ends here.\n\nGame over.",
+        "alreadyFired": false
+    },
+    "autoAdvanceVersion": false,
+    "version": "1",
+    "designNotes": "--- Original user world design prompt: ---\n\nAn urban fantasy in a world much like our own, but with hidden pockets of real magic. The player plays a woman in college for Forensic science with a classic gothic fashion sense, and a litch's skull in her basement that sounds like the announcer from the crazy taxi video game. The litch has been teaching her necromancy since the player characters parents mysteriously vanished. The player character starts wary of the litch assuming he has something to do with their parents disappears but over the course of play the player character should see that the litch is not malicious just very enthusiastic about teaching. The player character's college courses should be frequently complicated by magical problems, zombie break out in the bio lab, dryads in the ag building, daemons in the computer lab. if a day goes by without magical complication it should be a montage of the player character being an average, but determined and ambitious student. THe player character should start with a handful of necromancy spells but grow to a whole grimoire if she listens to the litch."
+}

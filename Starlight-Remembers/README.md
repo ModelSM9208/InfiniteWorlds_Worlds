@@ -1,0 +1,5 @@
+# InfiniteWorlds_Starlight-Remembers
+Repository for the InfiniteWorlds json for Starlight Remembers
+
+community world link: https://infiniteworlds.app/shared/AMei4Q
+Description: On March 19th, 2026, two magical girls wake up with fractured memories of a life they never lived — a life where they fell in love against the machinery of fate itself. In a world where magic is mainstream, mages are celebrities, and a social media app ranks every spellcaster alive, Akari and Yuki must navigate the strange territory between dream and reality. Somewhere out there, the most powerful chaos mage on the planet already remembers everything. The curse that once threatened to unmake them may be gone, but the love that broke reality? That's still very much alive. A mature story of identity, romance, and the courage it takes to choose someone freely when the universe already tried to choose for you.

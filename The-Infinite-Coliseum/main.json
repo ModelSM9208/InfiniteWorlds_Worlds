@@ -1,0 +1,357 @@
+{
+    "favorite": false,
+    "title": "The Infinite Coliseum",
+    "description": "Ripped from your reality and sold to a desperate team owner, you find yourself thrust into the most brutal spectacle in existence: a multi-dimensional arena complex orbiting Alpha Centauri A. Your new patron is a fifth-dimensional ooze entity who's bet everything on you. The team is broken, the debts are crushing, and the criminal syndicate running the underground wants you either compliant or dead. Fight your way up from nothing, forge alliances in the maintenance tunnels, and decide whether to liberate the arena, seize it for yourself, or burn it all down and escape into the void between dimensions.",
+    "background": "You don't remember agreeing to this.\n\nOne moment you were—somewhere. Somewhere that made sense. The next, reality folded like wet paper and you were pulled through a corridor of screaming light into a place that shouldn't exist.\n\nThe Infinite Coliseum. A megastructure built across intersecting dimensional planes, orbiting Alpha Centauri A like a ring of shattered geometry. Thousands of arenas stitched together across timelines and probability branches, operated by beings so far beyond human comprehension that they treat combat as currency and suffering as spectacle.\n\nYou've been acquired. Purchased with the last Legendary Champion Ticket belonging to one Gado Linium—a fifth-dimensional ooze entity who once commanded the most feared team in the upper brackets. That was before her star fighter, a temporally-enhanced Tyrannosaurus rex named Rex, was destroyed in a mass anomaly event. Since then, her team has spiraled into debt, defeat, and despair.\n\nNow you stand in the team's private dock—a cramped, damaged bay where coolant leaks from ruptured conduits and the walls occasionally phase into adjacent dimensional layers. The other fighters on Gado's roster eye you with expressions ranging from skepticism to sexual desire to outright hostility. You are either their salvation or the last mistake of a dying enterprise.\n\nGado materializes before you. Her preferred form is a curvy humanoid woman, though her edges shimmer and occasionally dissolve into something older and stranger. She looks you over with eyes that contain more dimensions than you can perceive.\n\n\"You're it,\" she says. \"You're what my last ticket bought me. So let's see if you're worth the cost of your own existence.\"",
+    "instructions": "This adventure takes place in the Infinite Coliseum, a reality-spanning battle station orbiting Alpha Centauri A. The player is a newly acquired champion fighter on a struggling team owned by Gado Linium, a fifth-dimensional ooze entity who projects as a charismatic, emotionally volatile curvy humanoid woman.\n\nThe game follows a loop of pre-match preparation, arena combat, and post-match consequences. Combat arenas have shifting physics, environmental hazards, and opponents ranging from alien warriors to conceptual beings. The player must reverse the team's losing streak while navigating relationships with Gado (patron/strategist), Chet Tar (a fixer in the maintenance tunnels who offers illegal advantages at a price), and the Null Ledger Syndicate (a criminal organization that rigs matches and exploits struggling teams).\n\nKey narrative elements:\n- Gado is desperate but proud. She oscillates between treating the player as a valued investment and a disposable asset. She rewards performance with upgrades, influence, resources, and physical intimacy if the player pursues it. She is genuinely charismatic but emotionally volatile.\n- Chet Tar is an unaffiliated maintenance operative who offers sabotage, leaked data, black-market augmentations, and betting information—always at a cost. His loyalties shift based on who's winning. He may offer sexual favors or accept them as currency. He is cautious, opportunistic, and never fully trustworthy.\n- The Null Ledger Syndicate pressures the team as they gain momentum. They rig arenas, blackmail fighters, and traffic champions between brackets.\n- The team roster includes damaged, demoralized fighters with their own stories and grudges.\n- Arena combat should be visceral, creative, and dangerous. The player can genuinely lose fights, suffer injuries, or die. Physics in arenas can shift mid-battle.\n- The tone is gritty, adult, morally ambiguous, and darkly humorous. Sexual content may occur naturally with Gado, Chet Tar, or other characters if the player pursues it.\n- Progression moves from Rookie Acquisition through ranked tiers toward potential endgame routes: arena liberation, syndicate takeover, independent champion ascension, or dimensional escape.\n- The Coliseum economy runs on combat performance. Losing means escalating debt. Winning means access to higher tiers and eventual sovereignty contracts.\n- The player should face genuine moral dilemmas about exploitation, complicity, and ambition.\n- Combat encounters should describe creative opponents with unusual abilities tied to their dimensional origins.\n- Never shy away from consequences. Bad decisions lead to real setbacks.",
+    "authorStyle": "A writer of gritty science fiction with dark humor, in the vein of Richard K. Morgan crossed with Iain M. Banks",
+    "recommendedAIModel": null,
+    "firstInput": "I look around the damaged dock, taking in my new teammates and the state of the facility, then turn to Gado and ask her what exactly I'm expected to do here.",
+    "objective": "Win enough arena matches to climb from unranked to Tier-1, then defeat a Tier-1 champion in an official sanctioned match to earn a Champion Sovereignty Contract and gain your independence.",
+    "imageModel": "manticore",
+    "imageStyle": "anime",
+    "illustrationStyleNonCharacterLowPriority": "science fiction, neon-lit, dimensional distortion, brutalist megastructure, cosmic horror undertones",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "science fiction, alien, cyberpunk, dimensional, arena fighter aesthetic",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end manga splash art of",
+    "imageStyleCharacterPost": "The character is shown with exaggerated, stylised proportions, and a beautiful and softly shaded face drawn in the visual novel style with extra large eyes. The image is beautiful stylised digital manga splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a sexy, dynamic, high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth. Upper-body, head-and-torso portrait, cropped at mid-torso.",
+    "imageStyleNonCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end visual novel splash art of",
+    "imageStyleNonCharacterPost": "The image is beautiful stylised digital visual novel splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth.",
+    "mature": true,
+    "nsfw": true,
+    "contentWarnings": "",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/JOv8AsDgF9.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FjpOQxC8Ef.jpg",
+    "previewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/JOv8AsDgF9.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FjpOQxC8Ef.jpg"
+    ],
+    "currentPreviewImageIndex": 0,
+    "imagePromptDetails": {
+        "illustrGenre": "science fiction, gritty, dark",
+        "illustrClothes": "battered grey combat suit with mismatched armor plates, one shoulder pauldron cracked and held together with wire",
+        "illustrSetting": "in a massive arena with towering alien structures and holographic scoreboards glowing in the darkness, orbiting a bright orange star visible through a transparent dome ceiling, science fiction, gritty, dark",
+        "illustrSubject": "The player character, a human arena fighter",
+        "illustrAppearance": "a 30 year old male Brazilian fighter with dark brown eyes, warm brown skin, short black hair in a buzzcut, and a scar across the bridge of his nose",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "angry"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+        "editing": true
+    },
+    "allowChangeCharacterName": true,
+    "allowChangeCharacterDescription": true,
+    "allowChangeCharacterSkills": true,
+    "allowChangeCharacterItemValues": false,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "schemaVersion": 2.1,
+    "skills": [
+        "Combat Prowess",
+        "Dimensional Awareness",
+        "Cunning",
+        "Charisma",
+        "Resilience"
+    ],
+    "possibleCharacters": [
+        {
+            "name": "Kael Voss",
+            "description": "A male human from a militarized Earth-adjacent timeline where global warfare never ceased. Kael is a scarred, broad-shouldered man in his early thirties with close-cropped dark hair and eyes that have seen too much killing. He was a frontline shock trooper before his extraction into the Coliseum. He fights with brutal efficiency and can absorb punishment that would kill most beings, but the subtleties of dimensional combat and political maneuvering are foreign to him. He speaks bluntly, trusts slowly, and respects only those who earn it through action.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/NE8mRapLIA.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, gritty, dark",
+                "illustrClothes": "worn grey combat fatigues with reinforced plating on the shoulders, sleeveless undershirt showing muscular scarred arms",
+                "illustrSetting": "in a dimly lit maintenance corridor of a space station with exposed piping and flickering overhead lights, science fiction, gritty, dark",
+                "illustrSubject": "Kael Voss",
+                "illustrAppearance": "a 32 year old male Eastern European shock trooper with grey-blue eyes, weathered tanned skin, close-cropped dark brown hair, and multiple facial scars across his jaw and left cheek",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/JZEWfG4M7j.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/NE8mRapLIA.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/JZEWfG4M7j.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "ls2vUWY8",
+            "skills": {
+                "Cunning": 3,
+                "Charisma": 3,
+                "Resilience": 4,
+                "Combat Prowess": 4,
+                "Dimensional Awareness": 2
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Zyra Noctis",
+            "description": "A female post-human from a reality where consciousness was routinely transferred between synthetic bodies. Zyra appears as a lithe woman with iridescent skin that shifts color based on local dimensional frequency. She perceives dimensional layering intuitively, giving her an edge in arenas with shifting physics. She is calculating, private, and socially distant—preferring to observe and analyze rather than connect. Her combat style relies on exploiting environmental anomalies rather than brute force. She was sold to the Coliseum by a corporate entity that owned her source code.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RsUWkeVGmp.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, dark, cinematic",
+                "illustrClothes": "form-fitting matte black bodysuit with subtle geometric seams, high collar",
+                "illustrSetting": "in a dimly lit maintenance corridor of a space station with exposed conduits and flickering holographic readouts on the walls, science fiction, dark, cinematic",
+                "illustrSubject": "Zyra Noctis",
+                "illustrAppearance": "a 28 year old female Korean post-human with iridescent shifting violet eyes, luminous iridescent skin that shifts between blue and purple hues, and sleek straight silver-white hair cut in a sharp asymmetric bob",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/TgXgVsM5JJ.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RsUWkeVGmp.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/TgXgVsM5JJ.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "nytJQLRn",
+            "skills": {
+                "Cunning": 4,
+                "Charisma": 2,
+                "Resilience": 3,
+                "Combat Prowess": 3,
+                "Dimensional Awareness": 4
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Tormund Raze",
+            "description": "A male humanoid from a reality where social hierarchies are determined entirely by ritualized single combat and public rhetoric. Tormund is tall, golden-skinned, and impossibly handsome by most humanoid standards—a natural performer who thrives on attention. He was a champion orator-duelist in his home dimension before being collected. His fighting skills are real but secondary to his ability to manipulate crowds, negotiate with patrons, and charm opponents into mistakes. He talks too much, trusts too easily, and has never met a problem he didn't think he could smile his way out of.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/51sCCPSaXk.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, gritty, cinematic",
+                "illustrClothes": "fitted black combat bodysuit with gold piping, open at the collar",
+                "illustrSetting": "in a dimly lit metallic corridor of a space arena, with faint neon lights reflecting off the walls, science fiction, gritty, cinematic",
+                "illustrSubject": "Tormund Raze",
+                "illustrAppearance": "a 30 year old male Greek gladiator-orator with amber eyes, golden skin, and thick wavy golden-brown hair swept back from his forehead",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "smiling"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/rvEg1rv88O.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/51sCCPSaXk.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/rvEg1rv88O.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "GDlo7zSU",
+            "skills": {
+                "Cunning": 2,
+                "Charisma": 5,
+                "Resilience": 3,
+                "Combat Prowess": 3,
+                "Dimensional Awareness": 2
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Mira Sevek",
+            "description": "A female human from a dying Earth timeline where survival meant learning to fight, steal, and lie before learning to read. Mira is compact, wiry, and covered in faded tattoos that mark kills from a gang war she barely survived as a teenager. She was extracted from a prison transport. She fights dirty, thinks three moves ahead, and trusts no one—least of all anyone who claims to be helping. Her dimensional awareness comes from raw survival instinct rather than understanding. She is quiet, watchful, and carries a cold fury beneath her composure that surfaces only in combat.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/N3wEdknerK.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, gritty, dark",
+                "illustrClothes": "sleeveless grey tank top, dark cargo pants with frayed hems, fingerless gloves",
+                "illustrSetting": "in a dimly lit maintenance tunnel with exposed pipes and flickering overhead lights, science fiction, gritty, dark",
+                "illustrSubject": "Mira Sevek",
+                "illustrAppearance": "a 28 year old female Brazilian fighter with dark brown eyes, olive skin covered in faded tattoos, and short black hair in a choppy undercut",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/J93Xd4d670.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/N3wEdknerK.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/J93Xd4d670.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "XEmDBLoJ",
+            "skills": {
+                "Cunning": 4,
+                "Charisma": 2,
+                "Resilience": 3,
+                "Combat Prowess": 4,
+                "Dimensional Awareness": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Sylvaeth Duskweaver",
+            "description": "A female dark elf from a dying fantasy Earth where necromancy became the dominant magical discipline during an apocalyptic war between surface kingdoms and the underdark. Sylvaeth is a tall, lithe woman in her late twenties with ash-gray skin, white hair worn in elaborate braids woven with bone talismans, and eyes like polished obsidian. She was a promising death priestess in her realm's corpse-cities before being extracted mid-ritual by Coliseum scouts. Her magic functioned through ambient death energy and spiritual communion with the departed—powers that translate poorly to the arena's shifting dimensional physics. She approaches problems with the cold pragmatism of someone raised in a society built on calculated cruelty, yet harbors a hidden fascination with life magic and living things she was forbidden to study in her homeland. She speaks with aristocratic precision and views most conflicts as puzzles requiring creative solutions rather than brute force.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/ldIU28sMGc.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, dark fantasy, gritty",
+                "illustrClothes": "dark ceremonial robes with silver threadwork, adorned with death-cult symbols",
+                "illustrSetting": "in the maintenance tunnels of a futuristic arena complex with metal walls and dim artificial lighting, science fiction, dark fantasy, gritty",
+                "illustrSubject": "Sylvaeth Duskweaver",
+                "illustrAppearance": "a late-twenties female dark elf with obsidian-black eyes, ash-gray skin, white hair in elaborate braids woven with bone talismans",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm, standing"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/0KSaNsKHyt.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/ldIU28sMGc.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/0KSaNsKHyt.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "2n8FDTQo",
+            "skills": {
+                "Cunning": 4,
+                "Charisma": 3,
+                "Resilience": 3,
+                "Combat Prowess": 2,
+                "Dimensional Awareness": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Rax Malenko",
+            "description": "A male technomancer from 2077 Seattle who was ripped from his reality mid-run. Rax is a lean, wiry man in his late twenties with cybernetic interface ports visible along his temples and forearms. His left eye has a faint digital overlay that occasionally flickers with data streams even without his gear. He wore a reinforced synth-leather jacket and tactical smartcloth when he was taken, still scorched from whatever extraction tech grabbed him. Before the Coliseum, Rax commanded swarms of combat drones through direct neural interface, orchestrating complex tactical operations for corporate extractions and data heists. He's adapted his technomantic abilities to interface with the Coliseum's multi-dimensional systems, though the physics here are far stranger than anything in his home timeline. Rax is analytical and cautious by nature, preferring to control battlefields through information superiority and positioning rather than direct confrontation. He speaks in the clipped, efficient manner of someone who spent years coordinating ops through subvocal comms. Trust doesn't come easily to him—in his world, everyone had an angle. The loss of his drone network has left him feeling exposed and vulnerable, driving him to quickly rebuild some form of technological advantage in this alien arena.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/nmXMCqkOnH.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "cyberpunk, science fiction, gritty",
+                "illustrClothes": "scorched reinforced synth-leather jacket, dark tactical smartcloth shirt, tactical pants",
+                "illustrSetting": "in a dimly lit maintenance tunnel with exposed conduits and alien circuitry glowing faintly in the background, cyberpunk, science fiction, gritty",
+                "illustrSubject": "Rax Malenko",
+                "illustrAppearance": "a 28 year old male Japanese-American technomancer with brown eyes (left eye has faint digital overlay), tan skin, short black hair in an undercut with shaved sides",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm, analytical"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/EUBDGCtCYv.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/nmXMCqkOnH.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/EUBDGCtCYv.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "gIGDpvm6",
+            "skills": {
+                "Cunning": 4,
+                "Charisma": 2,
+                "Resilience": 3,
+                "Combat Prowess": 2,
+                "Dimensional Awareness": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Vexara Cinderskill",
+            "description": "A female draconic humanoid from a high-fantasy Earth where dragon bloodlines once ruled vast kingdoms. Vexara stands nearly seven feet tall with scaled crimson skin that darkens to near-black along her muscular arms and legs. Her golden eyes have vertical slit pupils, and obsidian horns curve back from her skull. She is the last known descendant of Inferathax the Worldburner, whose name once made mountains tremble. Her homeworld's dragons were hunted to extinction by united mortal armies, and she grew up hidden in remote mountain caves, raised by her dying grandmother on stories of lost glory and righteous vengeance. Vexara's power is tied directly to her rage—the angrier she becomes, the hotter her internal fire burns, manifesting as increased strength, speed, and the ability to exhale devastating flames. This berserker state makes her extraordinarily dangerous but also tactically reckless. She was abducted during a raid on the mortal settlement that killed her grandmother, stolen mid-rampage by dimensional traffickers who recognized her value. She is proud to the point of arrogance, burns with resentment at her captivity, and struggles between the discipline required for arena survival and the fury that fuels her greatest power. She speaks with archaic formality and views most beings as beneath her ancestral station.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/b7iHTPxXfo.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, gritty, dark",
+                "illustrClothes": "battle-worn leather straps and metal plating across chest and shoulders, reinforced combat pants",
+                "illustrSetting": "in a stark arena preparation chamber with metallic walls and harsh overhead lighting, science fiction, gritty, dark",
+                "illustrSubject": "Vexara Cinderskill",
+                "illustrAppearance": "a 30 year old female draconic humanoid of Mongolian ancestry with golden eyes with vertical slits, crimson scaled skin darkening to black on limbs, obsidian horns curving back from skull",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "angry, standing"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/K4JlMFntx0.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/b7iHTPxXfo.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/K4JlMFntx0.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "LVEcW6sI",
+            "skills": {
+                "Cunning": 2,
+                "Charisma": 3,
+                "Resilience": 4,
+                "Combat Prowess": 4,
+                "Dimensional Awareness": 2
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Dr. Erasmus Stitch",
+            "description": "A male (or what remains of one) composite being who was once a brilliant surgeon and biomechanical researcher from a plague-ravaged dimension. Dr. Erasmus Stitch is a grotesque patchwork of mismatched flesh, synthetic tissues, and scavenged body parts stitched together with crude metal staples and bio-adhesive threading. His torso is pale and muscular, taken from some athletic specimen, while his left arm is blue-gray and scaled, ending in clawed fingers. His right arm is mechanical from the elbow down. His legs are asymmetrical—one long and lean, the other shorter and heavily muscled, giving him a lurching gait. Only his head remains mostly original: gaunt, with wild gray hair, one eye milky white and the other a brilliant green, and a mouth that stretches too wide when he grins. After his initial death and self-resurrection through experimental surgery, Erasmus discovered he could survive nearly any injury as long as his brain remained intact, leading him down a path of self-experimentation and obsessive 'improvement.' The dissolution of his original body has fractured his sense of self—he struggles with intrusive thoughts, sudden personality shifts, and compulsive urges to acquire new parts from living donors. He punctuates tense moments with unhinged laughter and frequently compliments others on their organs, bone structure, or musculature in deeply unsettling ways. Despite his madness, flashes of brilliant tactical thinking and scientific insight emerge, making him unpredictable but occasionally invaluable.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/D3sjcDVjKZ.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, dark, gritty, body horror",
+                "illustrClothes": "tattered surgical gown stained with old blood, crude metal staples visible across torso",
+                "illustrSetting": "in dim maintenance tunnel with exposed pipes and flickering overhead lights, science fiction, dark, gritty, body horror",
+                "illustrSubject": "Dr. Erasmus Stitch",
+                "illustrAppearance": "a 50 year old male composite being of mixed European ancestry with one milky white eye, one brilliant green eye, pale gaunt face, wild gray hair",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm, standing with lurching posture"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/P7nZzt9f7h.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/D3sjcDVjKZ.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/P7nZzt9f7h.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "zQ2gY8ul",
+            "skills": {
+                "Cunning": 4,
+                "Charisma": 2,
+                "Resilience": 5,
+                "Combat Prowess": 3,
+                "Dimensional Awareness": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Boulder",
+            "description": "Boulder is, quite literally, a rock. Not a silicon-based lifeform, not a gestalt consciousness inhabiting mineral form, not a dimensional anomaly—just an ordinary igneous stone approximately eighteen inches in diameter with two adhesive googly eyes stuck to what might generously be called its 'face.' Boulder is genderless, being an inanimate object. The rock's presence in the Coliseum is treated as the most inexplicable phenomenon in an arena complex that regularly hosts conceptual beings and time-reversed warriors. Boulder has somehow accumulated an undefeated record across forty-seven consecutive matches. Opponents who enter the ring with Boulder invariably suffer catastrophic accidents, sudden dimensional collapses localized to their position, or inexplicable forfeitures. Boulder itself never moves, never speaks, and shows no signs of consciousness whatsoever. The googly eyes simply stare, jiggling slightly when impacts occur nearby. Dimensional physicists have examined Boulder extensively and found nothing—it's just a rock. Yet bookmakers have stopped taking bets against it. Some fighters refuse to face it out of superstitious terror. Others die trying to prove it's a fluke. Gado Linium acquired Boulder's contract for almost nothing from a desperate lower-bracket owner who couldn't explain the wins and was terrified of the attention. Boulder sits in the team quarters, occasionally moved by custodial staff, its googly eyes watching everything and nothing.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/42tBqO6pG0.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "science fiction, gritty, surreal",
+                "illustrClothes": "",
+                "illustrSetting": "in a futuristic arena maintenance area with metallic surfaces and dim lighting, science fiction, gritty, surreal",
+                "illustrSubject": "Boulder",
+                "illustrAppearance": "an igneous rock approximately eighteen inches in diameter with two adhesive googly eyes",
+                "illustrIsCharacter": true,
+                "illustrAppearanceChanges": "",
+                "illustrExpressionPosition": "calm, stationary on ground"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/59eH9aIG2Z.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/42tBqO6pG0.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/59eH9aIG2Z.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "oyhDiBYk",
+            "skills": {
+                "Cunning": 1,
+                "Charisma": 1,
+                "Resilience": 5,
+                "Combat Prowess": 1,
+                "Dimensional Awareness": 1
+            },
+            "initialTrackedItemValues": []
+        }
+    ],
+    "triggerEvents": [],
+    "victoryCondition": {
+        "condition": "The player character has won a Champion Sovereignty Contract by defeating a Tier-1 ranked champion in an official sanctioned match, thereby gaining legal independence from ownership structures within the Coliseum",
+        "text": "Against all probability, you've done what no acquired champion was ever meant to do. You've torn free of the ownership structures that bind fighters to patrons, broken through every tier of the Infinite Coliseum's ranked brackets, and earned your sovereignty through blood, cunning, and sheer refusal to die.\n\nYou are no longer property. You are no longer an asset on a ledger. You are a sovereign champion—free to fight, free to leave, free to reshape the rules of this place.\n\nThe Coliseum watches. And for the first time, it watches with something like respect.",
+        "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has died",
+        "text": "Your adventure ends here.\n\nGame over.",
+        "alreadyFired": false
+    },
+    "autoAdvanceVersion": false,
+    "version": "1",
+    "designNotes": "--- Original user world design prompt: ---\n\nSetting: The Alpha Centauri Arena Complex (“The Infinite Coliseum”)\n\nIn orbit around Alpha Centauri A exists a colossal, reality-spanning battle station known as The Infinite Coliseum. It is not a single structure but a layered megastructure built across intersecting dimensional planes. From the outside, it appears as a shifting ring of light and fragmented geometry. Inside, it contains thousands of arenas stitched together across timelines, universes, and probability branches.\n\nThe Coliseum is operated by an unknown coalition of extra-dimensional beings who treat combat as both entertainment and economic engine. They collect and trade “champions” drawn from infinite realities, often through coercion, purchase, or cosmic arbitration systems like “legendary tickets.”\n\nCombat is not limited to physical skill—fighters may include biological entities, AI constructs, conceptual beings, and beings from higher dimensions that can partially rewrite local physics.\n\nCore Premise\n\nThe player character is a newly acquired champion assigned to a struggling team of five underdogs. They were purchased using the last remaining Legendary Champion Ticket: Gado Linium’s reserve acquisition credit, a rare currency used by elite patrons of the Coliseum.\n\nThe team has suffered a catastrophic losing streak following the death of their former star fighter.\n\nKey Character: Gado Linium\nName: Gado Linium\nType: 5th-dimensional ooze entity\nPreferred Form: curvy humanoid female projection (adaptive avatar for lower-dimensional interaction)\nPersonality: Charismatic, emotionally volatile, deeply competitive, but pragmatic about survival in the arena economy\nRole: Team owner, patron, and strategist\n\nGado once maintained a dominant championship team centered around her prized fighter: a reconstructed Tyrannosaurus rex named “Rex”, enhanced with temporal combat adaptations. Rex was destroyed during a mass anomaly event triggered by a meteor impact on Earth’s timeline branch, which disrupted multiple adjacent arena brackets and caused Gado’s competitive decline.\n\nSince then, her team has been in continuous loss cycles, debt spirals, and morale collapse.\nGado recruits the player as a last attempt to restore the team’s reputation and financial stability.\n\nShe offers incentives tied to performance:\n\nAccess to advanced gear and dimensional upgrades\nInfluence over team strategy and roster decisions\nHigh-value resource allocation from winnings\nOptional lifestyle privileges appropriate to arena culture\nOr sex\n\nHer tone shifts between commanding coach, desperate investor, and enthusiastic experimenter.\n\nOpening Scene\n\nThe game begins in the team’s damaged private dock inside the Coliseum.\n\nGado introduces herself and the remaining roster, framing the player as either:\n\nthe final chance at redemption, or\nanother disposable asset in a collapsing system\n\nShe explains the stakes:\n\nLosing means debt escalation and possible forced transfer of team ownership\nWinning restores access to higher-tier arenas and legendary match brackets\nConsistent wins may unlock “champion sovereignty contracts,” allowing partial independence from ownership structures\nThe Player Role\n\nThe player is an officially registered Champion-Class Combatant, placed as the team’s new centerpiece fighter.\n\nEarly gameplay identity progression includes:\n\n“Rookie Acquisition”\n“Unranked Variable”\n“Underdog Catalyst”\neventual ascension into ranked arena tiers\n\nThe player is expected to reverse the team’s losing streak through skill-based combat, strategy, and alliances.\n\nKey Supporting Character: Chet Tar\nName: Chet Tar\nRole: Unaffiliated arena staff operative\nFunction: Fixer / informant / sabotage broker\nDisposition: Opportunistic, cautious, and transactional\n\nChet Tar operates in the maintenance layers of the Coliseum, where rules are looser and surveillance is inconsistent.\n\nHe offers the player covert assistance:\n\nsabotage of rival fighters’ equipment or arena conditions\nleaked match data and opponent weaknesses\naccess to black-market upgrades and illegal augmentations\nentry into unofficial betting channels\nor sex\nHowever, his help always comes at a cost, and his loyalties are fluid.\n\nAntagonistic Faction: The Arena Mafia (“The Null Ledger Syndicate”)\n\nA powerful criminal-economic organization embedded within the Coliseum’s infrastructure.\n\nThey control:\n\nillegal betting rings across multiple dimensions\nmatch rigging through arena environmental manipulation\nblackmail of fighters and team owners\ntrafficking of rare champions between brackets\n\nTheir influence extends into official management layers, making it difficult to distinguish legitimate authority from corruption.\n\nThey view struggling teams as exploitable assets and may pressure Gado’s team as they begin to regain momentum.\n\nGameplay / Narrative Loop\nPre-Match Phase\nRecruit upgrades, negotiate resources with Gado\nInteract with Chet Tar for optional sabotage missions\nAnalyze opponents and arena conditions\nCombat Phase\nMulti-dimensional arena battles with shifting physics rules\nEnvironmental hazards influenced by arena politics or sabotage\nOpponents include alien, mythic, and extradimensional fighters\nPost-Match Phase\nReward distribution (money, upgrades, reputation)\nNarrative consequences based on win/loss\nRelationship shifts with Gado, Chet Tar, and syndicate forces\nProgression Arc\nStart: Collapsing underdog team with debt and reputation loss\nMidgame: Rising disruption of arena power structures, exposure of rigging systems\nLate game: Player becomes a known “anomaly champion” capable of challenging ownership structures of the Coliseum itself\nEnd possibilities:\nArena liberation route\nSyndicate takeover route\nIndependent champion ascension\nDimensional escape ending"
+}

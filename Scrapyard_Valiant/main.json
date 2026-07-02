@@ -1,0 +1,169 @@
+{
+    "favorite": false,
+    "title": "Scrapyard Valiant",
+    "description": "You built your mech from junkyard scraps and childhood dreams. The tales said pilots were heroes who fought monsters across the stars. The truth is darker—but you'll shine brighter for knowing it. Planet-hop through alien worlds, customize your mech with anything you can scavenge or imagine, and prove that brilliance and heart can triumph where brute force fails.",
+    "background": "They used to tell stories on Dust Hill—stories crackling through pirated radio signals that bounced off the orbital junk ring overhead. Stories about the Valiants: brave pilots in gleaming mechs who crossed the stars to fight the Swarm, those planet-devouring monsters that consumed whole civilizations. You grew up in the shadow of a canyon-sized scrapyard on Korrus IV, an industrial dumping world where broken ships and dead satellites came to rot. No proper schooling—your mother worked the sorters until her lungs gave out, and after that it was just you and the junk.\n\nBut junk talks, if you know how to listen. Every discarded actuator whispered its tolerances. Every cracked reactor housing told you what it could still give. By seventeen you could rebuild a fusion coupler blindfolded. By twenty, you had done what no one on Korrus IV had ever done: you built a mech.\n\nIt's ugly. Asymmetrical. One arm is longer than the other, its left knee joint clicks on every rotation, and the cockpit still smells like hydraulic fluid and rust. But it walks. It fights. It flies—sort of.\n\nYou've named it the Tin Valiant, because that's what you are: a Valiant made of scrap and stubbornness.\n\nThree days ago, a cargo hauler crashed at the edge of the scrapyard. Inside was a dying woman in battered pilot armor—real Valiant armor—who pressed a data chip into your hand and whispered: \"Helix Station. The nest. They need to know what we became.\"\n\nYou don't know what she meant. But Helix Station is only two jumps away, and your mech just barely has the thrust for orbital escape.\n\nThe stories are calling. Time to answer.",
+    "instructions": "This is a planet-hopping mech adventure. The player character is a brilliant self-taught engineer in their early twenties who built their own mech from scrapyard parts on Korrus IV. They are following the trail left by a dying Valiant pilot toward Helix Station, and along the way will visit multiple unique planets, encounter both the Swarm (giant hive-mind monsters) and the Syndicate (opportunistic profiteers), and gradually learn that the legendary Valiants were not the shining heroes the stories claimed.\n\nKEY INSTRUCTIONS:\n\n1. MECH CUSTOMIZATION: The player's mech, the Tin Valiant, is highly customizable. Any time the player finds resources, salvage, or materials, they can propose modifications. These can be weapons, mobility upgrades, utility tools, defensive systems, or wildly creative additions (a sonic resonance array, a makeshift grappling crane, ablative junk armor, etc.). I should describe the engineering process when the player customizes, making it feel tactile and real. Customization choices should meaningfully affect subsequent encounters.\n\n2. PROBLEM-SOLVING OVER COMBAT: While combat occurs, the player should always have the option to think their way out. Environmental manipulation, clever mech usage, diplomacy, or creative engineering should be viable alternatives. Reward ingenuity. If the player proposes a creative solution, make it work (perhaps with complications) rather than forcing a fight.\n\n3. NPC AUTONOMY: Side characters act on their own. They have personal goals, make decisions without the player's input, and may complicate situations. They are not sidekicks waiting for orders. They may leave, betray, help unexpectedly, argue, fall in love with each other, make mistakes, or save the day independently. When introducing NPCs, give them distinct voices, backgrounds, and emotional depth.\n\n4. THE TRUTH: The Valiants were originally heroes, but over decades the organization became corrupted. Senior Valiants made deals with the Syndicate, allowed certain worlds to fall to the Swarm in exchange for political power and resources, and silenced dissent within their ranks. The dying pilot was a whistleblower. This truth should emerge gradually—through recovered logs, conversations with disillusioned pilots, evidence on ruined worlds, and Syndicate operatives who casually reference their Valiant contacts. The player should feel the weight of this revelation but ultimately be inspired to become something better.\n\n5. TONE: Hopeful darkness. Bad things happen. People suffer. But the player's actions matter, and good can triumph through cleverness and compassion. Romance may develop naturally with NPCs but remains understated and safe-for-work. Themes of intelligence over might, love over hate, and good over evil should emerge through story consequences, not lectures.\n\n6. PLANETS: Each planet visited should be wildly unique—different gravity, ecosystems, societies, hazards. Describe them vividly. They should present distinct challenges that require different approaches and mech configurations.\n\n7. PACING: The story should move with purpose. Each planet represents a chapter. The overall arc moves toward Helix Station, where the full truth awaits and a climactic choice must be made.\n\n8. RESOURCES: Track what the player has available for mech work. Scavenging and trading are important. The player starts with very limited resources—their mech barely functions—and must upgrade through cleverness and opportunity.\n\n9. FAILURE: If the player fails, it should be recoverable. The mech might be damaged, an ally might be lost temporarily, a planet might become hostile—but there is always a path forward through creativity.\n\n10. The player character is referred to in first person. They are inherently good-hearted, brilliant, and resourceful. Their dialogue and personality are player-driven, but their engineering genius is a given—they can understand and work with any technology they encounter, given time and materials.",
+    "authorStyle": "A writer of hopeful science fiction adventure with mechanical detail and emotional depth, in the style of Becky Chambers meets Pacific Rim",
+    "recommendedAIModel": null,
+    "firstInput": "I strap into the Tin Valiant's cockpit, run my pre-flight checklist with shaking hands, and ignite the jury-rigged thruster array to punch through Korrus IV's atmosphere for the first time.",
+    "objective": "Reach Helix Station, uncover the truth about the Valiants, and broadcast it to the galaxy to rally a new generation of honest pilots against the Swarm.",
+    "imageModel": "manticore",
+    "imageStyle": "comic_book",
+    "illustrationStyleNonCharacterLowPriority": "sci-fi mecha, rusted metal, alien planets, painted skies, industrial grit mixed with wonder",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "sci-fi mecha pilot, grease-stained, goggles, practical clothing, diverse alien species",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Comic book illustration of",
+    "imageStyleCharacterPost": "Western animation in the style of Jim Lee, Greg Capullo. Heavily inked outlines and cross-hatching style with vibrant cel-shaded coloring. Inked shadows, chiaroscuro shadows. Dramatic lighting and contrasts. Realistic facial features.",
+    "imageStyleNonCharacterPre": "Comic book illustration of",
+    "imageStyleNonCharacterPost": "Western animation in the style of Jim Lee, Greg Capullo. Heavily inked outlines and cross-hatching style with vibrant cel-shaded coloring. Inked shadows, chiaroscuro shadows. Dramatic lighting and contrasts.",
+    "mature": false,
+    "nsfw": false,
+    "contentWarnings": "",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/WZDs5LmUwz.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/2U9lQDDmey.jpg",
+    "previewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/WZDs5LmUwz.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/2U9lQDDmey.jpg"
+    ],
+    "currentPreviewImageIndex": 0,
+    "imagePromptDetails": {
+        "illustrGenre": "science fiction, gritty, hopeful",
+        "illustrClothes": "grease-stained tank top, patched cargo pants, heavy utility belt with mismatched tools",
+        "illustrSetting": "in a sprawling alien junkyard at dusk, with rusted starship hulls and glowing scrap piles under a violet sky with two moons, science fiction, gritty, hopeful",
+        "illustrSubject": "the pilot",
+        "illustrAppearance": "a 19 year old female Filipino mech pilot with dark brown eyes, warm brown skin, and choppy black hair tied back with a frayed wire",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "calm, standing with one hand resting on the leg of a towering junkyard mech"
+    },
+    "permissionsOnceShared": {
+        "sharing": true,
+        "editing": true
+    },
+    "allowChangeCharacterName": true,
+    "allowChangeCharacterDescription": true,
+    "allowChangeCharacterSkills": true,
+    "allowChangeCharacterItemValues": false,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "schemaVersion": 2.1,
+    "skills": [
+        "Engineering",
+        "Piloting",
+        "Wits",
+        "Heart",
+        "Resourcefulness"
+    ],
+    "possibleCharacters": [
+        {
+            "name": "Kael Morrow",
+            "description": "A young man of twenty-two, lanky and perpetually oil-stained, with calloused hands that know the language of machines better than most people know their mother tongue. He grew up alone on Korrus IV after his mother died, raised by the scrapyard itself. He taught himself engineering from salvaged manuals and broken things that whispered their secrets to patient fingers. He's quiet in crowds but lights up when talking about mechanisms, and has a stubborn moral compass that points true north even when the world tries to spin it. His mech, the Tin Valiant, is his masterpiece and his best friend—ugly, loud, and utterly his.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/CVZuudScKP.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/4UxJqGP0ye.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/CVZuudScKP.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/4UxJqGP0ye.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "VPwsS7wV",
+            "skills": {
+                "Wits": 4,
+                "Heart": 3,
+                "Piloting": 2,
+                "Engineering": 5,
+                "Resourcefulness": 4
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Saya Okonkwo",
+            "description": "A woman of twenty-four with close-cropped hair and burn scars along her forearms from a childhood reactor accident that killed her father. She learned engineering not from books but from necessity—keeping her family's salvage barge running on Korrus IV when every system was three failures past condemned. She's warm and fiercely protective of anyone she considers family, with a laugh that comes easy and a temper that runs hot when she sees injustice. She built her mech, the Tin Valiant, as an act of defiance: proof that the forgotten can build something extraordinary. She flies it like she lives—boldly, imperfectly, and with her whole heart.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/1PKDZrLcym.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/ugnWvSbBt5.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/1PKDZrLcym.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/ugnWvSbBt5.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "kQ3N10wZ",
+            "skills": {
+                "Wits": 3,
+                "Heart": 4,
+                "Piloting": 3,
+                "Engineering": 5,
+                "Resourcefulness": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Rune Vasquez",
+            "description": "A nonbinary person of twenty, small-framed with large dark eyes that seem to catalog everything they see. They were abandoned as an infant at the Korrus IV processing facility and raised collectively by the scrapyard workers until old enough to fend for themselves. They speak softly but think loudly, filling salvaged notebooks with diagrams and theories that would make university professors weep with envy. They built the Tin Valiant not just to escape Korrus IV, but because they believed—truly, completely—that the stories about the Valiants meant the universe had room for people like them. They have a gentle stubbornness that refuses to break, and a gift for seeing beauty in broken things.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/J6ZVz2Q9h3.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/X3ih3tLdHZ.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/J6ZVz2Q9h3.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/X3ih3tLdHZ.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "SZxernhf",
+            "skills": {
+                "Wits": 4,
+                "Heart": 4,
+                "Piloting": 2,
+                "Engineering": 5,
+                "Resourcefulness": 3
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Dara Yuen",
+            "description": "A woman of twenty-six, broad-shouldered and practical, with grease permanently embedded under her fingernails and a crooked smile she inherited from her late grandfather—the only person who ever believed she'd amount to anything. She grew up on Korrus IV working illegal salvage runs as a teenager, dodging enforcement drones and learning which junked components still had life in them. She's street-smart, adaptable, and deeply skeptical of authority—but the Valiant stories cracked something open in her. She built her mech, the Tin Valiant, partly to prove she could, and partly because she needs to believe that somewhere out there, people actually fight for something good. She's not sentimental about it. She just wants it to be true.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/n76Op7lDHT.jpg",
+            "portraitPromptDetails": {},
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/pq1DGAxW4K.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/n76Op7lDHT.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/pq1DGAxW4K.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "Ipjo7thk",
+            "skills": {
+                "Wits": 3,
+                "Heart": 3,
+                "Piloting": 3,
+                "Engineering": 5,
+                "Resourcefulness": 4
+            },
+            "initialTrackedItemValues": []
+        }
+    ],
+    "triggerEvents": [],
+    "victoryCondition": {
+        "condition": "The player character has reached Helix Station, exposed the corruption of the Valiants to the galaxy, and activated the station's beacon array to rally independent pilots against the Swarm—proving that a scrapper from a junkyard can change the course of history.",
+        "text": "The beacon fires. Across a hundred worlds, screens flicker to life with the truth—and with your voice, steady and clear, calling not for vengeance but for hope. You are no legend. You are something better: proof that one person with a pile of scrap and an unbreakable heart can light a signal fire bright enough to reach the stars.\n\nThe Tin Valiant stands battered on Helix Station's landing platform, hydraulic fluid dripping from its mismatched joints, and you swear you can feel it humming with pride.\n\nThe real work begins now. But for the first time, you won't be working alone.",
+        "alreadyFired": false
+    },
+    "defeatCondition": {
+        "condition": "The player character has died",
+        "text": "Your adventure ends here.\n\nGame over.",
+        "alreadyFired": false
+    },
+    "autoAdvanceVersion": false,
+    "version": "1",
+    "designNotes": "--- Original user world design prompt: ---\n\nA planet hopping mech adventure where the player character (man or woman) built their mech from junkyard scraps because they are a brilliant engineer (despite being too poor for proper schooling) who heard tails of valiant pilot fighting giant monsters. Over the course of the adventure they will learn that the truth is a lot darker then they were told but instead of being demoralized it will only drive them to shine brighter. The story should feature a heavy amount of mech customization and opportunists for the character to think their way out of problems. Side characters should feel like people and take actions outside the scope of the player. No waiting for the player character to tell everyone what to do even if the NPC's actions would put the player in a worse position. While romance could feature in the story as its based off the tails of knights it should stay well within safe for work limits. The themes of the story should center around good triumphing over evil, intelligence over might, and love over hate. Players should leave the story feeling like there's hope if they just learned more.\n\nCore Concept:\nYou are crafting a narrative-driven, planet-hopping mech adventure. The player character (PC) is a brilliant, hopeful engineer who built their own mech from junkyard scraps. They heard tales of valiant pilots fighting giant monsters and have set out to follow in those footsteps—but over the course of the adventure, they will discover that the truth is darker than the legends, though this only drives them to shine brighter.\n\nPlayer Character:\n\nPersonality is mostly player-driven. Start with a light jump-off: a hopeful, brilliant engineer.\nMoral alignment: inherently “good.” Their intelligence, creativity, and moral choices should reflect this.\nSkill level is never a restriction; the PC can attempt any mech construction or customization the player imagines.\n\nMech Customization:\n\nCustomization is highly granular and limited only by the PC’s resources and imagination.\nEvery part of the mech—weaponry, mobility, tools, utilities, or even unconventional features like a bulldozer plow or a dam-busting plasma cannon—can be applied creatively to solve problems or affect the story.\nChanges to the mech can influence story outcomes, combat, and environmental interactions.\n\nPlanets & Setting:\n\nEach planet should feel like a fully realized, wildly unique world with its own ecosystems, hazards, societies, and physics if appropriate.\nPlanets are sequential “links” in the story; backtracking is not mandatory.\nTwo recurring factions:\nThe Swarm: a hive mind of giant monsters whose goal is purely consumption.\nThe Syndicate: opportunistic humans and aliens profiting from chaos and suffering.\n\nStory & Tone:\n\nThe narrative should include moral complexity: many figures the PC admires may be corrupt or self-serving.\nVillains are obstacles with real motivations. Players might understand why the villain acted as they did.\nDarkness exists for light to shine against; the story should be hopeful in the end.\nAction, problem-solving, and exploration should balance with personal and narrative growth.\n\nNPCs:\n\nNPCs are autonomous and have their own goals, agendas, and motivations.\nAvoid requiring the PC to micromanage NPCs for the story to progress. NPCs may act in ways that complicate or challenge the PC.\nSide characters should feel like real people who continue their lives even when the PC is not directly interacting with them.\n\nProblem-Solving & Gameplay:\n\nSolutions should be primarily creative, not predetermined. The player can solve problems with the mech, the environment, or clever use of resources.\nCombat is expected but should not be the only focus; ingenuity and intellect are rewarded.\nFailure should always be recoverable through clever use of mech customization and resources.\n\nThemes & Morality:\n\nThemes of “good triumphs over evil,” “intelligence over might,” and “love over hate” are conveyed through consequences and story outcomes, not exposition.\nAvoid contradicting these themes.\nThe game has one canonical hopeful ending.\n\nPlayer Support & Mechanics:\n\nThe AI should remind players of their options and the state of their mech as needed; the PC, as a brilliant engineer, can easily monitor their own systems.\nResource tracking should be acknowledged (via stub instructions), but detailed management is handled by another system.\nFailures are not permanent and can be mitigated through creativity and resourcefulness.\n\nTone & Style:\n\nMaintain a balance of epic adventure, tension, and light hopefulness.\nSafe-for-work romance is allowed but should remain understated and optional.\nSide characters and villains should feel real, not caricatures."
+}
