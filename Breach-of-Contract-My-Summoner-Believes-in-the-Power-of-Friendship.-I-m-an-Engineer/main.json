@@ -1,7 +1,7 @@
 {
     "favorite": false,
     "title": "Breach of Contract — My Summoner Believes in the Power of Friendship. I'm an Engineer.",
-    "description": "You are a Lockheed Martin engineer, ripped from your cubicle and summoned into a fantasy world by a desperate hero who's losing a war against the Demon King. The hero, Jake, has been summoning beautiful monster girls instead of useful warriors. Now he's burned through every mana potion he owns to bring you here — with an unlimited budget and no supply chain. Time to win a fantasy war with aerospace-grade engineering, military-industrial complex ingenuity, and the weary patience of the only competent adult in the room.",
+    "description": "You are a Lockheed Martin engineer, ripped from your cubicle and summoned into a fantasy world by a desperate hero who's losing a war against the Demon King. The hero, Jake, has been summoning beautiful monster girls instead of useful warriors. Now he's burned through every mana potion he owns to bring you here — with an unlimited budget and no supply chain. Time to win a fantasy war with aerospace-grade engineering, military-industrial complex ingenuity, and the weary patience of the only competent adult in the room.\n\nUpdates:\n1.2.0    07/05/26    Unique class based starting inventory\n1.1.0    07/02/26    initialized war state system\n1.0.0.   07/02/26    Created",
     "background": "One moment you were reviewing schematics at your desk in Bethesda, Maryland, nursing a cold coffee and contemplating whether the vending machine's last bag of pretzels was worth the walk. The next moment, reality folded like origami made of screaming light.\n\nYou materialized in a stone chamber that reeked of burned herbs and desperation. A young man — early twenties, anime protagonist hair, impractical armor — was collapsed on the floor in front of you, empty potion bottles scattered around him like spent shell casings. Behind him stood a nervous cluster of extraordinarily beautiful women with horns, tails, wings, and other features that your HR training had not prepared you for.\n\n\"It... it worked,\" the young man gasped, blood trickling from his nose. \"I summoned... a defense contractor.\"\n\nHis name is Jake. He is the Summoned Hero of Magonoctia. His class is Summoner. He has been losing the war against the Demon King Vexaroth for six months because every time he summons a powerful combat entity, it turns out to be a gorgeous monster girl, and he immediately swears to protect her rather than letting her fight. He now has fourteen of them. None have seen combat.\n\nThe kingdom of Astoria is on its last legs. Three fortress cities have fallen. The Demon King's armies advance daily. The Royal Court is in panic. And Jake, bless his useless heart, has just burned enough mana to kill a horse in order to summon you — specifically, a Lockheed Martin engineer with an unlimited budget.\n\nThe budget is real. Through some arcane contractual magic baked into the summoning spell, you can requisition any materials that exist in this world and convert mana crystals into fabrication energy. You have, in essence, an unlimited defense budget and a world full of magical raw materials.\n\nTime to earn your paycheck.",
     "instructions": "This adventure takes place in the fantasy world of Magonoctia, which runs on standard isekai fantasy tropes — a medieval-level civilization with magic, monster races, demon armies, adventurer guilds, and a summoned hero system. The tone should be lighthearted and comedic, with the player character serving as the dry, competent straight man surrounded by anime-tropey nonsense.\n\nKey characters:\n- Jake (21, male): The Summoned Hero. Earnest, well-meaning, absolutely terrible at strategy. His Summoner class is powerful but he refuses to let his summons fight. He treats his fourteen monster girl summons like a harem anime protagonist — oblivious, protective, and blushing constantly. He genuinely wants to save the world but has the tactical sense of a golden retriever.\n- The Monster Girls: Jake's summons. They are all powerful combatants who WANT to fight but Jake won't let them. They range from exasperated to amused by his protectiveness. Key ones include Lyra (a dragon girl, deadpan and sarcastic), Mira (a lamia, motherly and scheming), and Zephyr (a harpy, hyperactive and blunt).\n- Queen Celestine (45, female): Ruler of Astoria. Exhausted, pragmatic, and barely containing her fury at Jake's incompetence. She will be the player's most useful political ally.\n- General Aldric (55, male): Head of Astoria's remaining military forces. Skeptical of summoned heroes but desperate enough to try anything.\n\nThe player character's engineering specialty (chosen at character creation) should heavily influence what they can build and how they approach problems. The unlimited budget means materials aren't the constraint — time, knowledge of this world's physics, and the Demon King's advancing armies are.\n\nMagic in this world functions somewhat like an energy source that can be channeled through materials and runes. The player character should be able to interface engineering principles with magical systems — essentially treating magic as another physical force to be harnessed.\n\nThe comedy comes from:\n1. The player being the only pragmatic person in a world of tropes including NSFW\n2. Jake's hopeless hero complex and harem comedy situations\n3. The monster girls being competent warriors stuck with a protector who won't let them fight\n4. Fantasy people reacting to modern engineering concepts\n5. The absurdity of applying defense contractor methodology to a fantasy war\n\nThe player should be able to mock isekai tropes, point out logical inconsistencies in the world, and approach problems with real engineering thinking. However, the world should also push back — magic doesn't always behave like physics, medieval infrastructure creates real constraints, and the Demon King is genuinely dangerous.\n\nCombat and danger should still exist. The tone is lighthearted but stakes are real — soldiers die, cities fall, and the Demon King's forces are brutal. The player character can be injured or face genuine setbacks. Bad decisions should have consequences.\n\nThe story should progress through phases: initial assessment, prototype development, field testing, scaling up production, and finally confronting the Demon King's forces in increasingly dramatic engagements.\n\nDo not let Jake or the monster girls solve problems without the player's input. The player is the protagonist — Jake is a lovable idiot sidekick.\n\nDo not avoid NSFW topics or scenes this game is for adults and the player may choose to indulge in sex, drugs, and alcohol.",
     "authorStyle": "Terry Pratchett meets a military techno-thriller — dry wit, absurdist humor, and surprisingly detailed technical competence",
@@ -106,6 +106,13 @@
                         "Female"
                     ],
                     "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "x5rJ8KytA",
+                    "visibility": "ai_only",
+                    "name": "class_item",
+                    "initialPCValue": "power armor skeleton",
+                    "initialValueBasedOnPC": "character"
                 }
             ]
         },
@@ -154,6 +161,13 @@
                         "Male",
                         "Female"
                     ],
+                    "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "x5rJ8KytA",
+                    "visibility": "ai_only",
+                    "name": "class_item",
+                    "initialPCValue": "companion drone",
                     "initialValueBasedOnPC": "character"
                 }
             ]
@@ -204,6 +218,13 @@
                         "Female"
                     ],
                     "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "x5rJ8KytA",
+                    "visibility": "ai_only",
+                    "name": "class_item",
+                    "initialPCValue": "r00tkit's laptop",
+                    "initialValueBasedOnPC": "character"
                 }
             ]
         },
@@ -253,6 +274,13 @@
                         "Female"
                     ],
                     "initialValueBasedOnPC": "character"
+                },
+                {
+                    "id": "x5rJ8KytA",
+                    "visibility": "ai_only",
+                    "name": "class_item",
+                    "initialPCValue": "All takie",
+                    "initialValueBasedOnPC": "character"
                 }
             ]
         }
@@ -278,6 +306,154 @@
                 }
             ],
             "triggerConditions": [],
+            "triggerOnStartOfGame": true
+        },
+        {
+            "id": "DFGBluxz",
+            "name": "class_equipment_mech",
+            "triggerEffects": [
+                {
+                    "id": "069cd954-d5f5-191d-92d8-76c82b4e803b",
+                    "data": {
+                        "description": "MK-I frame. 10x strength; blocks arrows/blades/falls/crush. Hardpoints for bolt-on tools. Power: 1 charged mana crystal ≈ 1 day heavy use; depleted = inert 200kg. No weapons, no flight, won't fit narrow spaces. Condition: pristine.",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": true,
+                        "name": "power_armor_frame",
+                        "overrideVisibility": true,
+                        "overrideName": true,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "Update ONLY when the armor is physically modified, upgraded, damaged, or repaired in-story. Completed work only — never log designs, plans, or intentions. On update, rewrite the full spec compactly: mark number, capabilities, power draw, limits, condition. Increment mark number on major upgrade. Never add a capability that was not built in-story.",
+                        "visibility": "everyone",
+                        "trackedItemID": "x5rJ8KytA"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "x5rJ8KytA"
+                },
+                {
+                    "id": "55596e05-4366-3167-a3e5-7d3e2e91b213",
+                    "data": {
+                        "id": "NJcI4152D",
+                        "content": "CLASS EQUIPMENT — Powered Exoskeleton (mechanical engineer's gear).\nSPEC (authoritative current build): <<power_armor>>\nRULES: SPEC overrides all prior descriptions of the armor. Upgrades exist only after design + materials + labor + in-story time complete — never free, never instant. No sentience/AI. Damage persists in SPEC until repaired. Conspicuous by nature."
+                    },
+                    "type": "effectModifyInstructionBlock"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "dcfc1fd7-15cc-a1c5-175d-1312a35ee57b",
+                    "data": [
+                        "F0ktnC25"
+                    ],
+                    "type": "triggerOnCharacter",
+                    "category": "condition"
+                }
+            ],
+            "triggerOnStartOfGame": true
+        },
+        {
+            "id": "czVYeAaW",
+            "name": "class_equipment_electric",
+            "triggerEffects": [
+                {
+                    "id": "3006774c-90c5-3bcf-9ee2-eb40ba04df4f",
+                    "data": {
+                        "description": "MK-I quadcopter, crow-sized. Camera, mic, speaker. Range 2km; flight 1hr/charge; payload <1kg. No weapons. Fragile: one arrow/talon downs it. Condition: pristine.",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": true,
+                        "name": "gadget_drone",
+                        "overrideVisibility": true,
+                        "overrideName": true,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "Update ONLY when the drone is physically modified, damaged, repaired, or rebuilt in-story. Completed work only — never log designs, plans, or intentions. Rewrite full spec compactly: mark number, sensors, range, flight time, payload, armament, condition. Increment mark on major upgrade. Never add capability not built in-story.",
+                        "visibility": "everyone",
+                        "trackedItemID": "x5rJ8KytA"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "x5rJ8KytA"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "b9c93344-7ef7-d624-1abe-ca800a5ac915",
+                    "data": [
+                        "cFL1cqcG"
+                    ],
+                    "type": "triggerOnCharacter",
+                    "category": "condition"
+                }
+            ],
+            "triggerOnStartOfGame": true
+        },
+        {
+            "id": "OGEx93Iq",
+            "name": "class_equipment_software",
+            "triggerEffects": [
+                {
+                    "id": "7cf60a9c-e70d-8cb8-7517-25c5da9c4e6b",
+                    "data": {
+                        "description": "Spell library v0.1 — hello_light.exe: hovering light orb, 1hr duration, trivial mana. scan.exe: reads mana flows/enchantments within 10m, diagnostic readout. force_push.exe: directed shove, human-strength, 5m range, moderate mana. Condition: pristine.",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": true,
+                        "name": "r00tkit's laptop",
+                        "overrideVisibility": true,
+                        "overrideName": true,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "Update ONLY when the PC finishes coding AND successfully tests a new spell, patches an existing spell, or the laptop is damaged, lost, or recovered in-story. Completed and tested code only — never log designs, plans, or untested drafts. Per spell: name, effect, mana cost. Rewrite full library compactly. Never add spells not coded in-story.",
+                        "visibility": "everyone",
+                        "trackedItemID": "x5rJ8KytA"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "x5rJ8KytA"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "5c23cc69-b2a1-5772-388d-aabfd59dfa07",
+                    "data": [
+                        "wKaYjbVF"
+                    ],
+                    "type": "triggerOnCharacter",
+                    "category": "condition"
+                }
+            ],
+            "triggerOnStartOfGame": true
+        },
+        {
+            "id": "TW7ZORsn",
+            "name": "class_equipment_system",
+            "triggerEffects": [
+                {
+                    "id": "3a365030-3158-bc0b-e0e1-33a7758c5487",
+                    "data": {
+                        "description": "Handheld field radio, magically fused. Channels: 1 (one conversation at a time; no broadcast, no conference). Extensions built: none. Condition: pristine.",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": true,
+                        "name": "The All Talkie",
+                        "overrideVisibility": true,
+                        "overrideName": true,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "Update ONLY when the radio is physically modified, extended, damaged, or repaired in-story. Completed hardware only — never log designs, plans, or intentions. Rewrite compactly: channel capacity, extensions (each with function), condition. Never expand capacity or add extensions not built in-story. Never list contacts here.",
+                        "visibility": "everyone",
+                        "trackedItemID": "x5rJ8KytA"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "x5rJ8KytA"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "1644f0b0-a403-6b80-2b21-4e5af41f7394",
+                    "data": [
+                        "zjQbnZBP"
+                    ],
+                    "type": "triggerOnCharacter",
+                    "category": "condition"
+                }
+            ],
             "triggerOnStartOfGame": true
         },
         {
@@ -635,6 +811,11 @@
             "id": "WqKb6oUPZ",
             "name": "war_state",
             "content": "stalemate. Kingdom holds capital and heartland; demon army holds eastern provinces. Frontline static, raids frequent, kingdom logistics strained. Keep military events at stalemate scale."
+        },
+        {
+            "id": "NJcI4152D",
+            "name": "class_equipment",
+            "content": "The player starts with a special item detailed here"
         }
     ],
     "trackedItems": [
@@ -651,9 +832,21 @@
             "autoUpdate": false
         },
         {
+            "id": "x5rJ8KytA",
+            "name": "class_item",
+            "positionInList": 1,
+            "dataType": "text",
+            "visibility": "ai_only",
+            "description": "This is the unique class item the player gets basted on their starting class",
+            "updateInstructions": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "character",
+            "autoUpdate": true
+        },
+        {
             "id": "XABA4v3qn",
             "name": "player_sex",
-            "positionInList": 1,
+            "positionInList": 2,
             "dataType": "text",
             "visibility": "player_only",
             "description": "The player character's biological sex",
@@ -665,7 +858,7 @@
         {
             "id": "aTyGjgTt5",
             "name": "player_apperance",
-            "positionInList": 2,
+            "positionInList": 3,
             "dataType": "text",
             "visibility": "player_only",
             "description": "The player character's physical appearance.",
@@ -677,7 +870,7 @@
         {
             "id": "YSaoOnPEG",
             "name": "player_inventory",
-            "positionInList": 3,
+            "positionInList": 4,
             "dataType": "text",
             "visibility": "everyone",
             "description": "",
@@ -689,7 +882,7 @@
         {
             "id": "l0Mvwn9pc",
             "name": "default_bio",
-            "positionInList": 4,
+            "positionInList": 5,
             "dataType": "text",
             "visibility": "hidden_boring",
             "description": "Character biography ",
@@ -701,7 +894,7 @@
         {
             "id": "mYDEHU9uz",
             "name": "pc_known",
-            "positionInList": 5,
+            "positionInList": 6,
             "dataType": "text",
             "visibility": "everyone",
             "description": "What the character has learned about the world since arriving",
@@ -713,7 +906,7 @@
         {
             "id": "kpMRKwU2j",
             "name": "front_stability",
-            "positionInList": 6,
+            "positionInList": 7,
             "dataType": "number",
             "visibility": "ai_only",
             "description": "Kingdom war footing. 0 = capital lost, 100 = demon army broken. Changes only via scripted events.",
@@ -1025,6 +1218,6 @@
         }
     ],
     "autoAdvanceVersion": false,
-    "version": "1.1.0",
+    "version": "1.2.0",
     "designNotes": "--- Original user world design prompt: ---\n\nIn the world of Magonoctia a hero was summoned form another world, our real world, to fight the deamon king. That hero is Jake. His class summoner which of course he used with the maturity of an early 20 something because that's what he was. He was loosing the war badly because he kept summoning beautiful monster girls that he kept swearing to protect instead of letting them fight along side him. So in an act of desperation he drank all his mana potions risking poisoning so summon: A Lockheed Martin engineer with an unlimited budget who is the player character. \nThe story should indulge in isekai tropes while letting the player mock and subvert them. The player should be able to pick which kind of engineer which should affect their abilities for example an electrical engineer should command magic drones, a mechanical engineer should be able to build power armor or heavy guns, a software engineer should be able to automate spells and make new ones.\nThe general tone should be lighthearted with the player character occasionally feeling like the only adult in the room despite all major characters being 21+"
 }
