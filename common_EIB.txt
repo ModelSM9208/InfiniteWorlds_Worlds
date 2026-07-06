@@ -1,0 +1,8 @@
+whereWhen
+**whereWhenInstructions**
+Format: {Specific Place}, {Town or City}, at HH:MM {AM/PM} on {Day} {Month}, {Year}.
+whereWhen is always the first line of outcomeDescription, followed by two newlines and a horizontal rule, before any other content.
+Advance time from the previous turn proportionally to the scene's events; travel, unconsciousness, or time skips extend it. Honor any duration stated in playerAction.
+
+
+

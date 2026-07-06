@@ -1,0 +1,12 @@
+replace the text of the 'Magic' variable with four new spells that are inspired by the existing text in the 'Magic' variable and the description of the player; for example, if the variable currently says 'light' then all four spells should be related to light magic. Spell 1 is a casual combat spell that can be used a lot because it doesn't cost much, between 2-5% charge, and is good for taking out fodder or harassing or weakening, but not good for delivering finishing blows. Spell 2 is a utility spell for either movement or defense or buffing or debuffing, depending on the description of the player's specialties, and costs between 5-10% charge. Spell 3 is an advanced combat spell, and can serve multiple roles, like a bind spell that also does damage, or a defense spell that also hurts opponents, or a big beam that also applies a debuff, or a team buff that also debuffs opponents, and costs between 10-20% charge. Spell 4 is an ultimate spell and is a finishing move, perhaps a buff that is so powerful that normal attacks become major spells, or a giant beam, or a binding cage that shrinks until the opponent becomes crushed, the kind of spell that wins fights but only if it connects, and has a period of weakness after using it where the girl needs a few seconds to recover energy from their ovum, and costs 20-30% charge.
+
+Each of the four spells should be on a new line, with a line break between them. Format: '(Spell 1 name), (magic % cost). (Description of effect).
+
+(Spell 2 name), (magic % cost). (Description of effect).
+
+(Spell 3 name), (magic % cost). (Description of effect).
+
+(Spell 4 name), (magic % cost). (Description of effect).'
+
+
+Next, replace the text in the 'Magical Girl Costume' variable with a new description, elaborating extensively, including a weapon. The new outfit should be an 'adult' style magical girl outfit, not a child's saturday morning cartoon frilly dress, it should be sexy but not obscene. It must take into account the description of the player, their magical girl name, as well as the flavor of their magic, to create something thematic.
