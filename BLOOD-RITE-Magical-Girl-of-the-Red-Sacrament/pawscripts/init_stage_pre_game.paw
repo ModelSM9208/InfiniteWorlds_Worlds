@@ -1,0 +1,19 @@
+# Set starting blood pool
+$database.player_stats.blood_points=$player.skills.blood_reserves*10
+
+# Set player regeneration stat
+$database.player_stats.regen=$player.skills.eldritch_knowledge
+
+# Set player weapon
+$database.player_stats.primary_weapon=$weapon
+
+# set response limit
+$database.length_ceiling=$length_ceiling
+
+# set attributes
+$database.player_stats.attributes.strength=$player.skills.brutality
+$database.player_stats.attributes.dexterity=$player.skills.agility
+$database.player_stats.attributes.constitution=$player.skills.agility
+$database.player_stats.attributes.wisdom=$player.skills.agility
+$database.player_stats.attributes.intellegence=$player.skills.agility
+$database.player_stats.attributes.charisma=$player.skills.agility

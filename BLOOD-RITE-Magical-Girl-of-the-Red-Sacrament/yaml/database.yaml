@@ -1,0 +1,59 @@
+# Database is non player view non ai view items
+starting_location:
+start_date:
+start_time:
+current_datetime:
+current_location:
+exp_threshold: 100
+corruption: 0
+corruption_tier: 0
+blood_multi_animal: .25
+blood_multi_human: 1
+blood_multi_eldritch: 4
+length_ceiling: 450
+writing_style: "A writer of visceral dark fantasy action fiction with sharp dialogue and gallows humor, in the vein of Joe Abercrombie meets Gen Urobuchi"
+corruption_EIB: "CORRUPTION — permanent, cumulative. player_stats.corruption lists the protagonist's active corruptions, each a name and a description. Every entry is a standing trait, not a past event: embody it in her behavior, perception, and the narration's tone on every turn it is present. Render as lived reality woven into prose — never a stat block, never a status list. Corruptions only ever accumulate; none lift."
+corruption_effects:
+  The Reflection:
+    effect: "narrative"
+    description: "You catch yourself in a window. The eyes have too much red, and they're smiling before you decide to."
+  Gallows Silence:
+    effect: "narrative"
+    description: "The jokes don't come anymore. When one does, no one laughs."
+  Lost Time:
+    effect: "narrative"
+    description: "The fight starts. Then you're in the after, and the count of the bodies won't add up."
+  Pariah:
+    effect: "narrative"
+    description: "People step back when you enter now. Part of you notes how much easier that makes the work."
+  The Craving Speaks:
+    effect: "narrative"
+    description: "When you run low, something else does the wanting. You're getting worse at winning that argument."
+  Unfeeling Toward Prey:
+    effect: "narrative"
+    description: "They stopped looking like people a while back. Makes it faster."
+  Indiscriminate:
+    effect: "narrative"
+    description: "You've stopped noticing whose it is. Blood is blood is blood."
+  Scent of the Wounded:
+    effect: "narrative"
+    description: "You can smell the ones already dying. It's the most beautiful thing you know."
+player_stats:
+  health: 100
+  max_health: 100
+  regen: 0
+  blood_points: 0
+  exp: 0
+  primary_weapon: 
+  transformed: false
+  costume:
+  magic:
+    spell:
+  attributes:
+    strength:
+    dexterity:
+    constitution:
+    intellegence:
+    wisdom:
+    charisma:
+  skills:

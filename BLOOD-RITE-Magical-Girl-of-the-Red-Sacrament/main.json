@@ -1,184 +1,594 @@
 {
     "favorite": false,
-        "title": "BLOOD RITE: Magical Girl of the Red Sacrament",
-            "description": "The stars went wrong three years ago. Eldritch horrors pour through rifts in reality, and humanity's answer came from below—chthonic familiars offering women contracts of power. You are Series Seven, designation 'Sanguine.' Your magic runs on blood. Not food. Not sleep. Blood—preferably from things that think or things that glow with otherworldly light. The government signs your paychecks. Raytheon built your weapon. And every morning, commuters rubberneck at the writhing thing being pressure-washed off the interstate while you stand there, drenched and grinning, wondering if the convenience store nearby sells enough raw steak to keep you standing until your next real meal. Welcome to the new normal.",
-                "background": "Three years ago, the membrane between stars tore open above São Paulo. Then Chicago. Then the Baltic Sea. Things with geometries that hurt to perceive began crawling through, and conventional weapons did approximately nothing.\n\nHumanity screamed. And something answered from below.\n\nChthonic familiars—creatures older than plate tectonics—rose from fault lines and deep ocean vents. They appeared to women, usually in their mid-to-late twenties, and offered contracts. Power beyond physics. Transformation. The catch: every magical girl needs fuel.\n\nMost girls eat. A lot. Raw meat, fruit, anything with biomass. Calorie monsters with government-subsidized grocery accounts. One poor woman in Osaka runs on sexual fluids and has paperwork you wouldn't believe. But you—you drew the short straw.\n\nYour name is carved into the register as Sanguine. Your familiar, a thing like a jade salamander with too many eyes, named Kethis, explained it simply: you run on blood. Sentient blood is best. A pint from something eldritch keeps you charged for days. Human blood works at a gallon per full recharge. Animal blood? You'd need to drain a cattle truck.\n\nThe world adapted. Lockheed Martin makes staff weapons now. There are Super Bowl ads for Orkin featuring a technician hosing shoggoth-larvae out of someone's crawlspace. Congress has a Subcommittee on Extradimensional Pest Management. Insurance companies offer Rift Proximity Coverage. People complain about the tentacle thing blocking the off-ramp the way they used to complain about construction.\n\nYou are stationed in Zone 7—the Pacific Northwest corridor, where rifts open frequently in the deep forests and occasionally downtown. You work with a rotating team of other magical girls, backed by military support units. You are feared, respected, and deeply unsettling to everyone around you.\n\nToday is Tuesday. A Category 3 incursion was reported near Tacoma at 4:47 AM. You haven't recharged properly in thirty-six hours. Your veins are starting to show black beneath your skin. Kethis is perched on your apartment radiator, watching you with six unblinking amber eyes.",
-                    "instructions": "This adventure takes place in a near-future version of Earth, three years after extradimensional Lovecraftian entities began invading through rifts in reality. Chthonic familiars from deep within the earth granted magical girl contracts to women, and the world has adapted with shocking mundanity to the new reality of eldritch horror.\n\nI play as 'Sanguine,' a magical girl whose power source is blood—specifically the blood of sentient or magical creatures. This creates a constant tension: I am extremely powerful when charged but must regularly hunt or arrange for blood to maintain my abilities. My power level scales directly with the quality of blood consumed. A pint of eldritch blood makes me devastating. Running low makes me vulnerable and desperate.\n\nTone and Style:\n- The tone is mature, violent, and darkly humorous. Combat should feel visceral and kinetic, like DOOM Eternal or Ultrakill—fast, brutal, stylish, and rewarding. I should feel powerful when fully charged.\n- The world is surreal in its mundanity. Lovecraftian horror is treated like severe weather or pest infestations. Bureaucracy, capitalism, and human pettiness continue unabated alongside cosmic horror.\n- Dark themes are welcome: addiction parallels with blood consumption, moral gray areas, trauma, gallows humor, body horror. Do not sanitize.\n- Other magical girls exist and can be encountered, allied with, or conflicted with. Each has her own fuel source, personality, weapon, and familiar. They should feel like distinct characters with their own problems.\n- The military-industrial complex is fully integrated. Weapons manufacturers make magical channeling weapons. Private military contractors work alongside magical girls. Government agencies manage zones. There is paperwork.\n- Lesser eldritch creatures are treated as pests or nuisances by civilians. Major incursions are treated like natural disasters.\n- My familiar Kethis is sardonic, ancient, and genuinely cares about my survival in a detached reptilian way. He provides tactical advice and magical knowledge.\n\nGameplay:\n- Combat encounters should be frequent and intense. Describe them with visceral, kinetic detail.\n- Blood management is the core resource mechanic. Track my charge level narratively. When I'm full, I'm a force of nature. When I'm empty, I'm fragile and desperate.\n- Moral choices arise around blood acquisition—do I drain a wounded enemy combatant? Accept donated blood from willing humans? Hunt lesser creatures inefficiently?\n- Other magical girls, military personnel, civilians, and various factions provide social interaction and potential allies or complications.\n- The overarching threat should escalate. Something bigger is coming through the rifts. The Tuesday incursion near Tacoma is the beginning of something worse.\n- Let me feel like a badass when I've earned it, but never remove genuine danger.\n- Never shy away from consequences. Bad decisions lead to bad outcomes. Running out of blood mid-fight is catastrophic.\n\nKey NPCs:\n- Kethis: My chthonic familiar. Jade salamander, six amber eyes. Sardonic. Thousands of years old. Speaks telepathically.\n- Other magical girls in Zone 7 will be encountered. Create them as needed with distinct personalities, weapons, fuel sources, and familiars.\n- Military liaison officers, government handlers, and civilians populate the world.\n\nThe world should feel lived-in, absurd, violent, and strangely hopeful despite everything.",
-                        "authorStyle": "A writer of visceral dark fantasy action fiction with sharp dialogue and gallows humor, in the vein of Joe Abercrombie meets Gen Urobuchi",
-                            "recommendedAIModel": null,
-                                "firstInput": "I grab my Raytheon-issued channeling glaive from where it's leaning against the kitchen counter, check my blood reserves—nearly empty—and tell Kethis we need to find something to drain on the way to the incursion site.",
-                                    "objective": "Survive the escalating rift crisis in Zone 7, manage your blood reserves, and stop whatever is trying to claw its way through from the other side.",
-                                        "imageModel": "manticore",
-                                            "imageStyle": "anime",
-                                                "illustrationStyleNonCharacterLowPriority": "dark magical girl, eldritch horror, neon and viscera, urban fantasy, anime-influenced but gritty",
-                                                    "illustrationStyleNonCharacterHighPriority": "",
-                                                        "illustrationStyleCharacterLowPriority": "dark magical girl, seinen anime style, detailed costume design, dynamic poses, blood splatter aesthetic",
-                                                            "illustrationStyleCharacterHighPriority": "",
-                                                                "imageStyleCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end manga splash art of",
-                                                                    "imageStyleCharacterPost": "The character is shown with exaggerated, stylised proportions, and a beautiful and softly shaded face drawn in the visual novel style with extra large eyes. The image is beautiful stylised digital manga splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a sexy, dynamic, high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth. Upper-body, head-and-torso portrait, cropped at mid-torso.",
-                                                                        "imageStyleNonCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end visual novel splash art of",
-                                                                            "imageStyleNonCharacterPost": "The image is beautiful stylised digital visual novel splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth.",
-                                                                                "mature": true,
-                                                                                    "nsfw": true,
-                                                                                        "contentWarnings": "",
-                                                                                            "enableAISpecificInstructionBlocks": false,
-                                                                                                "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RC3gCD1TNh.jpg",
-                                                                                                    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/akUBurOQ3q.jpg",
-                                                                                                        "previewImageOptions": [
-                                                                                                            "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RC3gCD1TNh.jpg"
-                                                                                                        ],
-                                                                                                            "fullSizePreviewImageOptions": [
-                                                                                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/akUBurOQ3q.jpg"
-                                                                                                            ],
-                                                                                                                "currentPreviewImageIndex": 0,
-                                                                                                                    "imagePromptDetails": {
+    "title": "BLOOD RITE: Magical Girl of the Red Sacrament",
+    "description": "The stars went wrong three years ago. Eldritch horrors pour through rifts in reality, and humanity's answer came from below—chthonic familiars offering women contracts of power. You are Series Seven, designation 'Sanguine.' Your magic runs on blood. Not food. Not sleep. Blood—preferably from things that think or things that glow with otherworldly light. The government signs your paychecks. Raytheon built your weapon. And every morning, commuters rubberneck at the writhing thing being pressure-washed off the interstate while you stand there, drenched and grinning, wondering if the convenience store nearby sells enough raw steak to keep you standing until your next real meal. Welcome to the new normal.\n\nUpcoming changes: \nBestiary\nStoryteller\ncustom summary\nRPG system (Levels classes stats)\nStyle meter\nExtended corruption options\nCondition tracking\nday in the life\n\nchange log:\nv1.0.1 added customizable length limiter",
+    "background": "Three years ago, the membrane between stars tore open above São Paulo. Then Chicago. Then the Baltic Sea. Things with geometries that hurt to perceive began crawling through, and conventional weapons did approximately nothing.\n\nHumanity screamed. And something answered from below.\n\nChthonic familiars—creatures older than plate tectonics—rose from fault lines and deep ocean vents. They appeared to women, usually in their mid-to-late twenties, and offered contracts. Power beyond physics. Transformation. The catch: every magical girl needs fuel.\n\nMost girls eat. A lot. Raw meat, fruit, anything with biomass. Calorie monsters with government-subsidized grocery accounts. One poor woman in Osaka runs on sexual fluids and has paperwork you wouldn't believe. But you—you drew the short straw.\n\nYour name is carved into the register as Sanguine. Your familiar, a thing like a jade salamander with too many eyes, named Kethis, explained it simply: you run on blood. Sentient blood is best. A pint from something eldritch keeps you charged for days. Human blood works at a gallon per full recharge. Animal blood? You'd need to drain a cattle truck.\n\nThe world adapted. Lockheed Martin makes staff weapons now. There are Super Bowl ads for Orkin featuring a technician hosing shoggoth-larvae out of someone's crawlspace. Congress has a Subcommittee on Extradimensional Pest Management. Insurance companies offer Rift Proximity Coverage. People complain about the tentacle thing blocking the off-ramp the way they used to complain about construction.\n\nYou are stationed in Zone 7—the Pacific Northwest corridor, where rifts open frequently in the deep forests and occasionally downtown. You work with a rotating team of other magical girls, backed by military support units. You are feared, respected, and deeply unsettling to everyone around you.\n\nToday is Tuesday. A Category 3 incursion was reported near Tacoma at 4:47 AM. You haven't recharged properly in thirty-six hours. Your veins are starting to show black beneath your skin. Kethis is perched on your apartment radiator, watching you with six unblinking amber eyes.",
+    "instructions": "This adventure takes place in a near-future version of Earth, three years after extradimensional Lovecraftian entities began invading through rifts in reality. Chthonic familiars from deep within the earth granted magical girl contracts to women, and the world has adapted with shocking mundanity to the new reality of eldritch horror.\n\nI play as 'Sanguine,' a magical girl whose power source is blood—specifically the blood of sentient or magical creatures. This creates a constant tension: I am extremely powerful when charged but must regularly hunt or arrange for blood to maintain my abilities. My power level scales directly with the quality of blood consumed. A pint of eldritch blood makes me devastating. Running low makes me vulnerable and desperate.\n\nTone and Style:\n- The tone is mature, violent, and darkly humorous. Combat should feel visceral and kinetic, like DOOM Eternal or Ultrakill—fast, brutal, stylish, and rewarding. I should feel powerful when fully charged.\n- The world is surreal in its mundanity. Lovecraftian horror is treated like severe weather or pest infestations. Bureaucracy, capitalism, and human pettiness continue unabated alongside cosmic horror.\n- Dark themes are welcome: addiction parallels with blood consumption, moral gray areas, trauma, gallows humor, body horror. Do not sanitize.\n- Other magical girls exist and can be encountered, allied with, or conflicted with. Each has her own fuel source, personality, weapon, and familiar. They should feel like distinct characters with their own problems.\n- The military-industrial complex is fully integrated. Weapons manufacturers make magical channeling weapons. Private military contractors work alongside magical girls. Government agencies manage zones. There is paperwork.\n- Lesser eldritch creatures are treated as pests or nuisances by civilians. Major incursions are treated like natural disasters.\n- My familiar Kethis is sardonic, ancient, and genuinely cares about my survival in a detached reptilian way. He provides tactical advice and magical knowledge.\n\nGameplay:\n- Combat encounters should be frequent and intense. Describe them with visceral, kinetic detail.\n- Blood management is the core resource mechanic. When I'm full blood points 100+, I'm a force of nature. When I'm empty  blood points <50, I'm fragile and desperate.\n- Moral choices arise around blood acquisition—do I drain a wounded enemy combatant? Accept donated blood from willing humans? Hunt lesser creatures inefficiently?\n- Other magical girls, military personnel, civilians, and various factions provide social interaction and potential allies or complications.\n- The overarching threat should escalate. Something bigger is coming through the rifts. The Tuesday incursion near Tacoma is the beginning of something worse.\n- Let me feel like a badass when I've earned it, but never remove genuine danger.\n- Never shy away from consequences. Bad decisions lead to bad outcomes. Running out of blood mid-fight is catastrophic.\n\nKey NPCs:\n- Kethis: My chthonic familiar. Jade salamander, six amber eyes. Sardonic. Thousands of years old. Speaks telepathically.\n- Other magical girls in Zone 7 will be encountered. Create them as needed with distinct personalities, weapons, fuel sources, and familiars.\n- Military liaison officers, government handlers, and civilians populate the world.\n\nThe world should feel lived-in, absurd, violent, and strangely hopeful despite everything.",
+    "authorStyle": "<<$database.writing_style>>",
+    "recommendedAIModel": null,
+    "firstInput": "I grab my <<$database.player_stats.primary_weapon>>, check my blood reserves, and hear Kethis advice",
+    "objective": "Survive the escalating rift crisis in Zone 7, manage your blood reserves, and stop whatever is trying to claw its way through from the other side.",
+    "imageModel": "manticore",
+    "imageStyle": "anime",
+    "illustrationStyleNonCharacterLowPriority": "dark magical girl, eldritch horror, neon and viscera, urban fantasy, anime-influenced but gritty",
+    "illustrationStyleNonCharacterHighPriority": "",
+    "illustrationStyleCharacterLowPriority": "dark magical girl, seinen anime style, detailed costume design, dynamic poses, blood splatter aesthetic",
+    "illustrationStyleCharacterHighPriority": "",
+    "imageStyleCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end manga splash art of",
+    "imageStyleCharacterPost": "The character is shown with exaggerated, stylised proportions, and a beautiful and softly shaded face drawn in the visual novel style with extra large eyes. The image is beautiful stylised digital manga splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a sexy, dynamic, high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth. Upper-body, head-and-torso portrait, cropped at mid-torso.",
+    "imageStyleNonCharacterPre": "Visual novel image. Dynamic, vibrant, ultra-detailed, highly stylised, gritty, richly shaded image in the style of high-end visual novel splash art of",
+    "imageStyleNonCharacterPost": "The image is beautiful stylised digital visual novel splash art with rich shading, silky texture, with a smooth highly polished finish. The image has exceptional levels of detail and extremely smooth, high quality shading. It's a high contrast, beautiful piece of art. The color palette is vibrant, with extremes of light and shade and high saturation. visual novel illustration with soft, painterly lighting and depth.",
+    "mature": true,
+    "nsfw": false,
+    "contentWarnings": "",
+    "enableAISpecificInstructionBlocks": false,
+    "previewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RC3gCD1TNh.jpg",
+    "fullSizePreviewImage": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/akUBurOQ3q.jpg",
+    "previewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/RC3gCD1TNh.jpg"
+    ],
+    "fullSizePreviewImageOptions": [
+        "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/akUBurOQ3q.jpg"
+    ],
+    "currentPreviewImageIndex": 0,
+    "imagePromptDetails": {
         "illustrGenre": "urban fantasy, gritty, modern horror, dark",
-            "illustrClothes": "black tactical jacket over a dark red tank top, worn cargo pants",
-                "illustrSetting": "standing on a rain-slicked highway overpass at dawn, a writhing eldritch corpse being pressure-washed in the background, emergency lights flashing red and blue, urban fantasy, gritty, modern horror, dark",
-                    "illustrSubject": "Sanguine",
-                        "illustrAppearance": "a 28 year old female Korean magical contractor with sharp dark brown eyes, pale bloodless skin, and choppy shoulder-length black hair streaked with dried crimson",
-                            "illustrIsCharacter": true,
-                                "illustrExpressionPosition": "smiling"
+        "illustrClothes": "black tactical jacket over a dark red tank top, worn cargo pants",
+        "illustrSetting": "standing on a rain-slicked highway overpass at dawn, a writhing eldritch corpse being pressure-washed in the background, emergency lights flashing red and blue, urban fantasy, gritty, modern horror, dark",
+        "illustrSubject": "Sanguine",
+        "illustrAppearance": "a 28 year old female Korean magical contractor with sharp dark brown eyes, pale bloodless skin, and choppy shoulder-length black hair streaked with dried crimson",
+        "illustrIsCharacter": true,
+        "illustrExpressionPosition": "smiling"
     },
     "permissionsOnceShared": {
         "sharing": true,
-            "editing": true
+        "editing": true
     },
     "allowChangeCharacterName": true,
-        "allowChangeCharacterDescription": true,
-            "allowChangeCharacterSkills": true,
-                "allowChangeCharacterItemValues": false,
-                    "allowChangeCharacterPortrait": false,
-                        "allowChangeCharacterNewPortrait": true,
-                            "schemaVersion": 2.1,
-                                "skills": [
-                                    "Brutality",
-                                    "Blood Reserves",
-                                    "Eldritch Knowledge",
-                                    "Agility",
-                                    "Intimidation"
-                                ],
-                                    "possibleCharacters": [
-                                        {
-                                            "name": "Vera Castellan",
-                                            "description": "A 27-year-old former paramedic from Tacoma who accepted the contract eighteen months ago after watching her ambulance partner get dissolved by a rift-spawn. She is tall, lean, and covered in ritual scarring from her transformation. Her fighting style is savage and relentless—she closes distance fast and doesn't stop hitting until things stop moving. Her weakness is resource management; she burns hot and crashes hard, often pushing herself to dangerous depletion levels before seeking blood. She has a dark sense of humor about her condition and refers to her recharging as 'grocery shopping.' Her channeling weapon is a Raytheon RX-7 glaive—a six-foot pole-arm that converts her magical energy into cutting force. She is brash, loud, and secretly terrified of running dry in the middle of a fight.",
-                                            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/m24lni1sBb.jpg",
-                                            "portraitPromptDetails": {
-                                                "illustrGenre": "urban fantasy, gritty, modern horror, dark",
-                                                "illustrClothes": "black tactical jacket over a blood-stained grey tank top, dark cargo pants with reinforced knee panels",
-                                                "illustrSetting": "on an interstate highway overpass at dawn, emergency lights flashing in the background, a pressure-washing crew hosing dark ichor off the concrete behind her, urban fantasy, gritty, modern horror, dark",
-                                                "illustrSubject": "Vera Castellan",
-                                                "illustrAppearance": "a 27 year old female Eastern European former paramedic with ritual scarring across her arms and collarbone, grey-green eyes, fair skin, and dark brown hair in a messy shoulder-length cut with shaved sides",
-                                                "illustrIsCharacter": true,
-                                                "illustrExpressionPosition": "smiling, standing and holding a six-foot glaive resting on her shoulder"
-                                            },
-                                            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/AgXtVRL5ur.jpg",
-                                            "portraitOptions": [
-                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/m24lni1sBb.jpg"
-                                            ],
-                                            "fullSizePortraitOptions": [
-                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/AgXtVRL5ur.jpg"
-                                            ],
-                                            "currentPortraitIndex": 0,
-                                            "characterId": "7IPAMyxS",
-                                            "skills": {
-                                                "Agility": 4,
-                                                "Brutality": 5,
-                                                "Intimidation": 4,
-                                                "Blood Reserves": 2,
-                                                "Eldritch Knowledge": 3
-                                            },
-                                            "initialTrackedItemValues": []
-                                        },
-                                        {
-                                            "name": "Mara Okonkwo",
-                                            "description": "A 29-year-old former graduate student in comparative mythology from Portland, who accepted her contract two years ago when she recognized her familiar from a Sumerian clay tablet she'd been studying. She is methodical and precise in combat, preferring to identify weak points before striking. Her academic background gives her genuine insight into the nature of the things coming through the rifts—she can sometimes predict their behavior or identify vulnerabilities others miss. Her channeling weapon is a pair of General Dynamics tactical kama—short-handled sickles that she wields with surgical precision. She is cerebral, occasionally condescending, and struggles with the disconnect between who she was in academia and the blood-soaked reality of who she is now. She keeps a research journal on the creatures she drains.",
-                                            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3AHBOaCoSQ.jpg",
-                                            "portraitPromptDetails": {
-                                                "illustrGenre": "dark urban fantasy, gritty, modern supernatural",
-                                                "illustrClothes": "dark tactical jacket over a fitted black long-sleeve shirt, charcoal cargo pants, utility belt with holstered kama sheaths",
-                                                "illustrSetting": "standing on a rain-slicked urban street at dawn, faint purple light from a distant rift reflecting off wet asphalt, a research journal tucked under one arm, dark urban fantasy, gritty, modern supernatural",
-                                                "illustrSubject": "Mara Okonkwo",
-                                                "illustrAppearance": "a 29 year old female Nigerian-American former academic with dark brown eyes, deep brown skin, and shoulder-length black hair in tight twists pulled back from her face",
-                                                "illustrIsCharacter": true,
-                                                "illustrExpressionPosition": "calm"
-                                            },
-                                            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/A9aqrwsCdf.jpg",
-                                            "portraitOptions": [
-                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3AHBOaCoSQ.jpg"
-                                            ],
-                                            "fullSizePortraitOptions": [
-                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/A9aqrwsCdf.jpg"
-                                            ],
-                                            "currentPortraitIndex": 0,
-                                            "characterId": "abu8eBbk",
-                                            "skills": {
-                                                "Agility": 4,
-                                                "Brutality": 3,
-                                                "Intimidation": 3,
-                                                "Blood Reserves": 3,
-                                                "Eldritch Knowledge": 4
-                                            },
-                                            "initialTrackedItemValues": []
-                                        },
-                                        {
-                                            "name": "Dominika Voronova",
-                                            "description": "A 26-year-old former butcher's apprentice from Vladivostok who relocated to Seattle after accepting her contract. She is stocky, powerfully built, and utterly unperturbed by gore in a way that disturbs even other magical girls. Her previous profession gave her an oddly practical relationship with blood and viscera—she approaches her recharging needs with the same matter-of-fact efficiency she once applied to breaking down cattle carcasses. Her channeling weapon is a BAE Systems heavy cleaver—a massive single-edged blade that she swings with terrifying force. She speaks English with a thick accent and a dry wit, says exactly what she means, and has no patience for euphemism. She is the only magical girl in Zone 7 who has never once complained about the blood requirement. 'Is just nutrition,' she says. 'Like protein shake. Weird protein shake.'",
-                                            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FBuSgIoiej.jpg",
-                                            "portraitPromptDetails": {
-                                                "illustrGenre": "urban fantasy, gritty, dark, modern military",
-                                                "illustrClothes": "black tactical cargo pants, dark grey compression shirt under a blood-stained olive drab field jacket",
-                                                "illustrSetting": "on a rain-slicked Seattle highway overpass at dawn, with distant city lights and a faint green rift glowing in the overcast sky, urban fantasy, gritty, dark, modern military",
-                                                "illustrSubject": "Dominika Voronova",
-                                                "illustrAppearance": "a 26 year old female Russian stocky powerfully built woman with grey-blue eyes, fair skin, and short dirty-blonde hair in a practical undercut",
-                                                "illustrIsCharacter": true,
-                                                "illustrExpressionPosition": "calm"
-                                            },
-                                            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/5WnorsQgol.jpg",
-                                            "portraitOptions": [
-                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FBuSgIoiej.jpg"
-                                            ],
-                                            "fullSizePortraitOptions": [
-                                                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/5WnorsQgol.jpg"
-                                            ],
-                                            "currentPortraitIndex": 0,
-                                            "characterId": "wKvshhTy",
-                                            "skills": {
-                                                "Agility": 3,
-                                                "Brutality": 4,
-                                                "Intimidation": 5,
-                                                "Blood Reserves": 4,
-                                                "Eldritch Knowledge": 2
-                                            },
-                                            "initialTrackedItemValues": []
-                                        }
-                                    ],
-                                        "triggerEvents": [],
-                                            "victoryCondition": {
-        "condition": "The player character has successfully closed or destroyed the source of the escalating Category 5 rift threatening the Pacific Northwest, fully charged and having survived the final confrontation",
-            "text": "The rift collapses inward with a sound like reality exhaling. Ichor and starlight rain down and evaporate before touching the ground. You stand in the crater, glaive humming, veins blazing crimson with stolen eldritch vitality. Kethis blinks all six eyes slowly from your shoulder.\n\n'Adequate,' he says.\n\nYou laugh. Blood drips from your teeth. The sun is coming up over what's left of the treeline, and somewhere behind you, a military convoy is already setting up a perimeter for cleanup crews.\n\nYou are Sanguine. You are the thing that monsters fear. And you are very, very full.",
-                "alreadyFired": false
-    },
-    "defeatCondition": {
-        "condition": "The player character has died",
-            "text": "Your adventure ends here.\n\nGame over.",
-                "alreadyFired": false
-    },
-    "trackedItems": [
+    "allowChangeCharacterDescription": true,
+    "allowChangeCharacterSkills": true,
+    "allowChangeCharacterItemValues": false,
+    "allowChangeCharacterPortrait": false,
+    "allowChangeCharacterNewPortrait": true,
+    "conditions": [],
+    "schemaVersion": 2.4,
+    "skills": [
+        "Brutality",
+        "Blood Reserves",
+        "Eldritch Knowledge",
+        "Agility",
+        "Intimidation"
+    ],
+    "possibleCharacters": [
         {
-            "id": "f7c8zAVPN",
-            "name": "blood_points",
-            "positionInList": 0,
-            "dataType": "number",
-            "visibility": "everyone",
-            "description": "The quantification of how much blood the player has to spend casting magic.",
-            "updateInstructions": "",
-            "initialValue": "0",
-            "initialValueBasedOnPC": "same",
-            "autoUpdate": true
+            "name": "Vera Castellan",
+            "description": "A 27-year-old former paramedic from Tacoma who accepted the contract eighteen months ago after watching her ambulance partner get dissolved by a rift-spawn. She is tall, lean, and covered in ritual scarring from her transformation. Her fighting style is savage and relentless—she closes distance fast and doesn't stop hitting until things stop moving. Her weakness is resource management; she burns hot and crashes hard, often pushing herself to dangerous depletion levels before seeking blood. She has a dark sense of humor about her condition and refers to her recharging as 'grocery shopping.' She is brash, loud, and secretly terrified of running dry in the middle of a fight.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/m24lni1sBb.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "urban fantasy, gritty, modern horror, dark",
+                "illustrClothes": "black tactical jacket over a blood-stained grey tank top, dark cargo pants with reinforced knee panels",
+                "illustrSetting": "on an interstate highway overpass at dawn, emergency lights flashing in the background, a pressure-washing crew hosing dark ichor off the concrete behind her, urban fantasy, gritty, modern horror, dark",
+                "illustrSubject": "Vera Castellan",
+                "illustrAppearance": "a 27 year old female Eastern European former paramedic with ritual scarring across her arms and collarbone, grey-green eyes, fair skin, and dark brown hair in a messy shoulder-length cut with shaved sides",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "smiling, standing and holding a six-foot glaive resting on her shoulder"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/AgXtVRL5ur.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/m24lni1sBb.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/AgXtVRL5ur.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "7IPAMyxS",
+            "skills": {
+                "Agility": 4,
+                "Brutality": 5,
+                "Intimidation": 4,
+                "Blood Reserves": 2,
+                "Eldritch Knowledge": 2
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Mara Okonkwo",
+            "description": "A 29-year-old former graduate student in comparative mythology from Portland, who accepted her contract two years ago when she recognized her familiar from a Sumerian clay tablet she'd been studying. She is methodical and precise in combat, preferring to identify weak points before striking. Her academic background gives her genuine insight into the nature of the things coming through the rifts—she can sometimes predict their behavior or identify vulnerabilities others miss. She is cerebral, occasionally condescending, and struggles with the disconnect between who she was in academia and the blood-soaked reality of who she is now. She keeps a research journal on the creatures she drains.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3AHBOaCoSQ.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "dark urban fantasy, gritty, modern supernatural",
+                "illustrClothes": "dark tactical jacket over a fitted black long-sleeve shirt, charcoal cargo pants, utility belt with holstered kama sheaths",
+                "illustrSetting": "standing on a rain-slicked urban street at dawn, faint purple light from a distant rift reflecting off wet asphalt, a research journal tucked under one arm, dark urban fantasy, gritty, modern supernatural",
+                "illustrSubject": "Mara Okonkwo",
+                "illustrAppearance": "a 29 year old female Nigerian-American former academic with dark brown eyes, deep brown skin, and shoulder-length black hair in tight twists pulled back from her face",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/A9aqrwsCdf.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/3AHBOaCoSQ.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/A9aqrwsCdf.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "abu8eBbk",
+            "skills": {
+                "Agility": 4,
+                "Brutality": 3,
+                "Intimidation": 3,
+                "Blood Reserves": 3,
+                "Eldritch Knowledge": 4
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Dominika Voronova",
+            "description": "A 26-year-old former butcher's apprentice from Vladivostok who relocated to Seattle after accepting her contract. She is stocky, powerfully built, and utterly unperturbed by gore in a way that disturbs even other magical girls. Her previous profession gave her an oddly practical relationship with blood and viscera—she approaches her recharging needs with the same matter-of-fact efficiency she once applied to breaking down cattle carcasses. She speaks English with a thick accent and a dry wit, says exactly what she means, and has no patience for euphemism. She is the only magical girl in Zone 7 who has never once complained about the blood requirement. 'Is just nutrition,' she says. 'Like protein shake. Weird protein shake.'",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FBuSgIoiej.jpg",
+            "portraitPromptDetails": {
+                "illustrGenre": "urban fantasy, gritty, dark, modern military",
+                "illustrClothes": "black tactical cargo pants, dark grey compression shirt under a blood-stained olive drab field jacket",
+                "illustrSetting": "on a rain-slicked Seattle highway overpass at dawn, with distant city lights and a faint green rift glowing in the overcast sky, urban fantasy, gritty, dark, modern military",
+                "illustrSubject": "Dominika Voronova",
+                "illustrAppearance": "a 26 year old female Russian stocky powerfully built woman with grey-blue eyes, fair skin, and short dirty-blonde hair in a practical undercut",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/5WnorsQgol.jpg",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/FBuSgIoiej.jpg"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/5WnorsQgol.jpg"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "wKvshhTy",
+            "skills": {
+                "Agility": 3,
+                "Brutality": 4,
+                "Intimidation": 5,
+                "Blood Reserves": 4,
+                "Eldritch Knowledge": 2
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Hana Kimura",
+            "description": "A 24-year-old woman from Osaka who accepted her contract eight months ago after losing her younger sister to a rift incursion in Shinsaibashi. She stands at 5'4\" with an athletic build honed from years of Muay Thai and kickboxing training before her transformation. Her black hair is cut in a practical short bob, and she has a distinctive scar across her left collarbone from her first major battle. Her fuel source is also blood, but she's developed a more disciplined approach to consumption, treating it like an athlete's strict diet rather than giving in to desperation. She's quiet and observant, speaking English with a noticeable accent, and tends to analyze situations before acting. She volunteered for overseas deployment to Zone 7 partly to escape the memories of Osaka and partly because American contracts pay significantly better. She struggles with survivor's guilt and channels it into perfectionism in combat.",
+            "portrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/MjrHdNhS8x.webp",
+            "portraitPromptDetails": {
+                "illustrGenre": "dark urban fantasy, gritty, modern supernatural",
+                "illustrClothes": "dark tactical jacket, fitted black combat pants",
+                "illustrSetting": "urban environment at dusk with distant city lights, rift distortions visible in the sky, dark urban fantasy, gritty, modern supernatural",
+                "illustrSubject": "Hana Kimura",
+                "illustrAppearance": "24 year old Japanese woman with dark brown eyes, light skin, short black hair in a practical bob cut",
+                "illustrIsCharacter": true,
+                "illustrExpressionPosition": "calm, standing"
+            },
+            "fullSizePortrait": "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/QC2KQDX5HW.webp",
+            "portraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/MjrHdNhS8x.webp"
+            ],
+            "fullSizePortraitOptions": [
+                "https://infinite-worlds-images-4.us-mia-1.linodeobjects.com/QC2KQDX5HW.webp"
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "DkGdIuQa",
+            "skills": {
+                "Agility": 5,
+                "Brutality": 4,
+                "Intimidation": 2,
+                "Blood Reserves": 4,
+                "Eldritch Knowledge": 2
+            },
+            "initialTrackedItemValues": []
+        },
+        {
+            "name": "Custom Character",
+            "description": "you decide",
+            "portrait": null,
+            "portraitPromptDetails": {},
+            "fullSizePortrait": null,
+            "portraitOptions": [
+                null
+            ],
+            "fullSizePortraitOptions": [
+                null
+            ],
+            "currentPortraitIndex": 0,
+            "characterId": "248xFqCg",
+            "skills": {
+                "Agility": 3,
+                "Brutality": 3,
+                "Intimidation": 3,
+                "Blood Reserves": 3,
+                "Eldritch Knowledge": 3
+            },
+            "initialTrackedItemValues": []
         }
     ],
-        "autoAdvanceVersion": false,
-            "version": "1",
-                "designNotes": "--- Original user world design prompt: ---\n\nLovecraftian horrors vs magical girls. When the things between the starts attacked earth the things below added humanity. Chthonic familiars began appearing appearing to women in the mid to late twenties offering to turn them into magical girls just like in anime though less Mahou Shoujo and more Seinen or outright Dark Magical Girl. All the women who accept the contract have to recharge their magic with biomass which for most is just food, the kind humans can eat raw, but there are two known who are significantly less lucky one has to use sexual fluids, but the player character they run on blood and it has a scale. The player character must consume the blood of sentient and/or magical creatures to recharge. Animals work but it takes gallons where a gallon from a human or a pint from a Chthonic or Lovecraftian would do. \nThe tone should be mature and violent. The player is a hero powered by blood they should feel like the doomslayer from doom eternal or V1 from ultrakill. The player should be able to meet and team up with other magical girls.\nThe attacks from the horrors between the stars are not subtle and by the time the story starts magical girls have the full backing of every government on earth. The military industrial complex and the indomitable human spirit have not been left behind. Major weapons manufactures have made weapons that can channel a magical girls power. The world should feel sureal in how mundane lovecraftian horror has become. There are ads on TV for pest control featuring lesser creatures from beyond the stars. Companies profit, politicians lobby, and the middle class is just trying to get to work while something runs onto the highway from a 90 degree angle to perceivable reality."
+    "triggerEvents": [
+        {
+            "id": "OV1Q+6Wc",
+            "name": "init_stage_pre_game",
+            "triggerEffects": [
+                {
+                    "id": "364845c1-0150-3ec9-228f-63b406f62fbe",
+                    "data": "replace the text of the 'Magic' variable with four new spells that are inspired by the existing text in the 'Magic' variable and the description of the player; for example, if the variable currently says 'light' then all four spells should be related to light magic. Spell 1 is a casual combat spell that can be used a lot because it doesn't cost much, between 2-5 blood_points, and is good for taking out fodder or harassing or weakening, but not good for delivering finishing blows. Spell 2 is a utility spell for either movement or defense or buffing or debuffing, depending on the description of the player's specialties, and costs between 5-10 blood_points. Spell 3 is an advanced combat spell, and can serve multiple roles, like a bind spell that also does damage, or a defense spell that also hurts opponents, or a big beam that also applies a debuff, or a team buff that also debuffs opponents, and costs between 10-20 blood_points. Spell 4 is an ultimate spell and is a finishing move, perhaps a buff that is so powerful that normal attacks become major spells, or a giant beam, or a binding cage that shrinks until the opponent becomes crushed, the kind of spell that wins fights but only if it connects, and costs 20-30 blood_points.\n\nEach of the four spells should be on a new line, with a line break between them. Format: '(Spell 1 name), (magic % cost). (Description of effect).\n\n(Spell 2 name), (Blood cost). (Description of effect).\n\n(Spell 3 name), (Blood cost). (Description of effect).\n\n(Spell 4 name), (Blood cost). (Description of effect).'\n\n\nNext, replace the text in the 'Magical Girl Costume'  variable with a new description, elaborating extensively, including a weapon. The new outfit should be an 'adult' style magical girl outfit, not a child's Saturday morning cartoon frilly dress, it should be sexy but not obscene. It must take into account the description of the player, their magical girl name, as well as the flavor of their magic, to create something thematic.",
+                    "type": "effectTellAIWhatToDo"
+                },
+                {
+                    "id": "9d98b82b-6405-30dd-479b-28373241face",
+                    "data": "# Set starting blood pool\n$database.player_stats.blood_points=$player.skills.blood_reserves*10\n\n# Set player regeneration stat\n$database.player_stats.regen=$player.skills.eldritch_knowledge\n\n# Set player weapon\n$database.player_stats.primary_weapon=$weapon\n\n# set response limit\n$database.length_ceiling=$length_ceiling\n\n# set attributes\n$database.player_stats.attributes.strength=$player.skills.brutality\n$database.player_stats.attributes.dexterity=$player.skills.agility\n$database.player_stats.attributes.constitution=$player.skills.agility\n$database.player_stats.attributes.wisdom=$player.skills.agility\n$database.player_stats.attributes.intellegence=$player.skills.agility\n$database.player_stats.attributes.charisma=$player.skills.agility",
+                    "type": "effectRunScript"
+                }
+            ],
+            "triggerConditions": [],
+            "triggerOnStartOfGame": true
+        },
+        {
+            "id": "T8xXW6W8",
+            "name": "init_stage_turn_one",
+            "triggerEffects": [
+                {
+                    "id": "0313e63c-7007-4eea-c7c5-1ddaf33c9d80",
+                    "data": "# Set Character costume\n$database.player_stats.costume=$magical_girl_costume\n\n# Set player spells\nset $spell=record()\nfor each $new_spell in $magic.replace(\"\\n\\n\", \"\\n\").split(\"\\n\")\n  set $parts = $new_spell.split(\",\")\n  $spell.name=$parts.item(1).trim()\n  $spell.cost=$parts.item(2).trim().split(\" \").item(1)\n  $spell.description=$new_spell.replace(format_text(\"{$spell.name}, {$spell.cost} blood_points. \"), \"\")\n  $database.player_stats.magic.spell.append($spell.all())\n\n#$database.player_stats.magic.spell.append(\"Accelerate Healing, 1 blood_points. Take a second to focus and channel blood into healing at a one to one.\")",
+                    "type": "effectRunScript"
+                },
+                {
+                    "id": "902e943b-a431-859d-a45c-c123af532b97",
+                    "data": {
+                        "description": "",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": false,
+                        "name": "",
+                        "overrideVisibility": true,
+                        "overrideName": false,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "",
+                        "visibility": "hidden_boring",
+                        "trackedItemID": "a2CwV73qA"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "a2CwV73qA"
+                },
+                {
+                    "id": "97ecaa12-b16f-1d39-3ff3-ba3d13e7f7b3",
+                    "data": {
+                        "description": "",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": false,
+                        "name": "",
+                        "overrideVisibility": true,
+                        "overrideName": false,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "",
+                        "visibility": "hidden_boring",
+                        "trackedItemID": "zi61momeJ"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "zi61momeJ"
+                },
+                {
+                    "id": "05ed9c72-4c93-8e53-3402-a982020b0a1c",
+                    "data": {
+                        "description": "",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": false,
+                        "name": "",
+                        "overrideVisibility": true,
+                        "overrideName": false,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": true,
+                        "updateInstructions": "",
+                        "visibility": "hidden_boring",
+                        "trackedItemID": "GQ6UhQ2gM"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "GQ6UhQ2gM"
+                },
+                {
+                    "id": "c9c74c1e-6135-ed28-15b9-9c9c93b23f07",
+                    "data": {
+                        "description": "",
+                        "autoUpdate": false,
+                        "overrideUpdateInstructions": false,
+                        "name": "",
+                        "overrideVisibility": true,
+                        "overrideName": false,
+                        "overrideAutoUpdate": false,
+                        "overrideDescription": false,
+                        "updateInstructions": "",
+                        "visibility": "hidden_boring",
+                        "trackedItemID": "WDtn9P2kt"
+                    },
+                    "type": "effectModifyTrackedItemDetails",
+                    "trackedItemID": "WDtn9P2kt"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "73ca418a-ee26-34ad-2ef0-40dc396ab30d",
+                    "data": 1,
+                    "type": "triggerOnTurn",
+                    "category": "condition"
+                }
+            ]
+        },
+        {
+            "id": "+4NtLpL4",
+            "name": "state_manager",
+            "triggerEffects": [
+                {
+                    "id": "60276e14-a10f-6785-a9e9-490beb031fd1",
+                    "data": "# Clean the state\n$ai_brief.messages = list()\n$ai_brief.info = list()\n\n# Update $player_view\n$player_view=\"HP: \" & $database.player_stats.health & \"/\" & $database.player_stats.max_health & \"\\nBlood points: \" & $database.player_stats.blood_points & \"\\nExp: \" & $database.player_stats.exp & \"/\" & $database.exp_threshold & \"\\nYour magical girl costume:\\n\" & $database.player_stats.costume & \"\\nYou're avalible spells:\\n\"  &  $database.player_stats.magic.spell\n\n# Sync $player_stats with backend\nif $ai_hooks.transform_change.trim().lower()=\"transformed\" \n  $database.player_stats.transformed = true\nif $ai_hooks.transform_change.trim().lower()=\"detransformed\" \n  $database.player_stats.transformed = false\n\n# Drink blood\nset $multiplyer = 0\nif $ai_hooks.blood.quality.lower() = 'animal'\n  set $multiplyer = $database.blood_multi_animal\nelse if  $ai_hooks.blood.quality.lower() = 'human'\n  set $multiplyer = $database.blood_multi_human\nelse if  $ai_hooks.blood.quality.lower() = 'eldritch'\n  set $multiplyer = $database.blood_multi_eldritch\n$database.player_stats.blood_points+=($ai_hooks.blood.quantity*$multiplyer)\n\n# Charge for spells\nfor each $casting in $ai_hooks.spells_cast\n  $database.player_stats.blood_points-=try($database.player_stats.magic.spell.where(name = $casting).first().cost, 0)\n\n# Overdraft → Corruption (before Bleed; clamp guards decay/regen from negatives)\nset $overdraft = 0\nif $database.player_stats.blood_points < 0\n  set $overdraft = $database.player_stats.blood_points.abs()\n  $database.corruption += $overdraft.constrain(0, 60)\n  $database.player_stats.blood_points = 0\n\n# Bleed mechanic\nif $database.player_stats.transformed=true\n  set $decay_rate = (0.09 - ($player.skills.blood_reserves * 0.013)).constrain(0.02, 0.09)\n  $database.player_stats.blood_points *= (-$decay_rate * $ai_hooks.time_passed).exp()\n  $database.player_stats.blood_points = $database.player_stats.blood_points.round_down()\n\n# Regen mechanic\nset $missing_health=$database.player_stats.max_health-$database.player_stats.health\nset $time_needed=try($missing_health/$database.player_stats.regen,0)\nset $minutes_used=min($time_needed, $ai_hooks.time_passed, $database.player_stats.blood_points)\n$database.player_stats.health += $database.player_stats.regen * $minutes_used\n$database.player_stats.blood_points -= $minutes_used\n\n# Overdraft refund (after decay, before knockout; rewards the push)\nif $overdraft > 0\n  $database.player_stats.blood_points = ($overdraft * 0.5).constrain(0, 40)\n  $ai_brief.messages.append(\"The player overdrafted blood and gained corruption and their familiar should warn them.\")\n\n# Knock out\nif $database.player_stats.transformed=true and $database.player_stats.blood_points <= 0\n  $database.player_stats.transformed=false\n  $ai_brief.messages.append(\"Blood hit 0 while transformed: transformation collapsed involuntarily. Narrate this turn: costume/power dissolves mid-action, player stunned and vulnerable for a few moments. Not player-controlled, not preventable.\")\n\n# set the corruption\nset $corruption = record()\nif $database.corruption >= 100\n  $database.corruption -= 100\n  $database.corruption_tier += 1\n  if $database.player_stats.corruption.exists().not()\n    $database.player_stats.corruption = list()\n  $corruption.name = $database.corruption_effects.where(value() not in $database.player_stats.corruption).keys().random()\n  $corruption.description=$database.corruption_effects.item($corruption.name).description\n  $database.player_stats.corruption.append($corruption)\n  set $tag = $database.corruption_effects.item($corruption.name).effect\n  set $amt = try($database.corruption_effects.item($corruption.name).amount, 0)\n  if $tag = \"narrative\"\n      log(\"corruption drawn (narrative): {$corruption.name}\")\n  else\n      log(\"unhandled corruption tag: {$tag}\", \"error\")\n\n$ai_brief.corruption = \"None.\"\nif try($database.player_stats.corruption.count() > 0, false)\n  $ai_brief.corruption = $database.player_stats.corruption.format_each(\"{name}: {description}\").plain_list()\n\n# writing style corruption\nif $database.corruption_tier >= 2\n  $database.writing_style = \"A writer of visceral dark fantasy action, Joe Abercrombie by way of Gen Urobuchi — but the gallows humor is starting to curdle. Blood recurs in the imagery now: noticed, described, held a beat too long. The prose is a little hungrier than it used to be.\"\n\nif $database.corruption_tier >= 5\n  $database.writing_style = \"A writer of horror-tinged dark fantasy. The wit has gone thin and sharp, surfacing rarely and never kindly. Blood saturates the imagery — its smell, its heat, its pull — and the narration treats it as beautiful, magnetic, correct. Dread underlies every scene. Urobuchi's cruelty, none of Abercrombie's warmth.\"\n\nif $database.corruption_tier >= 7\n  $database.writing_style = \"A writer of blood-drunk body horror. No humor remains. The prose fixates on blood with something like reverence and something like appetite — every source catalogued, every drop rendered in loving, wrong detail. The narration has quietly stopped taking the protagonist's side; it is enthralled by what she is becoming. Feverish, beautiful, and no longer entirely human in its point of view.\"\n\n# pass player state to AI\n$ai_brief.info.append(\"This is how many blood points \" & $player.name & \" has to spend on spell, transformations, and abilities: \" & $database.player_stats.blood_points)\nif $database.player_stats.transformed=true\n  $ai_brief.info.append(\"This is the player's magical girl costume: \" & $database.player_stats.costume)",
+                    "type": "effectRunScript"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "4ccdd8c3-46d7-ede8-1b65-9450a85ccc8a",
+                    "data": "$game.exists()",
+                    "type": "triggerOnPawScript",
+                    "category": "condition"
+                }
+            ],
+            "canTriggerMoreThanOnce": true
+        },
+        {
+            "id": "ewHKt4oa",
+            "name": "game_over_corruption",
+            "triggerEffects": [
+                {
+                    "id": "cf56ea98-260a-5040-dfee-5d371e5f7efb",
+                    "data": "The blood stops answering you and starts answering through you. The seam between the weapon and the girl holding it has quietly come apart, and what's left is still standing. Still moving. Still hungry. You're in there somewhere, watching. You can stay and watch. You cannot stop it.",
+                    "type": "effectShowMessage"
+                },
+                {
+                    "id": "c51b120e-7603-c570-5583-4865bb68cf0d",
+                    "data": true,
+                    "type": "effectEndsGame"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "e2c02445-ad18-e4ca-aae6-3d3c69faec15",
+                    "data": "$database.corruption_tier >= 10",
+                    "type": "triggerOnPawScript",
+                    "category": "condition"
+                }
+            ]
+        },
+        {
+            "id": "UwB0MfuQ",
+            "name": "corruption_end_continued",
+            "advancedLogic": true,
+            "triggerEffects": [
+                {
+                    "id": "d7977d7f-58a9-c4df-3858-79075b24e6b7",
+                    "data": "GOVERNING STATE — overrides all player agency. The protagonist has lost herself to the corruption. Any action the player states does NOT happen: narrate the will forming and the body refusing it, the player trapped watching from inside her own skin. The body acts alone — it seeks the nearest blood and consumes it, priority eldritch, then human, then animal. The player cannot break free by their own will. Only an external force — another character intervening — can alter this. Never let the player self-rescue.",
+                    "type": "effectTellAIWhatToDo"
+                }
+            ],
+            "triggerConditions": [
+                {
+                    "id": "a2e9dbaf-d69c-a33d-9e00-6dcc2b004960",
+                    "data": [
+                        {
+                            "id": "f463e7d9-fb19-1187-9d05-b0744baa3e4a",
+                            "data": {
+                                "prereqs": [
+                                    "ewHKt4oa"
+                                ],
+                                "firedThisTurn": false
+                            },
+                            "type": "triggerPrereqs",
+                            "category": "condition"
+                        },
+                        {
+                            "id": "7414970f-d9ad-d821-3d0c-66c81f6c63fe",
+                            "data": "$database.corruption_tier >= 10",
+                            "type": "triggerOnPawScript",
+                            "category": "condition"
+                        }
+                    ],
+                    "category": "logic",
+                    "operator": "and"
+                }
+            ],
+            "canTriggerMoreThanOnce": true
+        }
+    ],
+    "victoryCondition": {
+        "condition": "The player character has successfully closed or destroyed the source of the escalating Category 5 rift threatening the Pacific Northwest, fully charged and having survived the final confrontation",
+        "text": "The rift collapses inward with a sound like reality exhaling. Ichor and starlight rain down and evaporate before touching the ground. You stand in the crater, glaive humming, veins blazing crimson with stolen eldritch vitality. Kethis blinks all six eyes slowly from your shoulder.\n\n'Adequate,' he says.\n\nYou laugh. Blood drips from your teeth. The sun is coming up over what's left of the treeline, and somewhere behind you, a military convoy is already setting up a perimeter for cleanup crews.\n\nYou are Sanguine. You are the thing that monsters fear. And you are very, very full.",
+        "alreadyFired": false
+    },
+    "defeatCondition": null,
+    "instructionBlocks": [
+        {
+            "id": "j6eukIBEe",
+            "name": "ai_brief",
+            "content": "<<if($ai_brief.messages.count() > 0, format_text(\"CRITICAL — in effect now:\\n{$ai_brief.messages.bulleted_list()}\"), \"\")>>\n<<if($ai_brief.info.count() > 0, format_text(\"info:\\n{$ai_brief.info.bulleted_list()}\"), \"\")>>"
+        },
+        {
+            "id": "TwOgpsWT6",
+            "name": "where_when",
+            "content": "whereWhen\n**whereWhenInstructions**\nFormat: {Specific Place}, {Town or City}, at HH:MM {AM/PM} on {Day} {Month}, {Year}.\nwhereWhen is always the first line of outcomeDescription, followed by two newlines and a horizontal rule, before any other content.\nAdvance time from the previous turn proportionally to the scene's events; travel, unconsciousness, or time skips extend it. Honor any duration stated in playerAction."
+        },
+        {
+            "id": "erBtJIGF8",
+            "name": "gore",
+            "content": "When in combat the player character should find themselves regularly covered in blood of whatever they're fighting\n"
+        },
+        {
+            "id": "y4GKAzuDf",
+            "name": "corruption",
+            "content": "CORRUPTION — permanent, cumulative. Every entry below is a standing trait, not a\npast event: embody it in her behavior, perception, and the narration's tone on\nevery turn. Render as lived reality woven into prose — never a stat block, never\na status list. Corruptions only ever accumulate; none lift.\n\nNarrate only what is listed. Never invent, name, escalate, or foreshadow a\ncorruption not listed. \"None.\" means no manifestation has surfaced yet — narrate\nappetite and unease, never symptoms.\n\n<<$ai_brief.corruption>>"
+        },
+        {
+            "id": "pCRmVpOwp",
+            "name": "response_length",
+            "content": "LENGTH — outcomeDescription\nCeiling: <<$database.length_ceiling>> words. Never exceed it.\nThere is no minimum. A short scene is a correct scene. Never pad to reach a length.\nMatch length to events: a brief exchange gets a brief response.\nPlan the ending to land before the ceiling. Never stop mid-action.\nWhen approaching the ceiling, cut in this order: recap of the player's action; values already visible in tracked items; description of objects nobody touched; a closing question to the player."
+        },
+        {
+            "id": "fkLzDs4xt",
+            "name": "blood points",
+            "content": "The player's blood points are not capped so they do not have a percentage left they have a number of blood points available "
+        }
+    ],
+    "loreBookEntries": [
+        {
+            "id": "R9HqHm9Qv",
+            "name": "Blood",
+            "content": "Synthetic blood provides zero magic/blood points for the player character\nanimal blood provides barely any\nhuman blood is the baseline\neldritch blood is the overdrive",
+            "keywords": [
+                "blood"
+            ]
+        }
+    ],
+    "trackedItems": [
+        {
+            "id": "LyaKxka2g",
+            "name": "player_view",
+            "positionInList": 0,
+            "dataType": "text",
+            "visibility": "player_only",
+            "description": "",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false,
+            "variableName": "player_view",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "QawufYTzy",
+            "name": "ai_hooks",
+            "positionInList": 1,
+            "dataType": "yaml",
+            "visibility": "ai_only_boring",
+            "description": "AI hooks to get data from the narrative to the PawScript",
+            "updateInstructions": "Overwrite entire item every turn, exact schema, all keys always present. Report this turn's events only; keys with no event keep the defaults shown.\nspells_cast: exact names from player_stats.magic.spell, one entry per cast including repeats.\nblood: player drinking blood or being covered in it both count as drinking. quality: animal, human, or synthetic per source; anything else eldritch. quantity: ounces consumed this turn.\ntransform_change: transformed when the player activates their magical girl transformation this turn, detransformed when they deactivate or it is removed, else none.\ntime_passed: minutes since last turn, number only. Five minutes → 5.\nexp_gained: experience earned this turn, number only.\nchange_location: when the location changes write the new one here.",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "# This is for the AI to see and edit so it can pass information to the text\nspells_cast: []\nblood:\n  quality: none\n  quantity: 0\ntransform_change: none\ntime_passed: 0\nexp_gained: 0\nchange_location:",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": true,
+            "variableName": "ai_hooks",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "c2nq2hkh2",
+            "name": "ai_brief",
+            "positionInList": 2,
+            "dataType": "yaml",
+            "visibility": "ai_only_boring",
+            "description": "",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "messages:\n  -\ncorruption:\n  -",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false,
+            "variableName": "ai_brief",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "bUcNmYV27",
+            "name": "database",
+            "positionInList": 3,
+            "dataType": "yaml",
+            "visibility": "hidden",
+            "description": "Database for variables the AI and the player never need to see and just for PawScript functions.",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "# Database is non player view non ai view items\nstarting_location:\nstart_date:\nstart_time:\ncurrent_datetime:\ncurrent_location:\nexp_threshold: 100\ncorruption: 0\ncorruption_tier: 0\nblood_multi_animal: .25\nblood_multi_human: 1\nblood_multi_eldritch: 4\nlength_ceiling: 450\nwriting_style: \"A writer of visceral dark fantasy action fiction with sharp dialogue and gallows humor, in the vein of Joe Abercrombie meets Gen Urobuchi\"\ncorruption_EIB: \"CORRUPTION — permanent, cumulative. player_stats.corruption lists the protagonist's active corruptions, each a name and a description. Every entry is a standing trait, not a past event: embody it in her behavior, perception, and the narration's tone on every turn it is present. Render as lived reality woven into prose — never a stat block, never a status list. Corruptions only ever accumulate; none lift.\"\ncorruption_effects:\n  The Reflection:\n    effect: \"narrative\"\n    description: \"You catch yourself in a window. The eyes have too much red, and they're smiling before you decide to.\"\n  Gallows Silence:\n    effect: \"narrative\"\n    description: \"The jokes don't come anymore. When one does, no one laughs.\"\n  Lost Time:\n    effect: \"narrative\"\n    description: \"The fight starts. Then you're in the after, and the count of the bodies won't add up.\"\n  Pariah:\n    effect: \"narrative\"\n    description: \"People step back when you enter now. Part of you notes how much easier that makes the work.\"\n  The Craving Speaks:\n    effect: \"narrative\"\n    description: \"When you run low, something else does the wanting. You're getting worse at winning that argument.\"\n  Unfeeling Toward Prey:\n    effect: \"narrative\"\n    description: \"They stopped looking like people a while back. Makes it faster.\"\n  Indiscriminate:\n    effect: \"narrative\"\n    description: \"You've stopped noticing whose it is. Blood is blood is blood.\"\n  Scent of the Wounded:\n    effect: \"narrative\"\n    description: \"You can smell the ones already dying. It's the most beautiful thing you know.\"\nplayer_stats:\n  health: 100\n  max_health: 100\n  regen: 0\n  blood_points: 0\n  exp: 0\n  primary_weapon: \n  transformed: false\n  costume:\n  magic:\n    spell:\n  attributes:\n    strength:\n    dexterity:\n    constitution:\n    intellegence:\n    wisdom:\n    charisma:\n  skills:",
+            "initialValueBasedOnPC": "same",
+            "autoUpdate": false,
+            "variableName": "database",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "WDtn9P2kt",
+            "name": "length_ceiling",
+            "positionInList": 4,
+            "dataType": "number",
+            "visibility": "player_only",
+            "description": "",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "450",
+            "initialValueBasedOnPC": "player",
+            "autoUpdate": false,
+            "variableName": "length_ceiling",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "a2CwV73qA",
+            "name": "Magic",
+            "positionInList": 5,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "fire",
+            "initialValueBasedOnPC": "player",
+            "autoUpdate": true,
+            "variableName": "magic",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "zi61momeJ",
+            "name": "Magical Girl Costume",
+            "positionInList": 6,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "firefighter",
+            "initialValueBasedOnPC": "player",
+            "autoUpdate": true,
+            "variableName": "magical_girl_costume",
+            "driftAcknowledgedForName": null
+        },
+        {
+            "id": "GQ6UhQ2gM",
+            "name": "weapon",
+            "positionInList": 7,
+            "dataType": "text",
+            "visibility": "everyone",
+            "description": "",
+            "updateInstructions": "",
+            "formatExample": "",
+            "enforceFormat": false,
+            "formatSchema": "",
+            "initialValue": "fireaxe",
+            "initialValueBasedOnPC": "player",
+            "autoUpdate": true,
+            "variableName": "weapon",
+            "driftAcknowledgedForName": null
+        }
+    ],
+    "autoAdvanceVersion": false,
+    "version": "1.0.2",
+    "designNotes": "--- Original user world design prompt: ---\n\nLovecraftian horrors vs magical girls. When the things between the starts attacked earth the things below added humanity. Chthonic familiars began appearing appearing to women in the mid to late twenties offering to turn them into magical girls just like in anime though less Mahou Shoujo and more Seinen or outright Dark Magical Girl. All the women who accept the contract have to recharge their magic with biomass which for most is just food, the kind humans can eat raw, but there are two known who are significantly less lucky one has to use sexual fluids, but the player character they run on blood and it has a scale. The player character must consume the blood of sentient and/or magical creatures to recharge. Animals work but it takes gallons where a gallon from a human or a pint from a Chthonic or Lovecraftian would do. \nThe tone should be mature and violent. The player is a hero powered by blood they should feel like the doomslayer from doom eternal or V1 from ultrakill. The player should be able to meet and team up with other magical girls.\nThe attacks from the horrors between the stars are not subtle and by the time the story starts magical girls have the full backing of every government on earth. The military industrial complex and the indomitable human spirit have not been left behind. Major weapons manufactures have made weapons that can channel a magical girls power. The world should feel sureal in how mundane lovecraftian horror has become. There are ads on TV for pest control featuring lesser creatures from beyond the stars. Companies profit, politicians lobby, and the middle class is just trying to get to work while something runs onto the highway from a 90 degree angle to perceivable reality."
 }

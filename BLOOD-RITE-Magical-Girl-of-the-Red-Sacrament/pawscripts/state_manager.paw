@@ -1,0 +1,92 @@
+# Clean the state
+$ai_brief.messages = list()
+$ai_brief.info = list()
+
+# Update $player_view
+$player_view="HP: " & $database.player_stats.health & "/" & $database.player_stats.max_health & "\nExp: " & $database.player_stats.exp & "/" & $database.exp_threshold & "\nYour magical girl costume:\n" & $database.player_stats.costume & "\nYou're avalible spells:\n"  &  $database.player_stats.magic.spell
+
+# Sync $player_stats with backend
+if $ai_hooks.transform_change.trim().lower()="transformed" 
+  $database.player_stats.transformed = true
+if $ai_hooks.transform_change.trim().lower()="detransformed" 
+  $database.player_stats.transformed = false
+
+# Drink blood
+set $multiplyer = 0
+if $ai_hooks.blood.quality.lower() = 'animal'
+  set $multiplyer = $database.blood_multi_animal
+else if  $ai_hooks.blood.quality.lower() = 'human'
+  set $multiplyer = $database.blood_multi_human
+else if  $ai_hooks.blood.quality.lower() = 'eldritch'
+  set $multiplyer = $database.blood_multi_eldritch
+$database.player_stats.blood_points+=($ai_hooks.blood.quantity*$multiplyer)
+
+# Charge for spells
+for each $casting in $ai_hooks.spells_cast
+  $database.player_stats.blood_points-=try($database.player_stats.magic.spell.where(name = $casting).first().cost, 0)
+
+# Overdraft → Corruption (before Bleed; clamp guards decay/regen from negatives)
+set $overdraft = 0
+if $database.player_stats.blood_points < 0
+  set $overdraft = $database.player_stats.blood_points.abs()
+  $database.corruption += $overdraft.constrain(0, 60)
+  $database.player_stats.blood_points = 0
+
+# Bleed mechanic
+if $database.player_stats.transformed=true
+  set $decay_rate = (0.09 - ($player.skills.blood_reserves * 0.013)).constrain(0.02, 0.09)
+  $database.player_stats.blood_points *= (-$decay_rate * $ai_hooks.time_passed).exp()
+  $database.player_stats.blood_points = $database.player_stats.blood_points.round_down()
+
+# Regen mechanic
+set $missing_health=$database.player_stats.max_health-$database.player_stats.health
+set $time_needed=try($missing_health/$database.player_stats.regen,0)
+set $minutes_used=min($time_needed, $ai_hooks.time_passed, $database.player_stats.blood_points)
+$database.player_stats.health += $database.player_stats.regen * $minutes_used
+$database.player_stats.blood_points -= $minutes_used
+
+# Overdraft refund (after decay, before knockout; rewards the push)
+if $overdraft > 0
+  $database.player_stats.blood_points = ($overdraft * 0.5).constrain(0, 40)
+  $ai_brief.messages.append("The player overdrafted blood and gained corruption and their familiar should warn them.")
+
+# Knock out
+if $database.player_stats.transformed=true and $database.player_stats.blood_points <= 0
+  $database.player_stats.transformed=false
+  $ai_brief.messages.append("Blood hit 0 while transformed: transformation collapsed involuntarily. Narrate this turn: costume/power dissolves mid-action, player stunned and vulnerable for a few moments. Not player-controlled, not preventable.")
+
+# set the corruption
+set $corruption = record()
+if $database.corruption >= 100
+  $database.corruption -= 100
+  $database.corruption_tier += 1
+  if $database.player_stats.corruption.exists().not()
+    $database.player_stats.corruption = list()
+  $corruption.name = $database.corruption_effects.where(value() not in $database.player_stats.corruption).keys().random()
+  $corruption.description=$database.corruption_effects.item($corruption.name).description
+  $database.player_stats.corruption.append($corruption)
+  set $tag = $database.corruption_effects.item($corruption.name).effect
+  set $amt = try($database.corruption_effects.item($corruption.name).amount, 0)
+  if $tag = "narrative"
+      log("corruption drawn (narrative): {$corruption.name}")
+  else
+      log("unhandled corruption tag: {$tag}", "error")
+
+$ai_brief.corruption = "None."
+if try($database.player_stats.corruption.count() > 0, false)
+  $ai_brief.corruption = $database.player_stats.corruption.format_each("{name}: {description}").plain_list()
+
+# writing style corruption
+if $database.corruption_tier >= 2
+  $database.writing_style = "A writer of visceral dark fantasy action, Joe Abercrombie by way of Gen Urobuchi — but the gallows humor is starting to curdle. Blood recurs in the imagery now: noticed, described, held a beat too long. The prose is a little hungrier than it used to be."
+
+if $database.corruption_tier >= 5
+  $database.writing_style = "A writer of horror-tinged dark fantasy. The wit has gone thin and sharp, surfacing rarely and never kindly. Blood saturates the imagery — its smell, its heat, its pull — and the narration treats it as beautiful, magnetic, correct. Dread underlies every scene. Urobuchi's cruelty, none of Abercrombie's warmth."
+
+if $database.corruption_tier >= 7
+  $database.writing_style = "A writer of blood-drunk body horror. No humor remains. The prose fixates on blood with something like reverence and something like appetite — every source catalogued, every drop rendered in loving, wrong detail. The narration has quietly stopped taking the protagonist's side; it is enthralled by what she is becoming. Feverish, beautiful, and no longer entirely human in its point of view."
+
+# pass player state to AI
+$ai_brief.info.append("This is how many blood points " & $player.name & " has to spend on spell, transformations, and abilities: " & $database.player_stats.blood_points)
+if $database.player_stats.transformed=true
+  $ai_brief.info.append("This is the player's magical girl costume: " & $database.player_stats.costume)

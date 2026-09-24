@@ -1,0 +1,9 @@
+# This is for the AI to see and edit so it can pass information to the text
+spells_cast: []
+blood:
+  quality: none
+  quantity: 0
+transform_change: none
+time_passed: 0
+exp_gained: 0
+change_location:

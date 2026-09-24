@@ -1,0 +1,13 @@
+# Set Character costume
+$database.player_stats.costume=$magical_girl_costume
+
+# Set player spells
+set $spell=record()
+for each $new_spell in $magic.replace("\n\n", "\n").split("\n")
+  set $parts = $new_spell.split(",")
+  $spell.name=$parts.item(1).trim()
+  $spell.cost=$parts.item(2).trim().split(" ").item(1)
+  $spell.description=$new_spell.replace(format_text("{$spell.name}, {$spell.cost} blood_points. "), "")
+  $database.player_stats.magic.spell.append($spell.all())
+
+#$database.player_stats.magic.spell.append("Accelerate Healing, 1 blood_points. Take a second to focus and channel blood into healing at a one to one.")
