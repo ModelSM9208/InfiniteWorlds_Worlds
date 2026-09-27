@@ -17,3 +17,8 @@ $database.player_stats.attributes.constitution=$player.skills.agility
 $database.player_stats.attributes.wisdom=$player.skills.agility
 $database.player_stats.attributes.intellegence=$player.skills.agility
 $database.player_stats.attributes.charisma=$player.skills.agility
+
+# Set ai_brief
+$ai_brief.info.append("This is how many blood points " & $player.name & " has to spend on spell, transformations, and abilities: " & $database.player_stats.blood_points)
+$ai_brief.info.append("This is the player's magical girl costume:\n" & $database.player_stats.costume)
+$ai_brief.info.append("These are the spells avalible to the player:\n" & $database.player_stats.magic.spell)

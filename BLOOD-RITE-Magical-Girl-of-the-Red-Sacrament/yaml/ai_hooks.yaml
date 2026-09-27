@@ -7,3 +7,4 @@ transform_change: none
 time_passed: 0
 exp_gained: 0
 change_location:
+damage_taken:

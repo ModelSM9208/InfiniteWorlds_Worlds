@@ -2,9 +2,6 @@
 $ai_brief.messages = list()
 $ai_brief.info = list()
 
-# Update $player_view
-$player_view="HP: " & $database.player_stats.health & "/" & $database.player_stats.max_health & "\nExp: " & $database.player_stats.exp & "/" & $database.exp_threshold & "\nYour magical girl costume:\n" & $database.player_stats.costume & "\nYou're avalible spells:\n"  &  $database.player_stats.magic.spell
-
 # Sync $player_stats with backend
 if $ai_hooks.transform_change.trim().lower()="transformed" 
   $database.player_stats.transformed = true
@@ -20,6 +17,13 @@ else if  $ai_hooks.blood.quality.lower() = 'human'
 else if  $ai_hooks.blood.quality.lower() = 'eldritch'
   set $multiplyer = $database.blood_multi_eldritch
 $database.player_stats.blood_points+=($ai_hooks.blood.quantity*$multiplyer)
+
+# Take damage
+$database.player_stats.health=$database.player_stats.health-$ai_hooks.damage_taken
+if $database.player_stats.health < $database.player_stats.max_health
+  $ai_brief.info.append(player.name & "'s health is at " & $database.player_stats.health & " out of " & $database.player_stats.max_health)
+if $database.player_stats.health = 0
+  $ai_brief.messages.append("The player has died ignore all info text and kill the player")
 
 # Charge for spells
 for each $casting in $ai_hooks.spells_cast
@@ -37,6 +41,7 @@ if $database.player_stats.transformed=true
   set $decay_rate = (0.09 - ($player.skills.blood_reserves * 0.013)).constrain(0.02, 0.09)
   $database.player_stats.blood_points *= (-$decay_rate * $ai_hooks.time_passed).exp()
   $database.player_stats.blood_points = $database.player_stats.blood_points.round_down()
+  $ai_brief.info.append(player.name & " has burned blood to maintain their transformation.")
 
 # Regen mechanic
 set $missing_health=$database.player_stats.max_health-$database.player_stats.health
@@ -44,6 +49,8 @@ set $time_needed=try($missing_health/$database.player_stats.regen,0)
 set $minutes_used=min($time_needed, $ai_hooks.time_passed, $database.player_stats.blood_points)
 $database.player_stats.health += $database.player_stats.regen * $minutes_used
 $database.player_stats.blood_points -= $minutes_used
+if $missing_health > 0 and $minutes_used > 0
+  $ai_brief.info.append(player.name & " has regenerated some of the damage they took by burning blood reflexively.")
 
 # Overdraft refund (after decay, before knockout; rewards the push)
 if $overdraft > 0
@@ -89,4 +96,8 @@ if $database.corruption_tier >= 7
 # pass player state to AI
 $ai_brief.info.append("This is how many blood points " & $player.name & " has to spend on spell, transformations, and abilities: " & $database.player_stats.blood_points)
 if $database.player_stats.transformed=true
-  $ai_brief.info.append("This is the player's magical girl costume: " & $database.player_stats.costume)
+  $ai_brief.info.append("This is the player's magical girl costume:\n" & $database.player_stats.costume)
+  $ai_brief.info.append("These are the spells avalible to the player:\n" & $database.player_stats.magic.spell)
+
+# Update $player_view
+$player_view="HP: " & $database.player_stats.health & "/" & $database.player_stats.max_health & "\nBlood points: " & $database.player_stats.blood_points & "\nExp: " & $database.player_stats.exp & "/" & $database.exp_threshold & "\nYour magical girl costume:\n" & $database.player_stats.costume & "\nYou're avalible spells:\n"  &  $database.player_stats.magic.spell
